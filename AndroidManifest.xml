@@ -15,7 +15,7 @@
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.lineageos.settings.resources">
+    package="org.pixelexperience.settings.resources">
 
     <application android:hasCode="false" />
 </manifest>

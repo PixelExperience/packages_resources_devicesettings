@@ -15,7 +15,7 @@
 //
 
 android_library {
-    name: "org.lineageos.settings.resources",
+    name: "org.pixelexperience.settings.resources",
     defaults: [
         "SettingsLibDefaults",
     ],
