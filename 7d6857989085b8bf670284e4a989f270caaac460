@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "684e1d1e_3d5c3e59",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-20T15:26:21Z",
+      "side": 1,
+      "message": "Please move these changes to custom_strings.xml\nstrings.xml should be inline with lineage",
+      "revId": "7d6857989085b8bf670284e4a989f270caaac460",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
