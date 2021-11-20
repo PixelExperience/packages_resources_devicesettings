@@ -16,6 +16,24 @@
       "message": "Please move these changes to custom_strings.xml\nstrings.xml should be inline with lineage",
       "revId": "7d6857989085b8bf670284e4a989f270caaac460",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a5295c3_b03721c9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2021-11-20T15:33:24Z",
+      "side": 1,
+      "message": "\u003e Please move these changes to custom_strings.xml\n\u003e strings.xml should be inline with lineage\n\nDone sir. Check ps2.",
+      "parentUuid": "684e1d1e_3d5c3e59",
+      "revId": "7d6857989085b8bf670284e4a989f270caaac460",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
