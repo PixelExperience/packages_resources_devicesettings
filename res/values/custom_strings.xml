@@ -109,6 +109,9 @@
     <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
 
+    <!-- Ambient settings -->
+    <string name="ambient_enable">Use ambient display</string>
+
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Fingerprint gestures</string>
     <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
