@@ -249,4 +249,6 @@
     <string name="doze_brightness_high">High brightness</string>
     <string name="doze_brightness_adaptive">Adaptive brightness</string>
 
+    <!-- Ambient settings -->
+    <string name="ambient_enable">Use Ambient Display</string>
 </resources>
