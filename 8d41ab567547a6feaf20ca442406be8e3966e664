@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f7503e62_48788413",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000119
+      },
+      "writtenOn": "2021-11-27T01:54:20Z",
+      "side": 1,
+      "message": "All AOSP switchbar strings are formated as \u0027Use\u0027 + tittle string. This should be the same.",
+      "revId": "8d41ab567547a6feaf20ca442406be8e3966e664",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
