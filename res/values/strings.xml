@@ -19,6 +19,12 @@
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <string name="summary_empty" translatable="false"></string>
 
+    <!-- Ambient settings -->
+    <string name="ambient_enable">Use ambient display</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_enable">Enable dirac</string>
+
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">On</string>
 
