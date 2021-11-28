@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be69d735_543e5d9e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000517
+      },
+      "writtenOn": "2021-11-28T09:10:52Z",
+      "side": 1,
+      "message": "Title should be\"Use-whatever\". \nAlso, refer - https://gerrit.pixelexperience.org/c/packages_resources_devicesettings/+/14139",
+      "revId": "ce64b4ebac72440dd1a1d008ed957e70325fcedd",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
