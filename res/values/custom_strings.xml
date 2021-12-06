@@ -243,6 +243,14 @@
     <string name="lcd_cabc_title">CABC Mode</string>
     <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nCABC (Content Adaptive Backlight Control) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
 
+    <!-- Haptic Level Settings -->
+     <string name="haptic_title">Haptic feedback</string>
+     <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
+     <string name="haptic_summary">Customize vibration intensity</string>
+     <string name="haptic_level_title">Level</string>
+     <string name="haptic_level_summary">The amount of vibration intensity</string>
+     <string name="haptic_level_summary_incompatible">Kernel did not support this feature</string>
+
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Always on brightness</string>
     <string name="doze_brightness_summary">%s mode is enabled</string>
