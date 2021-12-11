@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d777e86a_d5964d8a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2021-12-11T16:25:23Z",
+      "side": 1,
+      "message": "Haptic feedback control implementation as part of Device Specific package (i.e XiaomiParts) is forbidden by us since mid-2019.",
+      "revId": "73da414825f117824e12fa5b65f4de5796258267",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
