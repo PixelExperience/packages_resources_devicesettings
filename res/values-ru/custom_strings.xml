@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Фильтр мерцания</string>
     <string name="dc_dimming_enable_summary">Режим фильтра мерцания помогает снизить утомляемость глаз в условиях низкой освещенности за счет использования функции «DC Dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
     <string name="dc_dimming_enable_summary_not_supported">Защита от мерцания пока не поддерживается ядром</string>
+    <string name="dirac_enable">Используйте усилитель звука Mi</string>
     <string name="dirac_title">Улучшение звука Mi</string>
     <string name="dirac_summary">Улучшить качество звука</string>
     <string name="dirac_headset_title">Выберите тип наушников</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Кантри</string>
     <string name="dirac_preset_dance">Танцевальная</string>
     <string name="dirac_preset_metal">Металл</string>
+    <string name="dirac_preset_bass_booster">Усилитель басов</string>
     <string name="popup_settings_title">Настройки всплывающей камеры</string>
     <string name="popup_led_title">LED индикация камеры</string>
     <string name="popup_led_summary">Показывать LED индикацию при открытии и закрытии фронтальной камеры</string>
@@ -118,8 +120,8 @@
     <string name="swipe_right_dlg_title">Выбрать действие для свайпа вправо</string>
     <string name="swipe_up_dlg_title">Выбрать действие для свайпа вверх</string>
     <string name="swipe_down_dlg_title">Выбрать действие для свайпа вниз</string>
-    <string name="tap_title">Одиночное нажатие</string>
-    <string name="double_tap_title">Двойное нажатие</string>
+    <string name="tap_title">Одиночное касание</string>
+    <string name="double_tap_title">Двойное касание</string>
     <string name="long_tap_title">Долгое нажатие</string>
     <string name="tap_dlg_title">Выбрать действие для одиночного нажатия</string>
     <string name="double_tap_dlg_title">Выбрать действие для двойного нажатия</string>
@@ -142,7 +144,7 @@
     <string name="notification_slider_mode_priority_only">Только важные</string>
     <string name="notification_slider_mode_silent">Тишина</string>
     <string name="notification_slider_mode_vibrate">Вибрация</string>
-    <string name="notification_slider_mode_none">Нормальная</string>
+    <string name="notification_slider_mode_none">Обычный</string>
     <string name="thermal_title">Профиль оптимизации</string>
     <string name="thermal_summary">Отрегулируйте профили для оптимальной производительности приложений</string>
     <string name="thermal_default">Без оптимизации</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Действие кнопки ассистента</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим высокой яркости</string>
+    <string name="lcd_features_title">Характеристики экрана</string>
+    <string name="lcd_features_summary">Режим высокой яркости (CABC)</string>
+    <string name="lcd_hbm_title">Режим высокой яркости (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM (Режим высокой яркости) </string>
+    <string name="lcd_cabc_title">Режим CABC</string>
+    <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
+    <string name="doze_brightness_title">Яркость экрана в режиме блокировки</string>
+    <string name="doze_brightness_summary">%s режим включен</string>
+    <string name="doze_brightness_low">Низкий уровень яркости</string>
+    <string name="doze_brightness_high">Высокий уровень яркости</string>
+    <string name="doze_brightness_adaptive">Адаптивный уровень яркости</string>
 </resources>

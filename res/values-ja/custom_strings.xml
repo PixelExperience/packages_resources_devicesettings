@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">アンチフリッカー</string>
     <string name="dc_dimming_enable_summary">アンチフリッカーモード「DC 調光」によっては暗いライト環境での疲れ目の低減に役立ちます。色の正確性が低減し、いくつかの項目の画面表示に影響する可能性があります。</string>
     <string name="dc_dimming_enable_summary_not_supported">アンチフリッカーはこのカーネルではサポートされていません</string>
+    <string name="dirac_enable">Mi サウンドエンハンサー</string>
     <string name="dirac_title">Mi サウンドエンハンサー</string>
     <string name="dirac_summary">オーディオ品質を最適化</string>
     <string name="dirac_headset_title">ヘッドフォンの種類を選択</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">カントリー</string>
     <string name="dirac_preset_dance">ダンス</string>
     <string name="dirac_preset_metal">メタル</string>
+    <string name="dirac_preset_bass_booster">低音強調</string>
     <string name="popup_settings_title">ポップアップカメラの設定</string>
     <string name="popup_led_title">カメラ LED</string>
     <string name="popup_led_summary">フロントカメラを上げ下げするときに LED ライトを表示する</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">アシスタントキーのアクション</string>
     <string name="stylus_title">スタイラスペン</string>
     <string name="hbm_title">高輝度モード</string>
+    <string name="lcd_features_title">液晶の機能</string>
+    <string name="lcd_features_summary">高輝度モード、CABC</string>
+    <string name="lcd_hbm_title">高輝度モード (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC モード</string>
+    <string name="lcd_features_info">高輝度モード (HBM) は画面の明るさを上げて日光の下での視認性を向上させますが、電池の消費は激しくなります。\n\nCABC モード (コンテンツ自動認識バックライト制御) は画面とバックライトの明るさを現在表示されているコンテンツに合わせて自動的に調節し、品質低下を抑えつつ電池の消費を抑えます。</string>
+    <string name="doze_brightness_title">Always On の明るさ</string>
+    <string name="doze_brightness_summary">%sモードが有効です</string>
+    <string name="doze_brightness_low">低輝度</string>
+    <string name="doze_brightness_high">高輝度</string>
+    <string name="doze_brightness_adaptive">明るさの自動調節</string>
 </resources>

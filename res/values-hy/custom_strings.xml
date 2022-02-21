@@ -107,7 +107,6 @@
     <string name="notification_slider_mode_priority_only">Միայն կարևորները</string>
     <string name="notification_slider_mode_silent">Լուռ</string>
     <string name="notification_slider_mode_vibrate">Թրթռալ</string>
-    <string name="notification_slider_mode_none">Նորմալ</string>
     <string name="thermal_default">Օպտիմալացված է</string>
     <string name="thermal_benchmark">Արդյունավետություն</string>
     <string name="thermal_browser">Դիտարկիչ</string>

@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Titreme önleme</string>
     <string name="dc_dimming_enable_summary">Titreşim önleyici mod, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
     <string name="dc_dimming_enable_summary_not_supported">Titreme önleme şu anda çekirdek tarafından desteklenmiyor</string>
+    <string name="dirac_enable">Mi Ses Artırıcı Kullan</string>
     <string name="dirac_title">Mi Ses Yükseltici</string>
     <string name="dirac_summary">Ses kalitesini optimize eder</string>
     <string name="dirac_headset_title">Kulaklık türünü seçin</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Yerel</string>
     <string name="dirac_preset_dance">Dans</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Bas Yükseltici</string>
     <string name="popup_settings_title">Açılır kamera ayarları</string>
     <string name="popup_led_title">Kamera LED\'i</string>
     <string name="popup_led_summary">Ön kamera yuvadan çıkıp geri girdiğinde LED\'i yak</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Asistan tuşu eylemi</string>
     <string name="stylus_title">Dokunmatik kalem</string>
     <string name="hbm_title">Yüksek Parlaklık Modu</string>
+    <string name="lcd_features_title">LCD özellikleri</string>
+    <string name="lcd_features_summary">Yüksek Parlaklık Modu, İUAIK</string>
+    <string name="lcd_hbm_title">Yüksek Parlaklık Modu (YPM)</string>
+    <string name="lcd_hbm_tile_title">YPM</string>
+    <string name="lcd_cabc_title">İUAIK Modu</string>
+    <string name="lcd_features_info">Yüksek Parlaklık Modu (YPM), güneş ışığı altında görünürlüğü iyileştirmek için ekranın maksimum parlaklığını artırır. Güç tüketimini artırır.\n\nİUAIK (İçerik Uyarlamalı Arka Işık Kontrolü), güç tüketimini bozulma olmadan azaltmak için o anda görüntülenen içeriğe göre ekran ve arka ışık parlaklığını ayarlar.</string>
+    <string name="doze_brightness_title">Her zaman açık ekran parlaklığı</string>
+    <string name="doze_brightness_summary">%s modu etkinleştirildi</string>
+    <string name="doze_brightness_low">Düşük parlaklık</string>
+    <string name="doze_brightness_high">Yüksek parlaklık</string>
+    <string name="doze_brightness_adaptive">Uyarlanabilir parlaklık</string>
 </resources>

@@ -35,7 +35,7 @@
     <string name="dirac_headset_piston_color">Izdanje u boji</string>
     <string name="dirac_headset_reduction_noise">Mi Noise otkazivanje buke tip-C</string>
     <string name="dirac_headset_cancelling">Mi Noise otkazivanje 3.5mm</string>
-    <string name="dirac_preset_default">Podrazumijevano</string>
+    <string name="dirac_preset_default">Zadano</string>
     <string name="dirac_preset_rock">Rok</string>
     <string name="dirac_preset_jazz">Džez</string>
     <string name="dirac_preset_classical">Klasična</string>

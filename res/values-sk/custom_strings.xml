@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Eliminácia blikania</string>
     <string name="dc_dimming_enable_summary">Režim \"Eliminácia blikania\" pomáha obmedziť blikanie pri zhoršených svetelných podmienkach pomocou funkcie \"DC-Dimming. Môže to znížiť presnosť farieb a ovplyvniť spôsob zobrazenia niektorých položiek.</string>
     <string name="dc_dimming_enable_summary_not_supported">Eliminácia blikania v súčasnosti nie je podporovaná jadrom</string>
+    <string name="dirac_enable">Použít Mi Sound Enhancer</string>
     <string name="dirac_title">Vylepšenia Mi Sound</string>
     <string name="dirac_summary">Vylepšiť kvalitu zvuku</string>
     <string name="dirac_headset_title">Vyberte typ slúchadiel</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Tanečné</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Zvýraznenie basov</string>
     <string name="popup_settings_title">Nastavenie vysúvacieho fotoaparátu</string>
     <string name="popup_led_title">Blesk</string>
     <string name="popup_led_summary">Zablikať LED pri vysunutí a zasunutí predného fotoaparátu</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Akcia pre tlačidlo assistenta</string>
     <string name="stylus_title">Stylusové Pero</string>
     <string name="hbm_title">Režim vysokého jasu</string>
+    <string name="lcd_features_title">Vlastnosti LCD</string>
+    <string name="lcd_features_summary">Režim vysokého jasu</string>
+    <string name="lcd_hbm_title">Režim vysokého jasu)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC Mode</string>
+    <string name="lcd_features_info">Režim vysokého jasu (HBM) zvyšuje maximálny jas displeja, aby sa zlepšila viditeľnosť pri slnečnom svetle. Zvyšuje spotrebu energie.\n\nCABC (Content Adaptive Backlight Control) upravuje jas displeja a podsvietenia na základe aktuálne zobrazeného obsahu, aby sa znížila spotreba energie bez zníženia kvality.</string>
+    <string name="doze_brightness_title">Vždy zapnutý jas</string>
+    <string name="doze_brightness_summary">Režim %s je povolení</string>
+    <string name="doze_brightness_low">Nízky jas</string>
+    <string name="doze_brightness_high">Vysoký jas</string>
+    <string name="doze_brightness_adaptive">Adaptivní jas</string>
 </resources>

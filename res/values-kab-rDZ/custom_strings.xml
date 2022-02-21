@@ -52,7 +52,6 @@
     <string name="swipe_down_dlg_title">Fren tigawt n uzuɣeṛ s azelmaḍ</string>
     <string name="tap_title">Asenned aḥerfi</string>
     <string name="double_tap_title">Senned snat tikal</string>
-    <string name="long_tap_title">A senned i kra n wakud</string>
     <string name="tap_dlg_title">Fren tigawt usenned n yiwet tikkelt </string>
     <string name="double_tap_dlg_title">Fren tigawt n usenned snat tikal </string>
     <string name="long_tap_dlg_title">Fren tigawt n usenned i kra n wakud</string>
@@ -60,4 +59,5 @@
     <string name="tap_to_wake_summary">Senned snat n tikkal anda tufiḍ deg wagdil i wakken ad yermed yibenk </string>
     <string name="allow_proximity_sensor_title">Sken amaṭṭaf n tanila</string>
     <string name="allow_proximity_sensor_summary">Senqed amaṭṭaf n tanila send uselkem n tigawt </string>
+    <string name="notification_slider_mode_none">Amagnu</string>
 </resources>

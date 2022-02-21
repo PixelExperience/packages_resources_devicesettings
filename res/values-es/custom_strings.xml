@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Anti parpadeo</string>
     <string name="dc_dimming_enable_summary">El modo anti parpadeo ayuda a reducir la fatiga ocular en condiciones de baja luz utilizando la función \"atenuación DC\". Esto podría disminuir la precisión del color y afectar la forma en la que se visualizan algunos ítems</string>
     <string name="dc_dimming_enable_summary_not_supported">Actualmente el anti-parpadeo no es compatible con el kernel</string>
+    <string name="dirac_enable">Usar potenciador de sonido Mi</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimizar la calidad del audio</string>
     <string name="dirac_headset_title">Selecciona el tipo de auriculares</string>
@@ -48,7 +49,7 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <string name="dirac_preset_default">Predeterminado</string>
+    <string name="dirac_preset_default">Predeterminados</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Potenciador de bajos</string>
     <string name="popup_settings_title">Ajustes de cámara Pop-up</string>
     <string name="popup_led_title">Cámara LED</string>
     <string name="popup_led_summary">Mostrar animación LED cuando la cámara frontal aparece y se retrae</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Botón del asistente </string>
     <string name="stylus_title">Lapiz óptico</string>
     <string name="hbm_title">Modo de alto brillo</string>
+    <string name="lcd_features_title">Características del LCD</string>
+    <string name="lcd_features_summary">Modo de alto brillo, CABC</string>
+    <string name="lcd_hbm_title">Modo de alto brillo (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Modo CABC</string>
+    <string name="lcd_features_info">El modo de alto brillo HBM (High Brightness Mode) aumenta el brillo máximo de la pantalla para mejorar la visibilidad bajo la luz del sol. Aumenta el consumo de energía.\n\nCABC (Content Adaptive Backlight Control) ajusta el brillo de la pantalla y de la retroiluminación en función del contenido mostrado en ese momento, para reducir el consumo de energía sin degradarlo.</string>
+    <string name="doze_brightness_title">Siempre en brillo</string>
+    <string name="doze_brightness_summary">Modo %s  activado</string>
+    <string name="doze_brightness_low">Brillo bajo</string>
+    <string name="doze_brightness_high">Brillo alto</string>
+    <string name="doze_brightness_adaptive">Brillo adaptativo</string>
 </resources>

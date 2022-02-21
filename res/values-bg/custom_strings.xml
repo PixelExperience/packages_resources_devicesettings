@@ -142,7 +142,7 @@
     <string name="notification_slider_mode_priority_only">Само с приоритет</string>
     <string name="notification_slider_mode_silent">Без звук</string>
     <string name="notification_slider_mode_vibrate">Вибрация</string>
-    <string name="notification_slider_mode_none">Нормално</string>
+    <string name="notification_slider_mode_none">Нормален</string>
     <string name="thermal_title">Профил за оптимизация</string>
     <string name="thermal_summary">Регулирайте профили за приложение за оптимална производителност</string>
     <string name="thermal_default">Без оптимизация</string>
@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Действие на бутон асистент</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим висока яркост </string>
+    <string name="lcd_features_title">LCD функции</string>
+    <string name="lcd_features_summary">Режим Висока яркост, CABC</string>
+    <string name="lcd_hbm_title">Режим Висока яркост (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Режим CABC</string>
+    <string name="lcd_features_info">Режим Висока яркост (HBM) увеличава максималната яркост на дисплея, за да подобри видимостта при слънчева светлина. Увеличава консумацията на енергия.\n\nCABC (Адаптивен контрол на подсветката на съдържанието) регулира яркостта на дисплея и подсветката въз основа на текущо показваното съдържание, за да намали консумацията на енергия без влошаване на качеството.</string>
 </resources>

@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Anti-Flimmern</string>
     <string name="dc_dimming_enable_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-Flicker wird derzeit vom Kernel nicht unterstützt</string>
+    <string name="dirac_enable">Nutze die Mi Klangverbesserung</string>
     <string name="dirac_title">Mi Klangverbesserung</string>
     <string name="dirac_summary">Audioqualität optimieren</string>
     <string name="dirac_headset_title">Kopfhörertyp auswählen</string>
@@ -48,7 +49,7 @@
     <string name="dirac_headset_in_ear2">Mi In Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <string name="dirac_preset_default">Standard</string>
+    <string name="dirac_preset_default">Standardeinstellung</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Bassverstärkung</string>
     <string name="popup_settings_title">Pop-up Camera Einstellungen</string>
     <string name="popup_led_title">Kamera LED</string>
     <string name="popup_led_summary">LED-Licht anzeigen, wenn die Frontkamera erscheint und einfährt</string>
@@ -118,7 +120,7 @@
     <string name="swipe_right_dlg_title">Wählen Sie eine Aktion für die nach rechts wischen Gäste</string>
     <string name="swipe_up_dlg_title">Wählen Sie eine Aktion für die nach oben wischen Gäste</string>
     <string name="swipe_down_dlg_title">Wählen Sie eine Aktion für die nach unten wischen Gäste</string>
-    <string name="tap_title">Einfaches Antippen</string>
+    <string name="tap_title">Einfaches Tippen</string>
     <string name="double_tap_title">Doppeltes Tippen</string>
     <string name="long_tap_title">Lange drücken</string>
     <string name="tap_dlg_title">Wählen Sie die Aktion für einfaches Tippen</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Assistent Tastenaktion</string>
     <string name="stylus_title">Stift</string>
     <string name="hbm_title">Hohe Helligkeit</string>
+    <string name="lcd_features_title">LCD-Funktionen</string>
+    <string name="lcd_features_summary">Hohe Helligkeit Modus, CABC</string>
+    <string name="lcd_hbm_title">Hohe Helligkeit Modus (HBM, CABC)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC Modus</string>
+    <string name="lcd_features_info">Der High Brightness Mode (HBM) erhöht die maximale Helligkeit des Displays, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Display- und Hintergrundbeleuchtungshelligkeit basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
+    <string name="doze_brightness_title">Helligkeit des Always-On Displays</string>
+    <string name="doze_brightness_summary">%s Modus ist Aktiviert</string>
+    <string name="doze_brightness_low">Niedrige Helligkeit</string>
+    <string name="doze_brightness_high">Hohe Helligkeit</string>
+    <string name="doze_brightness_adaptive">Automatische Helligkeit</string>
 </resources>

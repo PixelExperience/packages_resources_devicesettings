@@ -48,7 +48,7 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <string name="dirac_preset_default">Па змаўчанні</string>
+    <string name="dirac_preset_default">Стандартныя</string>
     <string name="dirac_preset_rock">Рок</string>
     <string name="dirac_preset_jazz">Джаз</string>
     <string name="dirac_preset_pop">Поп</string>
@@ -118,7 +118,7 @@
     <string name="swipe_right_dlg_title">Выберыце дзеянне для свайпа управа</string>
     <string name="swipe_up_dlg_title">Выберыце дзеянне для свайпа наверх</string>
     <string name="swipe_down_dlg_title">Выберыце дзеянне для свайпа ўніз</string>
-    <string name="tap_title">Адзіночны націск</string>
+    <string name="tap_title">Адзіночны дотык</string>
     <string name="double_tap_title">Падвойны націск</string>
     <string name="long_tap_title">Доўгі націск</string>
     <string name="tap_dlg_title">Выберыце дзеянне для адзіночнага націску</string>
@@ -140,7 +140,7 @@
     <string name="notification_slider_mode_priority_only">Толькі важныя</string>
     <string name="notification_slider_mode_silent">Без гуку</string>
     <string name="notification_slider_mode_vibrate">Вібрацыя</string>
-    <string name="notification_slider_mode_none">Звычайная</string>
+    <string name="notification_slider_mode_none">Нармальна</string>
     <string name="thermal_title">Профіль аптымізацыі</string>
     <string name="thermal_summary">Наладзьце дадатковыя профілі для дасягнення аптымальнай прадукцыйнасці</string>
     <string name="thermal_default">Без аптымізацыі</string>

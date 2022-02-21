@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">ციმციმის საწინააღმდეგო</string>
     <string name="dc_dimming_enable_summary">ციმციმის საწინააღმდეგო რეჟიმი გეხმარებათ შეამციროთ თვალების დაძაბვა დაბალი ნათების მდგომარეობაში \"DC ჩამუქების\" ფუნქციის გამოყენებით. მან შეიძლება დაადაბლოს ფერების სიზუსტე და იმოქმედოს ზოგიერთ გამოჩენილ ელემენტზე.</string>
     <string name="dc_dimming_enable_summary_not_supported">ციმციმის საწინააღმდეგო არ არის მხარდაჭერილი kernel ის მიერ</string>
+    <string name="dirac_enable">გამოიყენეთ Mi ხმის გამაუმჯობესებელი</string>
     <string name="dirac_title">Mi ხმის გამაუმჯობესებელი</string>
     <string name="dirac_summary">აუდიო ოპტიმიზაცია</string>
     <string name="dirac_headset_title">ყურსასმენის ტიპის არჩევა</string>
@@ -48,7 +49,7 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <string name="dirac_preset_default">დათქმული</string>
+    <string name="dirac_preset_default">ნაგულისხმევი</string>
     <string name="dirac_preset_rock">როკი</string>
     <string name="dirac_preset_jazz">ჯაზი</string>
     <string name="dirac_preset_pop">პოპი</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">ქვეყანა</string>
     <string name="dirac_preset_dance">ცეკვა</string>
     <string name="dirac_preset_metal">მეტალი</string>
+    <string name="dirac_preset_bass_booster">ბასების გამაძლიერებელი</string>
     <string name="popup_settings_title">ამომხტარი კამერის პარამეტრები</string>
     <string name="popup_led_title">ფერადი კამერა</string>
     <string name="popup_led_summary">აჩვენეთ ფერადი შუქი წინა კამერის გახსნისას და დახურვისას</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">დამხმარე ღილაკის მოქმედება</string>
     <string name="stylus_title">სტილუს კალამი</string>
     <string name="hbm_title">მაღალი ნათების რეჟიმი</string>
+    <string name="lcd_features_title">LCD ფუნქციები</string>
+    <string name="lcd_features_summary">მაღალი ნათების რეჟიმი, CABC</string>
+    <string name="lcd_hbm_title">მაღალი ნათების რეჟიმი (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC რეჟიმი</string>
+    <string name="lcd_features_info">მაღალი სიკაშკაშის რეჟიმი (HBM) ზრდის ეკრანის მაქსიმალურ სიკაშკაშეს მზის სხივების ქვეშ ხილვადობის გასაუმჯობესებლად. ზრდის ენერგიის მოხმარებას. \ N \ nCABC (შინაარსის ადაპტირებადი განათების კონტროლი) არეგულირებს ეკრანისა და შუქის სიკაშკაშეს ამჟამად ნაჩვენები შინაარსის მიხედვით, რათა შეამციროს ენერგიის მოხმარება დეგრადაციის გარეშე.</string>
+    <string name="doze_brightness_title">ყოველთვის ჩართული სიკაშკაშე</string>
+    <string name="doze_brightness_summary">%s რეჟიმი ჩართულია</string>
+    <string name="doze_brightness_low">დაბალი სიკაშკაშე</string>
+    <string name="doze_brightness_high">მაღალი სიკაშკაშე</string>
+    <string name="doze_brightness_adaptive">მორგებადი სიკაშკაშე</string>
 </resources>

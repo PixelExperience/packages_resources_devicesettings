@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Przeciwdoblaskowy</string>
     <string name="dc_dimming_enable_summary">Tryb Anti-flicker pomaga zmniejszyć zmęczenie oczu w warunkach słabego oświetlenia dzięki funkcji „DC Dimming”. Może to pogorszyć dokładność kolorów i wpłynąć na sposób wyświetlania niektórych elementów.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker nie jest obecnie obsługiwany przez jądro</string>
+    <string name="dirac_enable">Użyj Mi Sound Enhancer</string>
     <string name="dirac_title">Ulepszanie dźwięku Mi</string>
     <string name="dirac_summary">Optymalizuj jakość dźwięku</string>
     <string name="dirac_headset_title">Wybierz typ słuchawek</string>
@@ -48,7 +49,7 @@
     <string name="dirac_headset_in_ear2">Mi dokanałowe 2</string>
     <string name="dirac_headset_earphone_basic">Słuchawki douszne Mi Basic</string>
     <string name="dirac_headset_earphone">Słuchawki douszne Mi</string>
-    <string name="dirac_preset_default">Domyślny</string>
+    <string name="dirac_preset_default">Domyślne</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Kraj</string>
     <string name="dirac_preset_dance">Taniec</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Bass Booster </string>
     <string name="popup_settings_title">Ustawienia wysuwanego aparatu</string>
     <string name="popup_led_title">LED Aparatu</string>
     <string name="popup_led_summary">Pokaż LED podczas wysuwania i zamykania przedniego aparatu</string>
@@ -119,7 +121,7 @@
     <string name="swipe_up_dlg_title">Akcja dla przesunięcia w górę</string>
     <string name="swipe_down_dlg_title">Akcja dla przesunięcia w dół</string>
     <string name="tap_title">Pojedyncze dotknięcie</string>
-    <string name="double_tap_title">Akcja dla podwójnego tapnięcia</string>
+    <string name="double_tap_title">Podwójne dotknięcie</string>
     <string name="long_tap_title">Długie naciśnięcie</string>
     <string name="tap_dlg_title">Akcja dla pojedynczego tapnięcia</string>
     <string name="double_tap_dlg_title">Akcja dla podwójnego tapnięcia</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Akcje przycisku Asystenta</string>
     <string name="stylus_title">Rysik</string>
     <string name="hbm_title">Tryb wysokiej jasności</string>
+    <string name="lcd_features_title">Funkcje LCD</string>
+    <string name="lcd_features_summary">Tryb wysokiej jasności, CABC</string>
+    <string name="lcd_hbm_title">Tryb wysokiej jasności (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Tryb CABC</string>
+    <string name="lcd_features_info">Tryb High Brightness (HBM) zwiększa maksymalną jasność wyświetlacza, aby poprawić widoczność w świetle słonecznym. Zwiększa zużycie energii.CABC (Content Adaptive Backlight Control) dostosowuje jasność wyświetlacza i podświetlenia w oparciu o aktualnie wyświetlaną zawartość, aby zmniejszyć zużycie energii bez pogorszenia jakości obrazu.</string>
+    <string name="doze_brightness_title">Jasność ekranu w trybie zawsze włączony</string>
+    <string name="doze_brightness_summary">Tryb %s jest włączony</string>
+    <string name="doze_brightness_low">Niski poziom jasności</string>
+    <string name="doze_brightness_high">Wysoki poziom jasności</string>
+    <string name="doze_brightness_adaptive">Adaptacyjna jasność ekranu</string>
 </resources>

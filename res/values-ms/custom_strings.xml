@@ -120,7 +120,7 @@
     <string name="swipe_down_dlg_title">Pilih tindakan untuk leret ke bawah</string>
     <string name="tap_title">Ketuk sekali</string>
     <string name="double_tap_title">Tekan dua kali</string>
-    <string name="long_tap_title">Sentuh dengan jeda masa yang panjang</string>
+    <string name="long_tap_title">Ketik dengan lama</string>
     <string name="tap_dlg_title">Pilih tindakan untuk ketuk sekali</string>
     <string name="double_tap_dlg_title">Pilih tindakan untuk tekan dua kali</string>
     <string name="long_tap_dlg_title">Pilih tindakan untuk tekan dengan jeda masa panjang</string>
@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Pastikan sensor pengesan jarak sebelum melakukan tindakan</string>
     <string name="oneplus_advanced_settings">Tetapan OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Tetapan peribadi untuk peranti anda</string>
+    <string name="panel_modes_settings_title">Mod Panel</string>
+    <string name="panel_modes_settings_summary">Pilih kalibrasi paparan sedia ada</string>
     <string name="notification_slider_category_title">Gelangsar amaran</string>
     <string name="notification_slider_selection_dialog_title">Tindakan</string>
     <string name="notification_slider_top_position">Kedudukan atas</string>
@@ -163,6 +165,6 @@
     <string name="touch_sensitivity_summary">Mengawal kepekaan untuk mengetuk berulang</string>
     <string name="touch_resistant_title">Area tahan sentuh</string>
     <string name="touch_resistant_summary">Mengurangkan kepekaan di tepi untuk mengelakkan sentuhan tidak sengaja</string>
-    <string name="button_settings_title">Butang</string>
+    <string name="button_settings_title">Tombol</string>
     <string name="home_button_extra_settings">Sesuaikan tingkah laku butang rumah</string>
 </resources>

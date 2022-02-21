@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
     <string name="dc_dimming_enable_summary">Vilkkumisen esto tila vähentää silmien väsymistä vähäisessä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi heikentää väritoiston tarkkuutta ja se voi vaikuttaa miten jotkin kohteet näkyvät näytöllä.</string>
     <string name="dc_dimming_enable_summary_not_supported">Vilkkumattomuuden poisto ei ole nyt kernelin tukema</string>
+    <string name="dirac_enable">Käytä Mi Sound Enhanceria</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimoi äänenlaatua</string>
     <string name="dirac_headset_title">Valitse kuuloke tyyppi</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Kantri</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metalli</string>
+    <string name="dirac_preset_bass_booster">Basson korostus</string>
     <string name="popup_settings_title">Popup-kameran asetukset</string>
     <string name="popup_led_title">Kameran LED</string>
     <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja vetäytyy</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Assistant painikkeen toiminto</string>
     <string name="stylus_title">Kosketusnäyttökynä</string>
     <string name="hbm_title">Korkean kirkkauden tila</string>
+    <string name="lcd_features_title">LCD-ominaisuudet</string>
+    <string name="lcd_features_summary">Korkean kirkkauden tila, CABC</string>
+    <string name="lcd_hbm_title">Korkean kirkkauden tila (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC tila</string>
+    <string name="lcd_features_info">Korkean kirkkauden tila (HBM) lisää näytön maksimikirkkautta näkyvyyden parantamiseksi auringonvalossa. Lisää virrankulutusta.\n\nCABC (Sisältöön mukautuva näytön taustavalaistus) säätää näytön ja taustavalon kirkkauden näytön sisällön perusteella virrankulutuksen vähentämiseksi laadun kärsimättä.</string>
+    <string name="doze_brightness_title">Vilkaisunäytön kirkkaus</string>
+    <string name="doze_brightness_summary">%s  tila on käytössä</string>
+    <string name="doze_brightness_low">Matala kirkkaus</string>
+    <string name="doze_brightness_high">Korkea kirkkaus</string>
+    <string name="doze_brightness_adaptive">Mukautuva kirkkaus</string>
 </resources>

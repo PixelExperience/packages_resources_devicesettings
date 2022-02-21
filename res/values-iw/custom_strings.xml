@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">אנטי־הבהוב</string>
     <string name="dc_dimming_enable_summary">מצב נגד הבהוב מסייע בהפחתת מתיחת עיניים בתנאי תאורה נמוכים באמצעות התכונה \"עמעום DC\". זה עלול להשפיל את דיוק הצבעים ולהשפיע על אופן הצגתם של פריטים מסוימים.</string>
     <string name="dc_dimming_enable_summary_not_supported">מניעת הבהוב לא נתמכת כרגע על־ידי קרנל זה</string>
+    <string name="dirac_enable">משפר סאונד ישיר</string>
     <string name="dirac_title">מגבר צלילים Mi</string>
     <string name="dirac_summary">ייעול איכות השמע</string>
     <string name="dirac_headset_title">בחר סוג אוזניות</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">קאנטרי</string>
     <string name="dirac_preset_dance">דאנס</string>
     <string name="dirac_preset_metal">מטאל</string>
+    <string name="dirac_preset_bass_booster">מגביר בס</string>
     <string name="popup_settings_title">הגדרות מצלמה נשלפת</string>
     <string name="popup_led_title">לד של המצלמה</string>
     <string name="popup_led_summary">הצג פנס לד כאשר המצלמה הקדמית מופיעה וממוקדת</string>
@@ -118,8 +120,8 @@
     <string name="swipe_right_dlg_title">בחר פעולה עבור החלקה ימינה</string>
     <string name="swipe_up_dlg_title">בחר פעולה עבור החלקה למעלה</string>
     <string name="swipe_down_dlg_title">בחר פעולה עבור החלקה למטה</string>
-    <string name="tap_title">לחיצה יחידה</string>
-    <string name="double_tap_title">לחיצה כפולה</string>
+    <string name="tap_title">נגיעה בודדת</string>
+    <string name="double_tap_title">נגיעה כפולה</string>
     <string name="long_tap_title">לחיצה ארוכה</string>
     <string name="tap_dlg_title">בחר פעולה עבור לחיצה בודדת</string>
     <string name="double_tap_dlg_title">בחר פעולה עבור לחיצה כפולה</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">פעולת מקש העוזרת הקולית</string>
     <string name="stylus_title">עט סטיילוס</string>
     <string name="hbm_title">מצב בהירות גבוהה </string>
+    <string name="lcd_features_title">תכונות LCD</string>
+    <string name="lcd_features_summary">מצב בהירות גבוהה</string>
+    <string name="lcd_hbm_title">מצב בהירות גבוהה</string>
+    <string name="lcd_hbm_tile_title">מב\"ג</string>
+    <string name="lcd_cabc_title">בקרת תאורה אחורית מותאמת לתוכן</string>
+    <string name="lcd_features_info">מצב בהירות גבוהה (HBM) מגביר את הבהירות המקסימלית של המסך כדי לשפר את הראות תחת אור השמש. מגביר את צריכת החשמל. \n\n (בקרת תאורה אחורית מותאמת לתוכן) מתאים את בהירות התצוגה והתאורה האחורית על סמך התוכן המוצג כעת, כדי להפחית את צריכת החשמל ללא התדרדרות.</string>
+    <string name="doze_brightness_title">בהיארות דלוק תמיד </string>
+    <string name="doze_brightness_summary">מצב מאופשר</string>
+    <string name="doze_brightness_low">בהירות נמוכה</string>
+    <string name="doze_brightness_high">בהירות גבוהה</string>
+    <string name="doze_brightness_adaptive">בהירות מסתגלת</string>
 </resources>

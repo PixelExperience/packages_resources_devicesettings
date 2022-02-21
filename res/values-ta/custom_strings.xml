@@ -43,7 +43,7 @@
     <string name="dirac_headset_in_ear2">Mi இன்-இயர் 2</string>
     <string name="dirac_headset_earphone_basic">Mi இயர்ஃபோன் பேசிக்</string>
     <string name="dirac_headset_earphone">Mi இயர்போன்கள்</string>
-    <string name="dirac_preset_default">இயல்புநிலை</string>
+    <string name="dirac_preset_default">இயல்பு</string>
     <string name="dirac_preset_rock">ராக்</string>
     <string name="dirac_preset_jazz">ஜாஸ்</string>
     <string name="dirac_preset_pop">பாப்</string>
@@ -108,7 +108,7 @@
     <string name="swipe_down_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
     <string name="tap_title">ஒறுமுறை தட்டு</string>
     <string name="double_tap_title">இருமுறை தட்டவும்</string>
-    <string name="long_tap_title">நீண்டமுனற தட்டு</string>
+    <string name="long_tap_title">நீண்ட நேரம் அழுத்தவும்</string>
     <string name="tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
     <string name="double_tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
     <string name="long_tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>

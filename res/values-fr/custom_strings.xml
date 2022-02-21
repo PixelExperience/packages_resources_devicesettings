@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Anti-scintillement</string>
     <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
     <string name="dc_dimming_enable_summary_not_supported">Le mode anti-scintillement n\'est actuellement pas supporté par le noyau</string>
+    <string name="dirac_enable">Utiliser Mi Sound Enhancer</string>
     <string name="dirac_title">Amélioration audio Mi</string>
     <string name="dirac_summary">Optimiser la qualité audio</string>
     <string name="dirac_headset_title">Sélectionnez le type d\'écouteurs</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Métal</string>
+    <string name="dirac_preset_bass_booster">Amplificateur de basses</string>
     <string name="popup_settings_title">Paramètres de caméra pop-up</string>
     <string name="popup_led_title">LED de la caméra</string>
     <string name="popup_led_summary">Allumer la LED lorsque la caméra frontale apparaît et se rétracte</string>
@@ -118,8 +120,8 @@
     <string name="swipe_right_dlg_title">Sélectionnez l’action de coup droit</string>
     <string name="swipe_up_dlg_title">Sélectionnez l’action de balayage gauche</string>
     <string name="swipe_down_dlg_title">Sélectionnez l’action de balayage gauche</string>
-    <string name="tap_title">Appui court</string>
-    <string name="double_tap_title">Appuyer deux fois</string>
+    <string name="tap_title">Appui simple</string>
+    <string name="double_tap_title">Appui double</string>
     <string name="long_tap_title">Appui long</string>
     <string name="tap_dlg_title">Sélectionnez action pour seul robinet</string>
     <string name="double_tap_dlg_title">Action de sélection pour le double robinet</string>
@@ -176,4 +178,16 @@
     <string name="assistant_button_action">Action de la touche d\'Assistant</string>
     <string name="stylus_title">Stylet</string>
     <string name="hbm_title">Mode haute luminosité</string>
+    <string name="lcd_features_title">Options LCD</string>
+    <string name="lcd_features_summary">Mode Haute Luminosité, CRAC</string>
+    <string name="lcd_hbm_title">Mode Haute Luminosité (MHL)</string>
+    <string name="lcd_hbm_tile_title">MHL</string>
+    <string name="lcd_cabc_title">Mode CABC</string>
+    <string name="lcd_features_info">Le Mode Haute Luminosité (MHL) augmente la luminosité maximum de l\'écran afin d\'améliorer la lisibilité en plein soleil. Cela augmente la consommation d\'énergie.\n\nCRAC 
+ (Contrôle du Rétroéclairage s\'Adaptant au Contenu) adapte l\'affichage et la luminosité du rétroéclairage en se basant sur le contenu affiché, afin de réduire la consommation sans dégradation.</string>
+    <string name="doze_brightness_title">Toujours sur la luminosité</string>
+    <string name="doze_brightness_summary">Le mode %s est activé</string>
+    <string name="doze_brightness_low">Luminosité faible</string>
+    <string name="doze_brightness_high">Luminosité maximale</string>
+    <string name="doze_brightness_adaptive">Luminosité adaptative</string>
 </resources>

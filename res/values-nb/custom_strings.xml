@@ -119,7 +119,7 @@
     <string name="swipe_up_dlg_title">Velg handling for opp-sveip</string>
     <string name="swipe_down_dlg_title">Velg handling for ned-sveip</string>
     <string name="tap_title">Enkelttrykk</string>
-    <string name="double_tap_title">Dobbelttrykk</string>
+    <string name="double_tap_title">Dobbeltrykk</string>
     <string name="long_tap_title">Langt trykk</string>
     <string name="tap_dlg_title">Velg handling for enkelttrykk</string>
     <string name="double_tap_dlg_title">Velg handling for dobbelttrykk</string>
@@ -140,7 +140,7 @@
     <string name="notification_slider_mode_priority_only">Kun prioritet</string>
     <string name="notification_slider_mode_silent">Stille</string>
     <string name="notification_slider_mode_vibrate">Vibrer</string>
-    <string name="notification_slider_mode_none">Vanlig</string>
+    <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Optimaliseringsprofiler</string>
     <string name="thermal_summary">Juster profiler for enkeltapper for optimal ytelse</string>
     <string name="thermal_default">Ingen optimalisering</string>

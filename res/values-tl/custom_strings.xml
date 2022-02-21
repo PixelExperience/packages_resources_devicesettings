@@ -42,7 +42,7 @@
     <string name="swipe_right_dlg_title">Mamili ng aksyon para sa pag swipe sa kanan</string>
     <string name="tap_title">Isang tapik</string>
     <string name="double_tap_title">Dalawang pindot</string>
-    <string name="long_tap_title">Mahabang tapik</string>
+    <string name="long_tap_title">Mahabang pindot</string>
     <string name="tap_dlg_title">Mamili ng aksyon para sa isang tapik</string>
     <string name="double_tap_dlg_title">Mamili ng aksyon para sa dalawang tapik</string>
     <string name="long_tap_dlg_title">Mamili ng aksyon para sa mahabang pindot</string>

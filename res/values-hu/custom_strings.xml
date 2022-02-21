@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Vibrálásmentesítés</string>
     <string name="dc_dimming_enable_summary">A vibrálásmentesítés (\"DC dimming\") csökkenti a szemfáradást gyenge fényviszonyok esetén. De sajnos a képminőséget, színhelyességet is gyengíti.</string>
     <string name="dc_dimming_enable_summary_not_supported">A vibrálásmentesítőt jelenleg nem támogatja a kernel</string>
+    <string name="dirac_enable">Mi Hangjavítás használata</string>
     <string name="dirac_title">Mi Hangjavítás</string>
     <string name="dirac_summary">Hangminőség-optimalizálás</string>
     <string name="dirac_headset_title">Válasszon egy fülhallgatótípust</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metááál</string>
+    <string name="dirac_preset_bass_booster">Basszus erősítő</string>
     <string name="popup_settings_title">A felugró kamera beállításai</string>
     <string name="popup_led_title">Kamera-LED</string>
     <string name="popup_led_summary">A LED-fény megjelenítése az első kamera kinyitásakor és bezárásakor</string>
@@ -142,7 +144,7 @@
     <string name="notification_slider_mode_priority_only">Csak a fontosak</string>
     <string name="notification_slider_mode_silent">Néma</string>
     <string name="notification_slider_mode_vibrate">Rezgés</string>
-    <string name="notification_slider_mode_none">Szokásos</string>
+    <string name="notification_slider_mode_none">Normál</string>
     <string name="thermal_title">Optimalizálásprofilok</string>
     <string name="thermal_summary">Alkalmazásonkét állíthatja be a profilokat az optimális teljesítmény érdekében</string>
     <string name="thermal_default">Nincs optimalizálás</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">A segédgomb művelete</string>
     <string name="stylus_title">Stylus toll</string>
     <string name="hbm_title">Magas fényerejű mód</string>
+    <string name="lcd_features_title">LCD-jellemzők</string>
+    <string name="lcd_features_summary">Magas fényerejű mód, CABC</string>
+    <string name="lcd_hbm_title">Magas fényerejű mód, HBM</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC</string>
+    <string name="lcd_features_info">HBM = Magas Fényerőmód növeli a kijelző maximális fényerejét, hogy javítsa a láthatóságot napfényben. Növeli az energiafogyasztást.\n\nCABC = Tartalomfüggő háttérvilágítás-vezérlés beállítja a kijelző és a háttérvilágítás fényerejét az aktuálisan megjelenített tartalom alapján, hogy csökkentse az energiafogyasztást, lehetőleg minőségromlás nélkül.</string>
+    <string name="doze_brightness_title">Fényerő bekapcsolva marad</string>
+    <string name="doze_brightness_summary">%s mód aktiválva van</string>
+    <string name="doze_brightness_low">Alacsony fényerő</string>
+    <string name="doze_brightness_high">Magas fényerő</string>
+    <string name="doze_brightness_adaptive">Alkalmazkodó fényerő</string>
 </resources>

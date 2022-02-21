@@ -118,8 +118,8 @@
     <string name="swipe_up_dlg_title">Pilih aksi saat mengusap ke atas</string>
     <string name="swipe_down_dlg_title">Pilih aksi saat mengusap ke bawah</string>
     <string name="tap_title">Ketuk sekali</string>
-    <string name="double_tap_title">Ketukan ganda</string>
-    <string name="long_tap_title">Ketukan lama</string>
+    <string name="double_tap_title">Ketuk dua kali</string>
+    <string name="long_tap_title">लोंग टैप</string>
     <string name="tap_dlg_title">Pilih tindakan untuk sekali ketuk</string>
     <string name="double_tap_dlg_title">Pilih tindakan untuk ketukan ganda</string>
     <string name="long_tap_dlg_title">Pilih tindakan untuk ketukan lama</string>

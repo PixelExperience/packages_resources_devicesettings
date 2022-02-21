@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Anti-sfarfallio</string>
     <string name="dc_dimming_enable_summary">La modalità anti-sfarfallio aiuta a ridurre l\'affaticamento degli occhi in condizioni di scarsa luminosità utilizzando la funzione \"DC dimming\". Essa potrebbe diminuire l\'accuratezza dei colori ed influire sul modo in cui alcuni elementi sono visualizzati.</string>
     <string name="dc_dimming_enable_summary_not_supported">l\'anti-sfarfallio non é attualmente supportato dal kernel</string>
+    <string name="dirac_enable">Usa \"Mi Sound Enhancer\"</string>
     <string name="dirac_title">Ottimizzazione Mi Sound</string>
     <string name="dirac_summary">Ottimizza qualità audio</string>
     <string name="dirac_headset_title">Scegli il tipo di cuffie</string>
@@ -48,7 +49,7 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Auricolari Mi Basic</string>
     <string name="dirac_headset_earphone">Auricolari Mi</string>
-    <string name="dirac_preset_default">Predefinito</string>
+    <string name="dirac_preset_default">Predefinite</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Amplificazione bassi</string>
     <string name="popup_settings_title">Impostazioni fotocamera anteriore</string>
     <string name="popup_led_title">Luce lampeggiante</string>
     <string name="popup_led_summary">Lampeggia la luce quando la fotocamera anteriore viene aperta o chiusa</string>
@@ -121,7 +123,7 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="swipe_down_dlg_title">Seleziona l\'azione per lo scorrimento verso il basso</string>
     <string name="tap_title">Singolo tocco</string>
     <string name="double_tap_title">Doppio tocco</string>
-    <string name="long_tap_title">Pressione prolungata</string>
+    <string name="long_tap_title">Tocco prolungato</string>
     <string name="tap_dlg_title">Seleziona l\'azione per il singolo tocco</string>
     <string name="double_tap_dlg_title">Seleziona l\'azione per il doppio tocco</string>
     <string name="long_tap_dlg_title">Seleziona l\'azione per la pressione prolungata</string>
@@ -171,10 +173,21 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="touch_sensitivity_summary">Controlla la sensibilità dei tocchi ripetuti</string>
     <string name="touch_resistant_title">Area non-touch</string>
     <string name="touch_resistant_summary">Riduce la sensibilità vicino ai bordi per prevenire tocchi accidentali</string>
-    <string name="button_settings_title">Pulsanti</string>
+    <string name="button_settings_title">Tasti</string>
     <string name="button_swap_summary">Scambia pulsanti di navigazione</string>
     <string name="home_button_extra_settings">Personalizza il comportamento del tasto home</string>
     <string name="assistant_button_action">Azione chiave dell\'assistente</string>
     <string name="stylus_title">Penne stilografiche</string>
     <string name="hbm_title">Modalità alta luminosità</string>
+    <string name="lcd_features_title">Caratteristiche LCD</string>
+    <string name="lcd_features_summary">Modalità ad Alta Luminosità, CABC</string>
+    <string name="lcd_hbm_title">Modalità ad Alta Luminosità (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Modalità CABC</string>
+    <string name="lcd_features_info">High Brightness Mode (HBM) incrementa la luminosità massima del display per migliorare la visibilità sotto la luce del sole. Aumenta il consumo energetico.\n\nCABC (Content Adaptive Backlight Control) regola il display e la luminosità in base al contenuto mostrato, per ridurre il consumo senza degrado dell\'immagine.</string>
+    <string name="doze_brightness_title">Luminosità sempre attiva</string>
+    <string name="doze_brightness_summary">La modalità %s è abilitata</string>
+    <string name="doze_brightness_low">Luminosità bassa</string>
+    <string name="doze_brightness_high">Luminosità alta</string>
+    <string name="doze_brightness_adaptive">Luminosità adattiva</string>
 </resources>

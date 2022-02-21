@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">깜박임 방지</string>
     <string name="dc_dimming_enable_summary">깜박임 방지 모드는 \"DC 디밍\"기능을 사용하여 저조도 조건에서 눈의 피로를 줄이는 데 도움이됩니다.  색상 정확도가 떨어지고 일부 항목이 표시되는 방식에 영향을 미칠 수 있습니다.</string>
     <string name="dc_dimming_enable_summary_not_supported">깜빡임 방지 기능은 커널에 의해 현재 지원되지 않습니다</string>
+    <string name="dirac_enable">Mi 사운드 인핸서 사용</string>
     <string name="dirac_title">Mi 사운드 강화</string>
     <string name="dirac_summary">음질 최적화</string>
     <string name="dirac_headset_title">헤드폰 유형 선택</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">컨트리</string>
     <string name="dirac_preset_dance">댄스</string>
     <string name="dirac_preset_metal">메탈</string>
+    <string name="dirac_preset_bass_booster">저음 강화</string>
     <string name="popup_settings_title">팝업 카메라 설정</string>
     <string name="popup_led_title">카메라 LED</string>
     <string name="popup_led_summary">전면 카메라를 열고 닫을 때 애니메이션 표시</string>
@@ -121,7 +123,7 @@
     <string name="swipe_up_dlg_title">위로 스와이프할 때의 작업 선택</string>
     <string name="swipe_down_dlg_title">아래로 스와이프할 때의 작업 선택</string>
     <string name="tap_title">한 번 탭</string>
-    <string name="double_tap_title">두 번 탭</string>
+    <string name="double_tap_title">더블 탭</string>
     <string name="long_tap_title">길게 탭</string>
     <string name="tap_dlg_title">한 번 탭할 때의 작업 선택</string>
     <string name="double_tap_dlg_title">두 번 탭할 때의 작업 선택</string>
@@ -144,7 +146,7 @@
     <string name="notification_slider_mode_priority_only">중요 알림만</string>
     <string name="notification_slider_mode_silent">무음</string>
     <string name="notification_slider_mode_vibrate">진동</string>
-    <string name="notification_slider_mode_none">보통</string>
+    <string name="notification_slider_mode_none">기본</string>
     <string name="thermal_title">최적화 프로필</string>
     <string name="thermal_summary">최적의 성능을 위해 앱별 프로파일 조정</string>
     <string name="thermal_default">최적화 안 함</string>
@@ -178,4 +180,15 @@
     <string name="assistant_button_action">도우미 키 동작</string>
     <string name="stylus_title">스타일러스 펜</string>
     <string name="hbm_title">최대 밝기 모드</string>
+    <string name="lcd_features_title">LCD 기능</string>
+    <string name="lcd_features_summary">최대 밝기 모드, CABC</string>
+    <string name="lcd_hbm_title">최대 밝기 모드 (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC 모드</string>
+    <string name="lcd_features_info">최대 밝기 모드(HBM)는 직사광선 아래에서도 화면이 더 잘 보이도록 최대 밝기를 더 높입니다. 배터리 소모량이 증가합니다.\n\nCABC(콘텐츠 적응형 백라이트 제어)는 화면이 잘 보이도록 하면서 배터리 소모량을 줄이기 위해 현재 보여지는 콘텐츠를 바탕으로 화면과 백라이트의 밝기를 조절합니다.</string>
+    <string name="doze_brightness_title">항상 밝기</string>
+    <string name="doze_brightness_summary">%s 모드가 활성화되었습니다</string>
+    <string name="doze_brightness_low">낮은 밝기</string>
+    <string name="doze_brightness_high">높은 밝기</string>
+    <string name="doze_brightness_adaptive">밝기 자동 조절</string>
 </resources>

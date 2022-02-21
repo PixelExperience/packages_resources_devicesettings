@@ -21,7 +21,7 @@
     <string name="dirac_hifi_summary">ژاوەژاو کەمتر دەکاتەوە و جۆرێتی دەنگ باشتر دەکات</string>
     <string name="dirac_headset_default">بنەڕەت</string>
     <string name="dirac_headset_general">گشتی</string>
-    <string name="dirac_preset_default">بنەڕەتی</string>
+    <string name="dirac_preset_default">بنەڕەت</string>
     <string name="dirac_preset_rock">ڕۆک</string>
     <string name="dirac_preset_jazz">جاز</string>
     <string name="dirac_preset_pop">پۆپ</string>
@@ -75,9 +75,9 @@
     <string name="swipe_right_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆلای ڕاست</string>
     <string name="swipe_up_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆ سەرەوە</string>
     <string name="swipe_down_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆ خوارەوە</string>
-    <string name="tap_title">یەکجار داگرتن</string>
-    <string name="double_tap_title">دوجار داگرتن</string>
-    <string name="long_tap_title">داگرتنی درێژ</string>
+    <string name="tap_title">یەکجار دەست لێدان</string>
+    <string name="double_tap_title">دوو جار دەستلێدان</string>
+    <string name="long_tap_title">پەنجە ڕاگرتنی درێژ</string>
     <string name="tap_dlg_title">دیاریکردنی کرداری یەکجار داگرتن</string>
     <string name="double_tap_dlg_title">دیاریکردنی کرداری دووجار داگرتن</string>
     <string name="long_tap_dlg_title">دیاریکردنی کرداری داگرتنی درێژ</string>

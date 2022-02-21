@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Virvendusfilter</string>
     <string name="dc_dimming_enable_summary">Virvendusfiltri reziim aitab DC Dimm-i abil vähendada silmade väsimust hämaras. See võib vähendada värvide täpsust ja mõjutada mõne üksuse kuvamist.</string>
     <string name="dc_dimming_enable_summary_not_supported">Tuum ei toeta praegu virvendustõrjet</string>
+    <string name="dirac_enable">Kasutage Mi Heli Parandajat</string>
     <string name="dirac_title">Mi Heli Parandaja</string>
     <string name="dirac_summary">Optimeerige heli kvaliteeti</string>
     <string name="dirac_headset_title">Valige kõrvaklapitüüp</string>
@@ -48,7 +49,7 @@
     <string name="dirac_headset_in_ear2">Kõrvasisene Mi 2</string>
     <string name="dirac_headset_earphone_basic">Mi Kõrvaklapid Basic</string>
     <string name="dirac_headset_earphone">Mi Kõrvaklapid</string>
-    <string name="dirac_preset_default">Vaikimisi</string>
+    <string name="dirac_preset_default">Vaikeseade</string>
     <string name="dirac_preset_rock">Kivi</string>
     <string name="dirac_preset_jazz">Džäss</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Riik</string>
     <string name="dirac_preset_dance">Tants</string>
     <string name="dirac_preset_metal">Metral</string>
+    <string name="dirac_preset_bass_booster">Bassivõimendi</string>
     <string name="popup_settings_title">Pop-up kaamera seaded</string>
     <string name="popup_led_title">Kaamera LED</string>
     <string name="popup_led_summary">Esikaamera ilmumisel ja tagasitõmbumisel näidake LED-valgust</string>
@@ -176,4 +178,15 @@
     <string name="assistant_button_action">Assistendi nupu toiming</string>
     <string name="stylus_title">Stylus</string>
     <string name="hbm_title">Kõrge heleduse režiim</string>
+    <string name="lcd_features_title">Ekraani omadused</string>
+    <string name="lcd_features_summary">Kõrge heledusega režiim (CABC)</string>
+    <string name="lcd_hbm_title">Kõrge heledusega režiim (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC režiim</string>
+    <string name="lcd_features_info">HBM (Kõrge heleduse režiim) suurendab ekraani maksimaalset heledust, et parandada nähtavust päikesevalguse käes. Suurendab energiatarbimist.\n\nCABC (Sisuga kohanduv taustvalgustuse juhtimine) reguleerib ekraani ja taustvalgustuse heledust vastavalt praegu näidatud sisule, et vähendada energiatarvet ilma, et kvaliteet halveneks. </string>
+    <string name="doze_brightness_title">Ekraani heledus lukustusrežiimis</string>
+    <string name="doze_brightness_summary">%s režiim on lubatud</string>
+    <string name="doze_brightness_low">Madal heledus</string>
+    <string name="doze_brightness_high">Kõrge heledus</string>
+    <string name="doze_brightness_adaptive">Kohanduv heledus</string>
 </resources>

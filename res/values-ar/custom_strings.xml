@@ -48,7 +48,7 @@
     <string name="dirac_headset_in_ear2">سماعة Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">سماعة Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">سماعة Mi Earphones</string>
-    <string name="dirac_preset_default">الافتراضي</string>
+    <string name="dirac_preset_default">التطبيقات التلقائية</string>
     <string name="dirac_preset_rock">وضع الروك</string>
     <string name="dirac_preset_jazz">وضع الجازز</string>
     <string name="dirac_preset_pop">وضع البوب</string>
@@ -119,8 +119,8 @@
     <string name="swipe_up_dlg_title">حدد اجراء السحب الى الاعلى</string>
     <string name="swipe_down_dlg_title">حدد إجراء السحب الى الأسفل</string>
     <string name="tap_title">نقرة واحدة</string>
-    <string name="double_tap_title">نقرة مزدوجة</string>
-    <string name="long_tap_title">نقرة مطولة</string>
+    <string name="double_tap_title">نقرتين</string>
+    <string name="long_tap_title">لمس مع الإستمرار</string>
     <string name="tap_dlg_title">حدد إجراء للنقرة الواحدة</string>
     <string name="double_tap_dlg_title">حدد إجراء للنقرة المزدوجة</string>
     <string name="long_tap_dlg_title">حدد إجراء للنقر المطول</string>
@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">تحقق من مستشعر القرب قبل تنفيذ الإجراء</string>
     <string name="oneplus_advanced_settings">إعدادات OnePlus</string>
     <string name="oneplus_advanced_settings_summary">إعدادات مخصصة لجهازك</string>
+    <string name="panel_modes_settings_title">اوضاع اللوحة</string>
+    <string name="panel_modes_settings_summary">اختر احد اعدادات العرض المعدة مسبقا</string>
     <string name="notification_slider_category_title">مزلاق التنبيه</string>
     <string name="notification_slider_selection_dialog_title">إجراء</string>
     <string name="notification_slider_top_position">الموضع العلوي</string>
@@ -174,4 +176,10 @@
     <string name="assistant_button_action">إجراء زر المساعد الرقمي</string>
     <string name="stylus_title">قلم ستايلس</string>
     <string name="hbm_title">وضع السطوع العالي</string>
+    <string name="lcd_features_title">خصائص شاشة LCD</string>
+    <string name="lcd_features_summary">وضع السطوع العالي</string>
+    <string name="lcd_hbm_title">وضع السطوع العالي (و س ع) </string>
+    <string name="lcd_hbm_tile_title">و س ع</string>
+    <string name="lcd_cabc_title">وضع اعداد الاضاءة الخلفية حسب المحتوى</string>
+    <string name="lcd_features_info">وضع الإضاءة العالية (HBM) يرفع الحد الأقصى لإضاءة شاشة العرض لتحسين الرؤية تحت ضوء الشمس. قد يزيد من استهلاك الطاقة.\n\nيقوم وضع \"التحكم بالإضاءة حسب المحتوى\" (CABC) بضبط شاشة العرض والإضاءة الخلفية وفق المحتوى المعروض، لتوفير استهلاك الطاقة من دون تأثر الجودة.</string>
 </resources>
