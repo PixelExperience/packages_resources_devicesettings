@@ -257,4 +257,14 @@
     <string name="doze_brightness_low">Low brightness</string>
     <string name="doze_brightness_high">High brightness</string>
     <string name="doze_brightness_adaptive">Adaptive brightness</string>
+
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Refresh rate per-app</string>
+    <string name="refresh_summary">Set a specific refresh rate for each application</string>
+    <string name="refresh_default">Default</string>
+    <string name="refresh_low">Low (30Hz)</string>
+    <string name="refresh_medium">Medium (60Hz)</string>
+    <string name="refresh_high">High (90Hz)</string>
+    <string name="refresh_extreme">Extreme (120Hz)</string>
+
 </resources>
