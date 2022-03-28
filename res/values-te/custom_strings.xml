@@ -113,4 +113,5 @@
     <string name="tap_to_wake_summary">పరికరాన్ని ఎక్కించడానికి స్క్రీన్పై ఎక్కడైనా రెండుసార్లు నొక్కండి</string>
     <string name="allow_proximity_sensor_title">సన్నిహిత సెన్సార్ను అనుమతించండి</string>
     <string name="allow_proximity_sensor_summary">చర్యను అమలు చేయడానికి ముందు సన్నిహిత సెన్సార్ను తనిఖీ చేయండి</string>
+    <string name="refresh_default">డిఫాల్ట్</string>
 </resources>

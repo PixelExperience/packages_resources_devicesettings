@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="display_title">Ekrani</string>
     <string name="dirac_title">Përmirësues zëri Mi</string>
     <string name="dirac_summary">Optimizo kualitetin e zërit</string>
     <string name="dirac_headset_title">Zgjidh tipin e kufjeve</string>
@@ -91,4 +92,8 @@
     <string name="long_tap_dlg_title">Zgjedh aksionet për prekje të gjatë</string>
     <string name="notification_slider_mode_none">Normal</string>
     <string name="button_settings_title">Butonat</string>
+    <string name="lcd_hbm_title_enabled">I aktivizuar</string>
+    <string name="lcd_hbm_title_disabled">I çaktivizuar</string>
+    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="refresh_default">Të parazgjedhura</string>
 </resources>

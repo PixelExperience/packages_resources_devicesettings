@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Assistent Tastenaktion</string>
     <string name="stylus_title">Stift</string>
     <string name="hbm_title">Hohe Helligkeit</string>
-    <string name="lcd_features_title">LCD-Funktionen</string>
-    <string name="lcd_features_summary">Hohe Helligkeit Modus, CABC</string>
-    <string name="lcd_hbm_title">Hohe Helligkeit Modus (HBM, CABC)</string>
+    <string name="lcd_hbm_title">Hohe Helligkeit</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">CABC Modus</string>
-    <string name="lcd_features_info">Der High Brightness Mode (HBM) erhöht die maximale Helligkeit des Displays, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Display- und Hintergrundbeleuchtungshelligkeit basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
+    <string name="lcd_hbm_title_enabled">Aktiviert</string>
+    <string name="lcd_hbm_title_disabled">Deaktiviert</string>
+    <string name="lcd_cabc_off">Aus</string>
     <string name="doze_brightness_title">Helligkeit des Always-On Displays</string>
     <string name="doze_brightness_summary">%s Modus ist Aktiviert</string>
     <string name="doze_brightness_low">Niedrige Helligkeit</string>
     <string name="doze_brightness_high">Hohe Helligkeit</string>
     <string name="doze_brightness_adaptive">Automatische Helligkeit</string>
+    <string name="refresh_default">Standardeinstellung</string>
 </resources>

@@ -99,4 +99,7 @@
     <string name="notification_slider_mode_none">Normal</string>
     <string name="refresh_rate_settings_title">Skærmopdateringsfrekvens</string>
     <string name="button_settings_title">Knapper</string>
+    <string name="lcd_hbm_title_enabled">Aktiveret</string>
+    <string name="lcd_hbm_title_disabled">Deaktiveret</string>
+    <string name="refresh_default">Standard</string>
 </resources>

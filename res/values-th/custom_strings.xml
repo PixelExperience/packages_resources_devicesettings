@@ -124,4 +124,7 @@
     <string name="thermal_gaming">เกมส์</string>
     <string name="refresh_rate_settings_title">อัตราการรีเฟรชของหน้าจอ</string>
     <string name="button_settings_title">ปุ่ม</string>
+    <string name="lcd_hbm_title_enabled">เปิดใช้งาน</string>
+    <string name="lcd_hbm_title_disabled">ปิดการใช้งาน</string>
+    <string name="refresh_default">ค่าเริ่มต้น</string>
 </resources>

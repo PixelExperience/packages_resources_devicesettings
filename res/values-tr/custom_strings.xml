@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Asistan tuşu eylemi</string>
     <string name="stylus_title">Dokunmatik kalem</string>
     <string name="hbm_title">Yüksek Parlaklık Modu</string>
-    <string name="lcd_features_title">LCD özellikleri</string>
-    <string name="lcd_features_summary">Yüksek Parlaklık Modu, İUAIK</string>
-    <string name="lcd_hbm_title">Yüksek Parlaklık Modu (YPM)</string>
+    <string name="lcd_hbm_title">Yüksek Parlaklık Modu</string>
     <string name="lcd_hbm_tile_title">YPM</string>
-    <string name="lcd_cabc_title">İUAIK Modu</string>
-    <string name="lcd_features_info">Yüksek Parlaklık Modu (YPM), güneş ışığı altında görünürlüğü iyileştirmek için ekranın maksimum parlaklığını artırır. Güç tüketimini artırır.\n\nİUAIK (İçerik Uyarlamalı Arka Işık Kontrolü), güç tüketimini bozulma olmadan azaltmak için o anda görüntülenen içeriğe göre ekran ve arka ışık parlaklığını ayarlar.</string>
+    <string name="lcd_hbm_title_enabled">Etkin</string>
+    <string name="lcd_hbm_title_disabled">Devre dışı</string>
+    <string name="lcd_cabc_off">Kapalı</string>
     <string name="doze_brightness_title">Her zaman açık ekran parlaklığı</string>
     <string name="doze_brightness_summary">%s modu etkinleştirildi</string>
     <string name="doze_brightness_low">Düşük parlaklık</string>
     <string name="doze_brightness_high">Yüksek parlaklık</string>
     <string name="doze_brightness_adaptive">Uyarlanabilir parlaklık</string>
+    <string name="refresh_default">Varsayılan</string>
 </resources>

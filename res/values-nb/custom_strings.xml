@@ -166,4 +166,8 @@
     <string name="touch_resistant_summary">Reduserer følsomhet nær kantene for å forhindre utilsiktede trykk</string>
     <string name="button_settings_title">Knapper</string>
     <string name="home_button_extra_settings">Tilapss oppførselen til hjemknappen</string>
+    <string name="lcd_hbm_title_enabled">Aktivert</string>
+    <string name="lcd_hbm_title_disabled">Deaktivert</string>
+    <string name="lcd_cabc_off">Av</string>
+    <string name="refresh_default">Standard</string>
 </resources>

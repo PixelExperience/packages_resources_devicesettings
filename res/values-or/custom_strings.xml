@@ -19,7 +19,7 @@
     <string name="dc_dimming_enable_title">ଆଣ୍ଟି ଫ୍ଲିକର୍ |</string>
     <string name="dc_dimming_enable_summary">ଆଣ୍ଟି ଫ୍ଲିକର୍ ମୋଡ୍ “ଡିସି ଡିମିଙ୍ଗ୍” ବ feature ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରି ସ୍ୱଳ୍ପ ଆଲୋକ ଅବସ୍ଥାରେ ଆଖିର ଷ୍ଟ୍ରେନ୍ ହ୍ରାସ କରିବାରେ ସାହାଯ୍ୟ କରେ | ଏହା ରଙ୍ଗର ସଠିକତାକୁ ହ୍ରାସ କରିପାରେ ଏବଂ କିଛି ଆଇଟମ୍ ପ୍ରଦର୍ଶିତ ହେବା ଉପରେ ପ୍ରଭାବ ପକାଇପାରେ |</string>
     <string name="dc_dimming_enable_summary_not_supported">ଆଣ୍ଟି ଫ୍ଲିକର୍ ବର୍ତ୍ତମାନ କର୍ଣ୍ଣଲ ଦ୍ୱାରା ସମର୍ଥିତ ନୁହେଁ |</string>
-    <string name="dirac_enable">ମି ସାଉଣ୍ଡ ଏନହାନ୍ସର୍ ବ୍ୟବହାର କରନ୍ତୁ |</string>
+    <string name="dirac_enable">Mi ଧ୍ଵନି ବର୍ଦ୍ଧକ ବ୍ୟବହାର କରିବା</string>
     <string name="dirac_title">Mi ଧ୍ୱନୀ ବର୍ଦ୍ଧକ</string>
     <string name="dirac_summary">ଅଡିଓ ଗୁଣବତ୍ତା ଅପ୍ଟିମାଇଜ୍‌ କରନ୍ତୁ</string>
     <string name="dirac_headset_title">ହେଡ୍‌ଫୋନ୍‌ ପ୍ରକାର ଚୟନ କରନ୍ତୁ</string>
@@ -60,7 +60,7 @@
     <string name="dirac_preset_country">କଣ୍ଟ୍ରୀ</string>
     <string name="dirac_preset_dance">ନୃତ୍ୟ</string>
     <string name="dirac_preset_metal">ମେଟାଲ୍</string>
-    <string name="dirac_preset_bass_booster">ବ୍ୟାସ୍ ବୁଷ୍ଟର୍ |</string>
+    <string name="dirac_preset_bass_booster">ବାସ୍ ବୁଷ୍ଟର୍</string>
     <string name="popup_settings_title">ପପ୍-ଅପ୍ କ୍ୟାମେରା ସେଟିଙ୍ଗ୍ |</string>
     <string name="popup_led_title">କ୍ୟାମେରା LED</string>
     <string name="popup_led_summary">ଯେତେବେଳେ ଆଗ କ୍ୟାମେରା ଦେଖାଯାଏ ଏବଂ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କରେ ସେତେବେଳେ LED ଆଲୋକ ଦେଖାନ୍ତୁ |</string>
@@ -104,7 +104,7 @@
     <string name="action_last_app">ଶେଷ ଆପ୍ |</string>
     <string name="action_volume_up">ଭଲ୍ୟୁମ୍ ବୃଦ୍ଧି</string>
     <string name="action_volume_down">ଭଲ୍ୟୁମ୍ ହ୍ରାସ</string>
-    <string name="action_voice_assistant">ସ୍ୱର ସହାୟକ</string>
+    <string name="action_voice_assistant">ଭଏସ୍ ସହାୟକ</string>
     <string name="action_play_pause">ଖେଳ / ବିରାମ |</string>
     <string name="action_previous_track">ପୂର୍ବ ଟ୍ରାକ୍</string>
     <string name="action_next_track">ପରବର୍ତ୍ତୀ ଟ୍ରାକ୍ |</string>
@@ -130,7 +130,7 @@
     <string name="tap_to_wake_summary">ଡିଭାଇସ୍ ଜାଗ୍ରତ କରିବା ପାଇଁ ସ୍କ୍ରିନର ଯେକ ଣସି ସ୍ଥାନରେ ଦୁଇଥର ଟ୍ୟାପ୍ କରନ୍ତୁ |</string>
     <string name="allow_proximity_sensor_title">ନିକଟତର ସେନସରକୁ ଅନୁମତି ଦିଅନ୍ତୁ |</string>
     <string name="allow_proximity_sensor_summary">କାର୍ଯ୍ୟ କରିବା ପୂର୍ବରୁ ନିକଟତର ସେନସର ଯାଞ୍ଚ କରନ୍ତୁ |</string>
-    <string name="oneplus_advanced_settings">OnePlus ସେଟିଂସମୂହ |</string>
+    <string name="oneplus_advanced_settings">OnePlus ସେଟିଂସ୍</string>
     <string name="oneplus_advanced_settings_summary">ଆପଣଙ୍କ ଡିଭାଇସ୍ ପାଇଁ କଷ୍ଟମ୍ ସେଟିଂସମୂହ |</string>
     <string name="panel_modes_settings_title">ପ୍ୟାନେଲ୍ ମୋଡ୍ |</string>
     <string name="panel_modes_settings_summary">ଏକ ପୂର୍ବ ନିର୍ମିତ ପ୍ରଦର୍ଶନ କାଲିବ୍ରେସନ୍ ବାଛନ୍ତୁ |</string>
@@ -142,16 +142,16 @@
     <string name="notification_slider_mode_total_silence">ସମ୍ପୂର୍ଣ୍ଣ ନୀରବତା</string>
     <string name="notification_slider_mode_alarms_only">କେବଳ ଆଲାର୍ମ |</string>
     <string name="notification_slider_mode_priority_only">କେବଳ ପ୍ରାଧାନ୍ୟ</string>
-    <string name="notification_slider_mode_silent">ଚୁପ୍ |</string>
+    <string name="notification_slider_mode_silent">ନୀରବ</string>
     <string name="notification_slider_mode_vibrate">କମ୍ପନ</string>
     <string name="notification_slider_mode_none">ସାଧାରଣ</string>
     <string name="thermal_title">ଅପ୍ଟିମାଇଜେସନ୍ ପ୍ରୋଫାଇଲ୍ |</string>
     <string name="thermal_summary">ସର୍ବୋତ୍କୃଷ୍ଟ କାର୍ଯ୍ୟଦକ୍ଷତା ପାଇଁ ପ୍ରତି-ଆପ୍ ପ୍ରୋଫାଇଲ୍ ଆଡଜଷ୍ଟ କରନ୍ତୁ |</string>
     <string name="thermal_default">କ optim ଣସି ଅପ୍ଟିମାଇଜେସନ୍ ନାହିଁ |</string>
-    <string name="thermal_benchmark">ପ୍ରଦର୍ଶନ</string>
+    <string name="thermal_benchmark">ସଞ୍ଚାଳନକାରିତା</string>
     <string name="thermal_browser">ବ୍ରାଉଜର୍</string>
     <string name="thermal_camera">କ୍ୟାମେରା</string>
-    <string name="thermal_dialer">ଡାଏଲର୍ |</string>
+    <string name="thermal_dialer">ଡାଏଲର୍</string>
     <string name="thermal_gaming">ଖେଳଗୁଡିକ</string>
     <string name="thermal_streaming">ଷ୍ଟ୍ରିମିଂ ପ୍ରୟୋଗଗୁଡ଼ିକ |</string>
     <string name="raise_to_wake_gesture_title">ଜାଗ୍ରତ ହେବା ପାଇଁ ଉଠ |</string>
@@ -178,15 +178,13 @@
     <string name="assistant_button_action">ସହାୟକ କି କାର୍ଯ୍ୟ</string>
     <string name="stylus_title">ଷ୍ଟାଇଲସ୍ ପେନ୍ |</string>
     <string name="hbm_title">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍</string>
-    <string name="lcd_features_title">LCD ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ</string>
-    <string name="lcd_features_summary">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍, CABC</string>
-    <string name="lcd_hbm_title">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍ (HBM)</string>
+    <string name="lcd_hbm_title">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">CABC ମୋଡ୍</string>
-    <string name="lcd_features_info">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍ (HBM) ସୂର୍ଯ୍ୟକିରଣ ରେ ଦୃଶ୍ୟମାନତା ଉନ୍ନତ କରିବାକୁ ପ୍ରଦର୍ଶନର ସର୍ବାଧିକ ଉଜ୍ଜ୍ୱଳତା ବୃଦ୍ଧି କରେ। ପାୱାର୍ ବ୍ୟବହାର ବୃଦ୍ଧି କରେ।\n\nCABC (ବିଷୟବସ୍ତୁ ଆଡାପ୍ଟିଭ୍ ବ୍ୟାକ୍ ଲାଇଟ୍ ନିୟନ୍ତ୍ରଣ) ଅବକ୍ଷୟ ବିନା ପାୱାର୍ ବ୍ୟବହାର ହ୍ରାସ କରିବାକୁ ବର୍ତ୍ତମାନ ଦେଖାଯାଇଥିବା ବିଷୟବସ୍ତୁ ଉପରେ ଆଧାର କରି ପ୍ରଦର୍ଶନ ଏବଂ ବ୍ୟାକ୍ ଲାଇଟ୍ ଉଜ୍ଜ୍ୱଳତା ନିୟନ୍ତ୍ରଣ କରେ।</string>
-    <string name="doze_brightness_title">ସର୍ବଦା ଉଜ୍ଜ୍ୱଳତା ଉପରେ |</string>
+    <string name="lcd_cabc_off">ବନ୍ଦ</string>
+    <string name="doze_brightness_title">ସର୍ବଦା ଉଜ୍ଜ୍ୱଳତା ରେ</string>
     <string name="doze_brightness_summary">%s ମୋଡ୍ ସକ୍ଷମ ହୋଇଛି</string>
-    <string name="doze_brightness_low">କମ୍ ଉଜ୍ଜ୍ୱଳତା |</string>
-    <string name="doze_brightness_high">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା |</string>
+    <string name="doze_brightness_low">କମ୍ ଉଜ୍ଜ୍ୱଳତା</string>
+    <string name="doze_brightness_high">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା</string>
     <string name="doze_brightness_adaptive">ଆଡାପ୍ଟିଭ୍ ଉଜ୍ଜ୍ୱଳତା</string>
+    <string name="refresh_default">ଡିଫଲ୍ଟ</string>
 </resources>

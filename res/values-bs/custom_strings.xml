@@ -133,4 +133,7 @@
     <string name="device_min_refresh_rate">Minimalna brzina osvježavanja</string>
     <string name="refresh_rate_settings_title">Brzina osvježavanja ekrana</string>
     <string name="button_settings_title">Dugmad</string>
+    <string name="lcd_hbm_title_enabled">Omogućeno</string>
+    <string name="lcd_hbm_title_disabled">Onemogućeno</string>
+    <string name="refresh_default">Zadano</string>
 </resources>

@@ -52,4 +52,5 @@
     <string name="stop_operate_camera_frequently">អ្នកកំពុងបើកកាមេរ៉ាខាងមុខញឹកញាប់ពេក។</string>
     <string name="takeback_camera_front_failed">មិនអាចបិទកាមេរ៉ាខាងមុខបានទេ។ សូមព្យាយាម​ម្តង​ទៀត។</string>
     <string name="popup_camera_front_failed">មិនអាចបើកកាមេរ៉ាខាងមុខបានទេ។ សូមព្យាយាម​ម្តង​ទៀត។</string>
+    <string name="refresh_default">លំនាំដើម</string>
 </resources>

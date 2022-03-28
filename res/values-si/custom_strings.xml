@@ -44,4 +44,6 @@
     <string name="oneplus_advanced_settings">OnePlus සැකසුම්</string>
     <string name="oneplus_advanced_settings_summary">අභිරුචිය අනුව ඔබගේ උපාංගයේ සැකසුම්</string>
     <string name="button_settings_title">බොත්තම</string>
+    <string name="lcd_hbm_title_enabled">සක්‍රියයි</string>
+    <string name="lcd_hbm_title_disabled">අක්‍රීයයි</string>
 </resources>

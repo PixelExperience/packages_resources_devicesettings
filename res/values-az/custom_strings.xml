@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Titrəməyə qarşı</string>
     <string name="dc_dimming_enable_summary">Titrəməyə qarşı rejimi, \"DC qaraltma\" özəlliyini istifadə edərək zəif işıq şərtlərində göz yorğunluğunu azaltmağa kömək edir. Rəng dəqiqliyi azalda bilər və bəzi elementlərin görüntüləmə formasına təsir edə bilər.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-titrəmə hazırda nüvə tərəfindən dəstəklənmir</string>
+    <string name="dirac_enable">Mi Səs Gücləndiricini istifadə et</string>
     <string name="dirac_title">Mi Səs Gücləndirici</string>
     <string name="dirac_summary">Səs keyfiyyətini optimallaşdır</string>
     <string name="dirac_headset_title">Qulaqlıq növünü seçin</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Yerli</string>
     <string name="dirac_preset_dance">Rəqs</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Bas Artırıcı</string>
     <string name="popup_settings_title">Açılan kamera tənzimləmələri</string>
     <string name="popup_led_title">Kamera LED-i</string>
     <string name="popup_led_summary">Ön kamera yuvadan çıxıb geri girəndə LED işığını göstər</string>
@@ -176,10 +178,15 @@
     <string name="assistant_button_action">Assistant açar hərəkəti</string>
     <string name="stylus_title">Toxunaqlı Qələm</string>
     <string name="hbm_title">Yüksək parlaqlıq rejimi</string>
-    <string name="lcd_features_title">LCD özəllikləri</string>
-    <string name="lcd_features_summary">Yüksək parlaqlıq rejimi, CABC</string>
-    <string name="lcd_hbm_title">Yüksək parlaqlıq rejimi (HBM)</string>
+    <string name="lcd_hbm_title">Yüksək parlaqlıq rejimi</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">CABC rejimi</string>
-    <string name="lcd_features_info">Yüksək parlaqlıq rejimi (HBM), gün işığı altında ekranın görünməsini yaxşılaşdırmaq üçün maksimum parlaqlığı artırır. Enerji istifadəsini artırır.\n\nCABC (Məzmuna Uyğun Arxa işıq Nəzarəti), enerji istifadəsini ekranda pozulma olmadan azaltmaq üçün ekran və arxa işıq parlaqlığını həmin an göstərilən məzmuna görə nizamlayır.</string>
+    <string name="lcd_hbm_title_enabled">Fəallaşdırıldı</string>
+    <string name="lcd_hbm_title_disabled">Sıradan çıxarıldı</string>
+    <string name="lcd_cabc_off">Bağlı</string>
+    <string name="doze_brightness_title">Always on parlaqlığı</string>
+    <string name="doze_brightness_summary">%s rejimi fəaldır</string>
+    <string name="doze_brightness_low">Aşağı parlaqlıq</string>
+    <string name="doze_brightness_high">Yüksək parlaqlıq</string>
+    <string name="doze_brightness_adaptive">Adaptiv parlaqlıq</string>
+    <string name="refresh_default">İlkin</string>
 </resources>

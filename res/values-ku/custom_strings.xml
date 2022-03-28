@@ -109,4 +109,7 @@
     <string name="thermal_streaming">لێدانی لەسەرهێڵ</string>
     <string name="refresh_rate_settings_title">ڕێژەی نوێبوونەوەی ڕوونما</string>
     <string name="button_settings_title">دوگمەکان</string>
+    <string name="lcd_hbm_title_enabled">چالاککراوە</string>
+    <string name="lcd_hbm_title_disabled">ناچالاکە</string>
+    <string name="refresh_default">بنەڕەت</string>
 </resources>

@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Ação da tecla de assistente</string>
     <string name="stylus_title">Caneta Stylus</string>
     <string name="hbm_title">Modo de alto brilho</string>
-    <string name="lcd_features_title">Funcionalidades LCD</string>
-    <string name="lcd_features_summary">Modo de alto brilho (CABC)</string>
-    <string name="lcd_hbm_title">Modo de alto brilho (HBM)</string>
+    <string name="lcd_hbm_title">Modo de alto brilho</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">Modo CABC</string>
-    <string name="lcd_features_info">O modo de brilho intenso (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade sob a luz solar mas também aumenta o consumo de energia.\n\nO modo Content Adaptive Backlight Control (CABC) ajusta o brilho da tela e da retroiluminação tendo por base o conteúdo mostrado, reduzindo assim o consumo de energia sem degradar a qualidade da imagem.</string>
+    <string name="lcd_hbm_title_enabled">Ativado</string>
+    <string name="lcd_hbm_title_disabled">Desativado</string>
+    <string name="lcd_cabc_off">Desligado</string>
     <string name="doze_brightness_title">Brilho do modo sempre ativado</string>
     <string name="doze_brightness_summary">%s está ativado</string>
     <string name="doze_brightness_low">Brilho baixo</string>
     <string name="doze_brightness_high">Brilho alto</string>
     <string name="doze_brightness_adaptive">Brilho adaptável</string>
+    <string name="refresh_default">Padrão</string>
 </resources>

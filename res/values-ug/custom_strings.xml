@@ -69,4 +69,5 @@
     <string name="stop_operate_camera_frequently">ئالدى كامېرانى قايتا قايتا ئېچىپ تاقىماڭ</string>
     <string name="takeback_camera_front_failed">ئالدى كامېرانى چۈشۈرۈش مەغلۇپ بولدى، قايتا سىناڭ</string>
     <string name="popup_camera_front_failed">ئالدى كامېرا قاڭقىپ چىقمىدى،قايتا سىناڭ</string>
+    <string name="refresh_default">سۈكۈتتىكى ئەپ</string>
 </resources>

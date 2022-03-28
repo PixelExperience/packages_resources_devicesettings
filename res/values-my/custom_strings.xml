@@ -118,4 +118,5 @@
     <string name="thermal_dialer">ဖုန်းခေါ်ဆိုရန်</string>
     <string name="thermal_gaming">ဂိမ်းများ</string>
     <string name="button_settings_title">ခလုတ်များ</string>
+    <string name="refresh_default">မူရင်း</string>
 </resources>

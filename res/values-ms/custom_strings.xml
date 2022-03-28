@@ -167,4 +167,8 @@
     <string name="touch_resistant_summary">Mengurangkan kepekaan di tepi untuk mengelakkan sentuhan tidak sengaja</string>
     <string name="button_settings_title">Tombol</string>
     <string name="home_button_extra_settings">Sesuaikan tingkah laku butang rumah</string>
+    <string name="lcd_hbm_title_enabled">Dibolehkan</string>
+    <string name="lcd_hbm_title_disabled">Dimatikan</string>
+    <string name="lcd_cabc_off">nyahaktif</string>
+    <string name="refresh_default">Lalai</string>
 </resources>

@@ -124,4 +124,6 @@
     <string name="thermal_gaming">ஆட்டங்கள்</string>
     <string name="refresh_rate_settings_title">திறை புதுப்பிப்பு விகிதம்</string>
     <string name="button_settings_title">பட்டன்கள்</string>
+    <string name="lcd_cabc_off">நிறுத்து</string>
+    <string name="refresh_default">இயல்பு</string>
 </resources>

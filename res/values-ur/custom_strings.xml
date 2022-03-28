@@ -94,4 +94,7 @@
     <string name="allow_proximity_sensor_summary">کام شروع کرنے سے قبل ثالثوں کی جانچ</string>
     <string name="refresh_rate_settings_title">اسکرین ریفرش ریٹ</string>
     <string name="button_settings_title">بٹن</string>
+    <string name="lcd_hbm_title_enabled">فعال ہے</string>
+    <string name="lcd_hbm_title_disabled">غیر فعال</string>
+    <string name="refresh_default">پہلے سے طے شدہ</string>
 </resources>

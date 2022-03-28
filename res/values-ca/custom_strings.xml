@@ -155,6 +155,7 @@
     <string name="thermal_gaming">Jocs</string>
     <string name="thermal_streaming">Aplicacions de retransmissió</string>
     <string name="raise_to_wake_gesture_title">Aixeca per despertar</string>
+    <string name="raise_to_wake_gesture_summary">Activar el dispositiu en lloc de la notificació polsant</string>
     <string name="device_min_refresh_rate">Freqüència de refresc mínima</string>
     <string name="device_power_save_refresh_rate">Estalviar bateria automàticament</string>
     <string name="device_power_save_refresh_rate_switch">Baixar la taxa de refresc automàticament quan l\'estalvi de bateria estigui actiu</string>
@@ -162,9 +163,28 @@
     <string name="refresh_rate_settings_summary">Ajustar la taxa de refresc de la pantalla</string>
     <string name="refresh_rate_tile_title">Taxa de refresc</string>
     <string name="refresh_rate_tile_disabled">Estalvi de bateria activat</string>
+    <string name="touch_control_title">Optimitzacions de la pantalla tàctil</string>
     <string name="touch_game_mode_title">Activar el mode de joc</string>
+    <string name="touch_game_mode_summary">Contribueix a millorar l\'experiència de joc optimitzant la pantalla tàctil</string>
     <string name="touch_response_title">Resposta tàctil</string>
+    <string name="touch_response_summary">Controla la resposta tàctil</string>
     <string name="touch_sensitivity_title">Sensibilitat tàctil</string>
+    <string name="touch_sensitivity_summary">Controla la sensibilitat per a pulsacions repetides</string>
+    <string name="touch_resistant_title">Àrea resistent al tacte</string>
+    <string name="touch_resistant_summary">Redueix la sensibilitat prop de les vores per prevenir pulsacions accidentals</string>
     <string name="button_settings_title">Botons</string>
+    <string name="button_swap_summary">Inverteix els botons de navegació</string>
     <string name="home_button_extra_settings">Personalitzar el comportament del botó d\'inici</string>
+    <string name="assistant_button_action">Acció del botó de l\'assistent</string>
+    <string name="stylus_title">Llapis tàctil</string>
+    <string name="hbm_title">Mode d\'alta brillantor</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">Activada</string>
+    <string name="lcd_hbm_title_disabled">Deshabilitat</string>
+    <string name="doze_brightness_title">Brillantor del mode de pantalla sempre encesa</string>
+    <string name="doze_brightness_summary">El mode %s està activat</string>
+    <string name="doze_brightness_low">Brillantor baixa</string>
+    <string name="doze_brightness_high">Brillantor alta</string>
+    <string name="doze_brightness_adaptive">Brillantor adaptativa</string>
+    <string name="refresh_default">Predeterminada</string>
 </resources>

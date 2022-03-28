@@ -176,10 +176,10 @@
     <string name="assistant_button_action">إجراء زر المساعد الرقمي</string>
     <string name="stylus_title">قلم ستايلس</string>
     <string name="hbm_title">وضع السطوع العالي</string>
-    <string name="lcd_features_title">خصائص شاشة LCD</string>
-    <string name="lcd_features_summary">وضع السطوع العالي</string>
-    <string name="lcd_hbm_title">وضع السطوع العالي (و س ع) </string>
+    <string name="lcd_hbm_title">وضع السطوع العالي</string>
     <string name="lcd_hbm_tile_title">و س ع</string>
-    <string name="lcd_cabc_title">وضع اعداد الاضاءة الخلفية حسب المحتوى</string>
-    <string name="lcd_features_info">وضع الإضاءة العالية (HBM) يرفع الحد الأقصى لإضاءة شاشة العرض لتحسين الرؤية تحت ضوء الشمس. قد يزيد من استهلاك الطاقة.\n\nيقوم وضع \"التحكم بالإضاءة حسب المحتوى\" (CABC) بضبط شاشة العرض والإضاءة الخلفية وفق المحتوى المعروض، لتوفير استهلاك الطاقة من دون تأثر الجودة.</string>
+    <string name="lcd_hbm_title_enabled">مفعل</string>
+    <string name="lcd_hbm_title_disabled">معطّل</string>
+    <string name="lcd_cabc_off">مغلق</string>
+    <string name="refresh_default">التطبيقات التلقائية</string>
 </resources>

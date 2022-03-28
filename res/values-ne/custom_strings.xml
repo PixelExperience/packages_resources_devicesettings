@@ -72,4 +72,8 @@
     <string name="long_tap_title">लामो समय दबाउने</string>
     <string name="refresh_rate_settings_title">स्क्रिन रिफ्रेस रेट</string>
     <string name="button_settings_title">बटनहरू</string>
+    <string name="lcd_hbm_title_enabled">सक्रिय</string>
+    <string name="lcd_hbm_title_disabled">निस्क्रिय</string>
+    <string name="lcd_cabc_off">अफ </string>
+    <string name="refresh_default">पूर्वनिर्धारित</string>
 </resources>

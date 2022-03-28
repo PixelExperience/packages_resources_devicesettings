@@ -154,4 +154,8 @@
     <string name="device_min_refresh_rate">Минимална вредност освежавања</string>
     <string name="refresh_rate_settings_title">Освежавање екрана</string>
     <string name="button_settings_title">Дугмад</string>
+    <string name="lcd_hbm_title_enabled">Омогућено</string>
+    <string name="lcd_hbm_title_disabled">Онемогућено</string>
+    <string name="lcd_cabc_off">Искључено</string>
+    <string name="refresh_default">Подразумевана</string>
 </resources>

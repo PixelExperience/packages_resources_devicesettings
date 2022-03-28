@@ -178,15 +178,15 @@
     <string name="assistant_button_action">ಸಹಾಯಕ ಗುಂಡಿಯ ಕಾರ್ಯ</string>
     <string name="stylus_title">ಸ್ಟೈಲಸ್ ಲೇಖನಿ</string>
     <string name="hbm_title">ಹೆಚ್ಚು ಪ್ರಖರತೆ ಮೋಡ್</string>
-    <string name="lcd_features_title">ಎಲ್ ಸಿ ಡಿ ವೈಶಿಷ್ಟ್ಯಗಳು</string>
-    <string name="lcd_features_summary">ಹೆಚ್ಚು ಪ್ರಕಾಶಾನವಾದ ರೀತಿ</string>
-    <string name="lcd_hbm_title">ಹೆಚ್ಚು ಪ್ರಕಾಶಾನವಾದ ರೀತಿ ( HBM )</string>
+    <string name="lcd_hbm_title">ಹೆಚ್ಚು ಪ್ರಖರತೆ ಮೋಡ್</string>
     <string name="lcd_hbm_tile_title">ಹೆಚ್ ಬಿ ಎಮ್</string>
-    <string name="lcd_cabc_title">ಸಿ ಎ ಬಿ ಸಿ ರೀತಿ</string>
-    <string name="lcd_features_info">ಹೆಚ್ಚು ಪ್ರಕಾಶಾನವಾದ ರೀತಿಯು  (HBM ) ಪರದೆಯು ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿ ಗೋಚರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಪರದೆಯ ಪ್ರಕಾಶವನ್ನು  ಗರಿಷ್ಠ ಮಟ್ಟದಲ್ಲಿ ಹೆಚ್ಚಿಸುತ್ತದೆ. ಇದು ಬ್ಯಾಟರಿ ಬಳಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. \n\nCABC ( ವಿಷಯ ಆಧಾರಿತ ಗೋಚರತೆಯ ನಿಯಂತ್ರಣ ) ಪರದೆಯ ಬೆಳಕನ್ನು ವಿಷಯ ಆಧಾರಿತವಾಗಿ ನಿರ್ಧರಿಸುತ್ತದೆ, ಇದು ಬ್ಯಾಟರಿ ಬಳಕೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ.</string>
+    <string name="lcd_hbm_title_enabled">ಸಕ್ರಿಯ</string>
+    <string name="lcd_hbm_title_disabled">ನಿಷ್‌ಕ್ರಿಯಗೊಳಿಸಿದೆ</string>
+    <string name="lcd_cabc_off">ಆಫ್</string>
     <string name="doze_brightness_title">ಯಾವಾಗಲು ಓನ್ ಬ್ರೈಟ್ನೆಸ್</string>
     <string name="doze_brightness_summary">%s mode ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
     <string name="doze_brightness_low">ಕಮ್ಮಿ ಬ್ರೈಟ್ನೆಸ್</string>
     <string name="doze_brightness_high">ಹೆಚ್ಚು ಬ್ರೈಟ್ನೆಸ್</string>
     <string name="doze_brightness_adaptive">ಹೊಂದಾಣಿಕೆಯ ಬ್ರೈಟ್ನೆಸ್</string>
+    <string name="refresh_default">ಡಿಫಾಲ್ಟ್</string>
 </resources>

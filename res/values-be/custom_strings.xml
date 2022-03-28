@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Перад выкананнем дзеяння праверыць датчык прыбліжэння</string>
     <string name="oneplus_advanced_settings">Налады OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Карыстацкія налады для вашай прылады</string>
+    <string name="panel_modes_settings_title">Рэжымы хуткай панэлі</string>
+    <string name="panel_modes_settings_summary">Абярыце прадусталяваную каліброўку экрана</string>
     <string name="notification_slider_category_title">Пераключальнік апавяшчэнняў</string>
     <string name="notification_slider_selection_dialog_title">Дзеянне</string>
     <string name="notification_slider_top_position">Верхняе становішча</string>
@@ -169,7 +171,14 @@
     <string name="touch_resistant_title">Вобласць, устойлівая да дотыкаў </string>
     <string name="touch_resistant_summary">Зніжае адчувальнасць па краях для прадухілення выпадковых націсканняў</string>
     <string name="button_settings_title">Кнопкі</string>
+    <string name="button_swap_summary">Памяняць месцамі кнопкі навігацыі</string>
     <string name="home_button_extra_settings">Наладзіць паводзіны кнопкі \"Дамоў\"</string>
     <string name="assistant_button_action">Дзеянне кнопкі асістэнта</string>
     <string name="stylus_title">Стылус</string>
+    <string name="hbm_title">Рэжым высокай яркасці</string>
+    <string name="lcd_hbm_title">Рэжым высокай яркасці</string>
+    <string name="lcd_hbm_title_enabled">Задзейнічана</string>
+    <string name="lcd_hbm_title_disabled">Не задзейнічана</string>
+    <string name="lcd_cabc_off">Адключана</string>
+    <string name="refresh_default">Стандартныя</string>
 </resources>

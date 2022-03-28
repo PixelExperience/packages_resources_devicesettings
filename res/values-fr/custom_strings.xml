@@ -178,16 +178,15 @@
     <string name="assistant_button_action">Action de la touche d\'Assistant</string>
     <string name="stylus_title">Stylet</string>
     <string name="hbm_title">Mode haute luminosité</string>
-    <string name="lcd_features_title">Options LCD</string>
-    <string name="lcd_features_summary">Mode Haute Luminosité, CRAC</string>
-    <string name="lcd_hbm_title">Mode Haute Luminosité (MHL)</string>
+    <string name="lcd_hbm_title">Mode haute luminosité</string>
     <string name="lcd_hbm_tile_title">MHL</string>
-    <string name="lcd_cabc_title">Mode CABC</string>
-    <string name="lcd_features_info">Le Mode Haute Luminosité (MHL) augmente la luminosité maximum de l\'écran afin d\'améliorer la lisibilité en plein soleil. Cela augmente la consommation d\'énergie.\n\nCRAC 
- (Contrôle du Rétroéclairage s\'Adaptant au Contenu) adapte l\'affichage et la luminosité du rétroéclairage en se basant sur le contenu affiché, afin de réduire la consommation sans dégradation.</string>
+    <string name="lcd_hbm_title_enabled">Activé</string>
+    <string name="lcd_hbm_title_disabled">Désactivé</string>
+    <string name="lcd_cabc_off">Off</string>
     <string name="doze_brightness_title">Toujours sur la luminosité</string>
     <string name="doze_brightness_summary">Le mode %s est activé</string>
     <string name="doze_brightness_low">Luminosité faible</string>
     <string name="doze_brightness_high">Luminosité maximale</string>
     <string name="doze_brightness_adaptive">Luminosité adaptative</string>
+    <string name="refresh_default">Par défaut</string>
 </resources>

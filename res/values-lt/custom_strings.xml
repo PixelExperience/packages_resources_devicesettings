@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Pagalbinio mygtuko valdymas</string>
     <string name="stylus_title">Rašiklis</string>
     <string name="hbm_title">Didelio ryškumo režimas</string>
-    <string name="lcd_features_title">LCD funkcijos</string>
-    <string name="lcd_features_summary">Didelio ryškumo režimas, CABC </string>
-    <string name="lcd_hbm_title">Didelio ryškumo režimas (HBM) </string>
+    <string name="lcd_hbm_title">Didelio ryškumo režimas</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">CABC režimas</string>
-    <string name="lcd_features_info">Didelio ryškumo režimas (HBM) padidina maksimalų ekrano ryškumą, kad būtų geriau matomas saulės šviesoje. Padidina energijos suvartojimą. \ n \ nCABC (prisitaikančio turinio foninio apšvietimo valdymas) reguliuoja ekrano ir foninio apšvietimo ryškumą pagal šiuo metu rodomą turinį, kad sumažintų energijos suvartojimą nepabloginant kokybės. </string>
+    <string name="lcd_hbm_title_enabled">Įjungta</string>
+    <string name="lcd_hbm_title_disabled">Išjungta</string>
+    <string name="lcd_cabc_off">Išjungta</string>
     <string name="doze_brightness_title">Visada įjungtas ryškumas</string>
     <string name="doze_brightness_summary">%s funkcija įjungta</string>
     <string name="doze_brightness_low">Mažas ryškumas</string>
     <string name="doze_brightness_high">Didelis ryškumas</string>
     <string name="doze_brightness_adaptive">Adaptyvusis ryškumas</string>
+    <string name="refresh_default">Numatytieji</string>
 </resources>

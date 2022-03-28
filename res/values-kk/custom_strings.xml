@@ -64,4 +64,6 @@
     <string name="stop_operate_camera_frequently">Сіз алдыңғы камераны тым жиі ашасыз.</string>
     <string name="takeback_camera_front_failed">Алдыңғы камераны жабу мүмкін болмады. Қайталап көріңіз.</string>
     <string name="popup_camera_front_failed">Алдыңғы камераны ашу мүмкін болмады. Қайталап көріңіз.</string>
+    <string name="lcd_cabc_off">Өшр.</string>
+    <string name="refresh_default">Әдепкі</string>
 </resources>

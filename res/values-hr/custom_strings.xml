@@ -178,15 +178,13 @@
     <string name="assistant_button_action">Radnja tipke Pomoćnik</string>
     <string name="stylus_title">Stylus Pen</string>
     <string name="hbm_title">Način rada visoke svjetline</string>
-    <string name="lcd_features_title">LCD značajke</string>
-    <string name="lcd_features_summary">Način rada visoke svjetline, CABC</string>
-    <string name="lcd_hbm_title">Način rada visoke svjetline (HBM)</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">CABC način</string>
-    <string name="lcd_features_info">Način rada visoke svjetline (HBM) povećava maksimalnu svjetlinu zaslona kako bi se poboljšala vidljivost pod sunčevim svjetlom. Povećava potrošnju energije.\n\nCABC (Content Adaptive Backlight Control) prilagođava svjetlinu zaslona i pozadinskog osvjetljenja na temelju trenutno prikazanog sadržaja, kako bi se smanjila potrošnja energije bez degradacije.</string>
+    <string name="lcd_hbm_title_enabled">Omogućeno</string>
+    <string name="lcd_hbm_title_disabled">Onemogućeno</string>
     <string name="doze_brightness_title">Always on svjetlina</string>
     <string name="doze_brightness_summary">%s način je omogućen</string>
     <string name="doze_brightness_low">Niska svjetlina</string>
     <string name="doze_brightness_high">Visoka svjetilna</string>
     <string name="doze_brightness_adaptive">Adaptivna svjetlina </string>
+    <string name="refresh_default">Zadano</string>
 </resources>

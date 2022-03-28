@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Anti-pâlpâire</string>
     <string name="dc_dimming_enable_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-pâlpâirea nu este suportată de către nucleu</string>
+    <string name="dirac_enable">Utilizați amplificatorul Mi Sound</string>
     <string name="dirac_title">Mi Sound Amplificator</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
     <string name="dirac_headset_title">Alege tipul de căști</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Țară</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Amplificare Bas</string>
     <string name="popup_settings_title">Setări cameră pop-up</string>
     <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">Afișează lumina LED, atunci când aparatul foto apare și se retrage</string>
@@ -176,10 +178,15 @@
     <string name="assistant_button_action">Asistent acțiune cheie</string>
     <string name="stylus_title">Stylus</string>
     <string name="hbm_title">Mod luminozitate ridicată</string>
-    <string name="lcd_features_title">Caracteristici LCD</string>
-    <string name="lcd_features_summary">Mod de luminozitate ridicată, CABC (Control adaptiv al iluminării din spate a conținutului)</string>
-    <string name="lcd_hbm_title">Mod de luminozitate ridicată (MLR)</string>
+    <string name="lcd_hbm_title">Mod luminozitate ridicată</string>
     <string name="lcd_hbm_tile_title">MLR</string>
-    <string name="lcd_cabc_title">Modul CABC (Control adaptiv al iluminării din spate a conținutului)</string>
-    <string name="lcd_features_info">Modul Luminozitatea Maxima (HBM) mărește luminozitatea maximă a afișajului pentru a îmbunătăți vizibilitatea la lumina soarelui. Crește consumul de energie. \n\nCABC (Content Adaptive Backlight Control) reglează luminozitatea afișajului și a luminii de fundal pe baza conținutului prezentat, pentru a reduce consumul de energie fără degradare.</string>
+    <string name="lcd_hbm_title_enabled">Activat</string>
+    <string name="lcd_hbm_title_disabled">Dezactivat</string>
+    <string name="lcd_cabc_off">Dezactivat</string>
+    <string name="doze_brightness_title">Luminozitate afișaj activ permanent</string>
+    <string name="doze_brightness_summary">Modul %s este activat</string>
+    <string name="doze_brightness_low">Luminozitate scăzută</string>
+    <string name="doze_brightness_high">Luminozitate ridicată</string>
+    <string name="doze_brightness_adaptive">Luminozitate adaptivă</string>
+    <string name="refresh_default">Prestabilite</string>
 </resources>

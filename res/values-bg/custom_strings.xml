@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Анти трептене</string>
     <string name="dc_dimming_enable_summary">Режимът \"анти трептене\" помага за намаляване на напрежението в очите при условия на слаба светлина, като използва функцията \"DC затъмняване\". Това може да влоши точността на цветовете и да повлияе на начина на показване на някои елементи.</string>
     <string name="dc_dimming_enable_summary_not_supported">Понастоящем ядрото не поддържа анти трептене</string>
+    <string name="dirac_enable">Използвайте Mi Sound Enhancer</string>
     <string name="dirac_title">Използване на MiSound enhancer</string>
     <string name="dirac_summary">Оптимизиране качеството на звука</string>
     <string name="dirac_headset_title">Вид слушалки</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Кънтри</string>
     <string name="dirac_preset_dance">Танцувална</string>
     <string name="dirac_preset_metal">Метъл</string>
+    <string name="dirac_preset_bass_booster">Бас Усилител</string>
     <string name="popup_settings_title">Настройки на изскачаща камера</string>
     <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">Включи LED светлини, когато предната камера се показва и скрива</string>
@@ -176,10 +178,15 @@
     <string name="assistant_button_action">Действие на бутон асистент</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим висока яркост </string>
-    <string name="lcd_features_title">LCD функции</string>
-    <string name="lcd_features_summary">Режим Висока яркост, CABC</string>
-    <string name="lcd_hbm_title">Режим Висока яркост (HBM)</string>
+    <string name="lcd_hbm_title">Режим висока яркост </string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">Режим CABC</string>
-    <string name="lcd_features_info">Режим Висока яркост (HBM) увеличава максималната яркост на дисплея, за да подобри видимостта при слънчева светлина. Увеличава консумацията на енергия.\n\nCABC (Адаптивен контрол на подсветката на съдържанието) регулира яркостта на дисплея и подсветката въз основа на текущо показваното съдържание, за да намали консумацията на енергия без влошаване на качеството.</string>
+    <string name="lcd_hbm_title_enabled">Активирани</string>
+    <string name="lcd_hbm_title_disabled">Деактивирани</string>
+    <string name="lcd_cabc_off">Изключен</string>
+    <string name="doze_brightness_title">Яркост на екрана в режим Always on</string>
+    <string name="doze_brightness_summary">%s режим е включен</string>
+    <string name="doze_brightness_low">Ниска яркост</string>
+    <string name="doze_brightness_high">Висока яркост</string>
+    <string name="doze_brightness_adaptive">Адаптивна яркост</string>
+    <string name="refresh_default">По подразбиране</string>
 </resources>

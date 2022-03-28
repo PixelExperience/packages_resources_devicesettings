@@ -114,4 +114,7 @@
     <string name="allow_proximity_sensor_summary">ક્રિયા કરવા પહેલાં પ્રોકસીમેટ્રી સેન્સર તપાસો</string>
     <string name="oneplus_advanced_settings">OnePlus સેટિંગ્સ</string>
     <string name="button_settings_title">બટનો</string>
+    <string name="lcd_hbm_title_enabled">સક્રિય કરો</string>
+    <string name="lcd_hbm_title_disabled">અક્ષમ કરેલું</string>
+    <string name="refresh_default">ડિફોલ્ટ</string>
 </resources>

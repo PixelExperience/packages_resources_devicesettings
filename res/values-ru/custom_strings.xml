@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Действие кнопки ассистента</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим высокой яркости</string>
-    <string name="lcd_features_title">Характеристики экрана</string>
-    <string name="lcd_features_summary">Режим высокой яркости (CABC)</string>
-    <string name="lcd_hbm_title">Режим высокой яркости (HBM)</string>
+    <string name="lcd_hbm_title">Режим высокой яркости</string>
     <string name="lcd_hbm_tile_title">HBM (Режим высокой яркости) </string>
-    <string name="lcd_cabc_title">Режим CABC</string>
-    <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
+    <string name="lcd_hbm_title_enabled">Включена</string>
+    <string name="lcd_hbm_title_disabled">Выключено</string>
+    <string name="lcd_cabc_off">Выкл</string>
     <string name="doze_brightness_title">Яркость экрана в режиме блокировки</string>
     <string name="doze_brightness_summary">%s режим включен</string>
     <string name="doze_brightness_low">Низкий уровень яркости</string>
     <string name="doze_brightness_high">Высокий уровень яркости</string>
     <string name="doze_brightness_adaptive">Адаптивный уровень яркости</string>
+    <string name="refresh_default">По умолчанию</string>
 </resources>

@@ -178,15 +178,15 @@
     <string name="assistant_button_action">助理关键操作</string>
     <string name="stylus_title">触控笔</string>
     <string name="hbm_title">高亮度模式</string>
-    <string name="lcd_features_title">LCD 功能</string>
-    <string name="lcd_features_summary">高亮度模式、动态背光控制</string>
     <string name="lcd_hbm_title">高亮度模式</string>
     <string name="lcd_hbm_tile_title">高亮度模式</string>
-    <string name="lcd_cabc_title">动态背光控制模式</string>
-    <string name="lcd_features_info">高亮度模式可以提升屏幕的最大亮度，以改善阳光下的可读性，但会增加电量消耗。\n\n动态背光控制可以根据当前的显示内容调整背光强度，在不损失显示质量的前提下减少电量消耗。</string>
+    <string name="lcd_hbm_title_enabled">已启用</string>
+    <string name="lcd_hbm_title_disabled">已禁用</string>
+    <string name="lcd_cabc_off">关闭</string>
     <string name="doze_brightness_title">屏幕常亮时的亮度</string>
     <string name="doze_brightness_summary">%s 模式已开启</string>
     <string name="doze_brightness_low">低亮度</string>
     <string name="doze_brightness_high">高亮度</string>
     <string name="doze_brightness_adaptive">自动调节亮度</string>
+    <string name="refresh_default">默认​​​​​</string>
 </resources>

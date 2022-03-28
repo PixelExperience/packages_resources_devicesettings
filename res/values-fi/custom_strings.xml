@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Assistant painikkeen toiminto</string>
     <string name="stylus_title">Kosketusnäyttökynä</string>
     <string name="hbm_title">Korkean kirkkauden tila</string>
-    <string name="lcd_features_title">LCD-ominaisuudet</string>
-    <string name="lcd_features_summary">Korkean kirkkauden tila, CABC</string>
-    <string name="lcd_hbm_title">Korkean kirkkauden tila (HBM)</string>
+    <string name="lcd_hbm_title">Korkean kirkkauden tila</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">CABC tila</string>
-    <string name="lcd_features_info">Korkean kirkkauden tila (HBM) lisää näytön maksimikirkkautta näkyvyyden parantamiseksi auringonvalossa. Lisää virrankulutusta.\n\nCABC (Sisältöön mukautuva näytön taustavalaistus) säätää näytön ja taustavalon kirkkauden näytön sisällön perusteella virrankulutuksen vähentämiseksi laadun kärsimättä.</string>
+    <string name="lcd_hbm_title_enabled">Käytössä</string>
+    <string name="lcd_hbm_title_disabled">Pois käytöstä</string>
+    <string name="lcd_cabc_off">Ei käytössä</string>
     <string name="doze_brightness_title">Vilkaisunäytön kirkkaus</string>
     <string name="doze_brightness_summary">%s  tila on käytössä</string>
     <string name="doze_brightness_low">Matala kirkkaus</string>
     <string name="doze_brightness_high">Korkea kirkkaus</string>
     <string name="doze_brightness_adaptive">Mukautuva kirkkaus</string>
+    <string name="refresh_default">Oletus</string>
 </resources>

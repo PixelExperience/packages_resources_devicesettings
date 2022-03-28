@@ -69,4 +69,8 @@
     <string name="popup_camera_front_failed">Не може да се отвори предната камера. Обидете се повторно.</string>
     <string name="notification_slider_mode_none">Нормален</string>
     <string name="button_settings_title">Копчиња</string>
+    <string name="lcd_hbm_title_enabled">Овозможено</string>
+    <string name="lcd_hbm_title_disabled">Оневозможено</string>
+    <string name="lcd_cabc_off">Исклучено</string>
+    <string name="refresh_default">Стандардно</string>
 </resources>

@@ -178,15 +178,15 @@
     <string name="assistant_button_action">Hành động phím trợ lý</string>
     <string name="stylus_title">Bút Stylus</string>
     <string name="hbm_title">Chế Độ Sáng Cao</string>
-    <string name="lcd_features_title">Tính năng cho màn hình LCD</string>
-    <string name="lcd_features_summary">Chế Độ Sáng Cao, CABC</string>
-    <string name="lcd_hbm_title">Chế Độ Sáng Cao (HBM)</string>
+    <string name="lcd_hbm_title">Chế Độ Sáng Cao</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">Chế độ CABC</string>
-    <string name="lcd_features_info">Chế độ Độ sáng Cao (HBM) tăng độ sáng tối đa của màn hình để cải thiện khả năng hiển thị dưới ánh sáng mặt trời. Tăng mức tiêu thụ điện năng.\n\nCABC (Điều khiển đèn nền thích ứng với nội dung) điều chỉnh độ sáng màn hình và đèn nền dựa trên nội dung đang chiếu, để giảm mức tiêu thụ điện năng mà không bị suy giảm.</string>
+    <string name="lcd_hbm_title_enabled">Đã bật</string>
+    <string name="lcd_hbm_title_disabled">Đã tắt</string>
+    <string name="lcd_cabc_off">Tắt</string>
     <string name="doze_brightness_title">Độ sáng luôn bật</string>
     <string name="doze_brightness_summary">Chế độ %s được kích hoạt</string>
     <string name="doze_brightness_low">Độ sáng thấp</string>
     <string name="doze_brightness_high">Độ sáng cao</string>
     <string name="doze_brightness_adaptive">Độ sáng thích ứng</string>
+    <string name="refresh_default">Mặc định</string>
 </resources>

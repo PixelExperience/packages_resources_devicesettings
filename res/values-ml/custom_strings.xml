@@ -116,4 +116,7 @@
     <string name="thermal_gaming">ഗെയിമുകൾ</string>
     <string name="refresh_rate_settings_title">സ്‌ക്രീൻ റിഫ്രഷ് റേറ്റ്</string>
     <string name="button_settings_title">ബട്ടണുകൾ</string>
+    <string name="lcd_hbm_title_enabled">പ്രവർത്തനമാക്കുക</string>
+    <string name="lcd_hbm_title_disabled">പ്രവർത്തനരഹിതമായി</string>
+    <string name="refresh_default">ഡിഫോൾട്ട്</string>
 </resources>

@@ -107,4 +107,7 @@
     <string name="thermal_gaming">Igre</string>
     <string name="refresh_rate_settings_title">Hitrost osveževanja zaslona</string>
     <string name="button_settings_title">Gumbi</string>
+    <string name="lcd_hbm_title_enabled">Omogočena</string>
+    <string name="lcd_hbm_title_disabled">Onemogočena</string>
+    <string name="refresh_default">Privzeto</string>
 </resources>

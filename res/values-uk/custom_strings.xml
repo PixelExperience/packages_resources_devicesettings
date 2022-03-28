@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Анти мерехтіння</string>
     <string name="dc_dimming_enable_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC dimming\". Це може погіршити точність кольорів і вплинути на спосіб відображення деяких елементів.</string>
     <string name="dc_dimming_enable_summary_not_supported">Функція антимерехтіння на даний момент не підтримується ядром</string>
+    <string name="dirac_enable">Використовуйте Mi Sound Enhancer</string>
     <string name="dirac_title">Покращення звуку \"Мі Sound\"</string>
     <string name="dirac_summary">Оптимізувати якість звуку</string>
     <string name="dirac_headset_title">Обрати тип навушників</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Кантрі</string>
     <string name="dirac_preset_dance">Танцювальна</string>
     <string name="dirac_preset_metal">Метал</string>
+    <string name="dirac_preset_bass_booster">Підсилювач басів</string>
     <string name="popup_settings_title">Налаштування висувної камери</string>
     <string name="popup_led_title">Світлодіод камери</string>
     <string name="popup_led_summary">Вмикати діодне світло, коли передня камера висувається та засувається</string>
@@ -176,10 +178,15 @@
     <string name="assistant_button_action">Дія клавіші помічника</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим високої яскравості</string>
-    <string name="lcd_features_title">Особливості LCD</string>
-    <string name="lcd_features_summary">Режим високої яскравості, CABC</string>
-    <string name="lcd_hbm_title">Режим високої яскравості (HBM)</string>
+    <string name="lcd_hbm_title">Режим високої яскравості</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_cabc_title">Режим CABC</string>
-    <string name="lcd_features_info">Режим високої яскравості (HBM) збільшує максимальну яскравість дисплея, щоб покращити видимість під сонячним світлом.  Збільшує енергоспоживання.\n\nCABC (Content Adaptive Backlight Control) регулює яскравість дисплея та підсвічування на основі поточного відображеного вмісту, щоб зменшити споживання енергії без погіршення якості.</string>
+    <string name="lcd_hbm_title_enabled">Увімкнено</string>
+    <string name="lcd_hbm_title_disabled">Вимкнено</string>
+    <string name="lcd_cabc_off">Вимкнено</string>
+    <string name="doze_brightness_title">Яскравість екрана в режимі блокування</string>
+    <string name="doze_brightness_summary">Режим %s увімкнено</string>
+    <string name="doze_brightness_low">Низька яскравість</string>
+    <string name="doze_brightness_high">Висока яскравість</string>
+    <string name="doze_brightness_adaptive">Адаптивна яскравість</string>
+    <string name="refresh_default">Типово</string>
 </resources>

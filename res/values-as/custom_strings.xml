@@ -69,4 +69,5 @@
     <string name="stop_operate_camera_frequently">আপুনি সন্মুখৰ কেমেৰা অতি সঘনাই খুলিছে।</string>
     <string name="takeback_camera_front_failed">সন্মুখৰ কেমেৰা বন্ধ কৰিব পৰা নগ\'ল। পুনৰ চেষ্টা কৰক।</string>
     <string name="popup_camera_front_failed">সন্মুখৰ কেমেৰা খুলিব পৰা নগ\'ল। পুনৰ চেষ্টা কৰক।</string>
+    <string name="refresh_default">ডিফ\'ল্ট</string>
 </resources>

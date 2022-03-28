@@ -56,4 +56,6 @@
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_gaming">Mga Laro</string>
     <string name="button_settings_title">Mga pindutan</string>
+    <string name="lcd_hbm_title_enabled">Naka-enable</string>
+    <string name="lcd_hbm_title_disabled">Naka-disable</string>
 </resources>

@@ -16,4 +16,6 @@
 -->
 <resources>
     <string name="button_settings_title">Knoppen</string>
+    <string name="lcd_hbm_title_enabled">Ynskeakele</string>
+    <string name="lcd_hbm_title_disabled">Utskeakele</string>
 </resources>

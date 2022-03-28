@@ -150,4 +150,8 @@
     <string name="thermal_streaming">Aplikasi streaming</string>
     <string name="refresh_rate_settings_title">स्क्रीन रिफ्रेश दर</string>
     <string name="button_settings_title">बटन</string>
+    <string name="lcd_hbm_title_enabled">सक्षम</string>
+    <string name="lcd_hbm_title_disabled">असक्षम</string>
+    <string name="lcd_cabc_off">बंद</string>
+    <string name="refresh_default">डिफ़ॉल्ट</string>
 </resources>

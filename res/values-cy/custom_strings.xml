@@ -17,4 +17,6 @@
 <resources>
     <string name="notification_slider_mode_none">Arferol</string>
     <string name="button_settings_title">Botymau</string>
+    <string name="lcd_hbm_title_enabled">Galluogwyd</string>
+    <string name="lcd_hbm_title_disabled">Analluogwyd</string>
 </resources>
