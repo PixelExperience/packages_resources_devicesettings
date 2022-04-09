@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="display_title">Display</string>
+    <string name="display_title">Bildschirm</string>
     <string name="dc_dimming_enable_title">Anti-Flimmern</string>
     <string name="dc_dimming_enable_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-Flicker wird derzeit vom Kernel nicht unterstützt</string>
@@ -25,7 +25,7 @@
     <string name="dirac_headset_title">Kopfhörertyp auswählen</string>
     <string name="dirac_preset_title">Vorgabe auswählen</string>
     <string name="dirac_hifi_title">Hi-Fi audio</string>
-    <string name="dirac_hifi_summary">Reduziert Rauschen und Verzerrung , um die  Audio Qualität zu erhöhen</string>
+    <string name="dirac_hifi_summary">Reduziert Rauschen und Verzerrung, um die Audio Qualität zu erhöhen</string>
     <string name="dirac_hifi_enable_title">Hi-Fi Audio aktivieren</string>
     <string name="dirac_headset_default">Standardeinstellung</string>
     <string name="dirac_headset_earbuds">Mi true wireless Kopfhörer</string>
@@ -178,15 +178,28 @@
     <string name="assistant_button_action">Assistent Tastenaktion</string>
     <string name="stylus_title">Stift</string>
     <string name="hbm_title">Hohe Helligkeit</string>
+    <string name="lcd_features_title">Zusätzliche Bildschirm Funktionen</string>
+    <string name="kernel_not_supported">Der Kernel unterstützt diese Funktion nicht</string>
     <string name="lcd_hbm_title">Hohe Helligkeit</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Aktiviert</string>
     <string name="lcd_hbm_title_disabled">Deaktiviert</string>
+    <string name="lcd_cabc_title">Inhaltsabhängige Hintergrundbeleuchtung </string>
+    <string name="lcd_cabc_tile_title">Inhaltsabhängige Hintergrundbeleuchtung (CABC)</string>
     <string name="lcd_cabc_off">Aus</string>
+    <string name="lcd_cabc_low">Leicht (UI)</string>
+    <string name="lcd_cabc_medium">Mittel (Videos)</string>
+    <string name="lcd_cabc_high">Hoch (Bilder)</string>
     <string name="doze_brightness_title">Helligkeit des Always-On Displays</string>
     <string name="doze_brightness_summary">%s Modus ist Aktiviert</string>
     <string name="doze_brightness_low">Niedrige Helligkeit</string>
     <string name="doze_brightness_high">Hohe Helligkeit</string>
     <string name="doze_brightness_adaptive">Automatische Helligkeit</string>
+    <string name="refresh_title">Bildwiederholungsrate (Hz) per App</string>
+    <string name="refresh_summary">Bestimmte Bildwiederholungsrate (Hz) für jede App einstellen</string>
     <string name="refresh_default">Standardeinstellung</string>
+    <string name="refresh_low">Wenig (30Hz)</string>
+    <string name="refresh_medium">Mittel (60Hz)</string>
+    <string name="refresh_high">Hoch (90Hz)</string>
+    <string name="refresh_extreme">Ultra (120Hz)</string>
 </resources>

@@ -178,15 +178,30 @@
     <string name="assistant_button_action">A segédgomb művelete</string>
     <string name="stylus_title">Stylus toll</string>
     <string name="hbm_title">Magas fényerejű mód</string>
+    <string name="lcd_features_title">További kijelzőfunkciók</string>
+    <string name="lcd_features_summary">Magasfényerő-mód és Tartalomkövető háttérvilágítás-vezérlés</string>
+    <string name="lcd_features_info">HBM = Magasfényerő-mód növeli a kijelző maximális fényerejét, hogy javítsa a láthatóságot napfényben. Ez növeli az energiafogyasztást.\n\nCABC = Tartalomkövető háttérvilágítás-vezérlés beállítja a kijelző és a háttérvilágítás fényerejét az aktuálisan megjelenített tartalom alapján, hogy csökkentse az energiafogyasztást, lehetőleg minőségromlás nélkül.</string>
+    <string name="kernel_not_supported">A kernel nem támogatja ezt a funkciót</string>
     <string name="lcd_hbm_title">Magas fényerejű mód</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Engedélyezve</string>
     <string name="lcd_hbm_title_disabled">Kikapcsolva</string>
+    <string name="lcd_cabc_title">Tartalomkövető háttérvilágítás-vezérlés</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">Ki</string>
+    <string name="lcd_cabc_low">Kevéssé (UI)</string>
+    <string name="lcd_cabc_medium">Közepesen (Videók)</string>
+    <string name="lcd_cabc_high">Erősen (Képek)</string>
     <string name="doze_brightness_title">Fényerő bekapcsolva marad</string>
     <string name="doze_brightness_summary">%s mód aktiválva van</string>
     <string name="doze_brightness_low">Alacsony fényerő</string>
     <string name="doze_brightness_high">Magas fényerő</string>
     <string name="doze_brightness_adaptive">Alkalmazkodó fényerő</string>
+    <string name="refresh_title">Alkalmazásonkénti képernyőfrissítés</string>
+    <string name="refresh_summary">Minden alkalmazáshoz külön beállítható egyéni érték</string>
     <string name="refresh_default">Alapértelmezett</string>
+    <string name="refresh_low">Alacsony (30Hz)</string>
+    <string name="refresh_medium">Közepes (60Hz)</string>
+    <string name="refresh_high">Magas (90Hz)</string>
+    <string name="refresh_extreme">Extrém (120Hz)</string>
 </resources>
