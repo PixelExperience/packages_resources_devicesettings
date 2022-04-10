@@ -243,6 +243,7 @@
     <string name="kernel_not_supported">Kernel did not support this feature</string>
 
     <string name="lcd_hbm_title">High Brightness Mode</string>
+    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Enabled</string>
     <string name="lcd_hbm_title_disabled">Disabled</string>
