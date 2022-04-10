@@ -70,6 +70,7 @@
     <string name="stop_operate_camera_frequently">ਤੁਸੀਂ ਸਾਹਮਣੇ ਵਾਲਾ ਕੈਮਰਾ ਬਹੁਤ ਹੀ ਤੇਜ਼ੀ ਨਾਲ ਖੋਲ੍ਹ ਰਹੇ ਹੋ।</string>
     <string name="takeback_camera_front_failed">ਮੂਹਰਲਾ ਕੈਮਰਾ ਬੰਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
     <string name="popup_camera_front_failed">ਮੂਹਰਲਾ ਕੈਮਰਾ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="button_settings_title">ਬਟਨ</string>
     <string name="lcd_cabc_off">ਬੰਦ</string>
     <string name="refresh_default">ਪੂਰਵ-ਨਿਰਧਾਰਤ</string>
 </resources>

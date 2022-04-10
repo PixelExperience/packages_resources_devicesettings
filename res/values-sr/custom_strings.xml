@@ -120,7 +120,7 @@
     <string name="swipe_down_dlg_title">Изаберите акцију када превлачите надоле</string>
     <string name="tap_title">Један додир</string>
     <string name="double_tap_title">Дупли додир</string>
-    <string name="long_tap_title">Дуги додир</string>
+    <string name="long_tap_title">Дуги притисак</string>
     <string name="tap_dlg_title">Изаберите акцију за један додир</string>
     <string name="double_tap_dlg_title">Изаберите акцију за дупли додир</string>
     <string name="long_tap_dlg_title">Изаберите акцију за дуги додир</string>
@@ -151,7 +151,7 @@
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игре</string>
     <string name="thermal_streaming">Апликације за стримовање</string>
-    <string name="device_min_refresh_rate">Минимална вредност освежавања</string>
+    <string name="device_min_refresh_rate">Минимална брзина освежавања</string>
     <string name="refresh_rate_settings_title">Освежавање екрана</string>
     <string name="button_settings_title">Дугмад</string>
     <string name="lcd_hbm_title_enabled">Омогућено</string>

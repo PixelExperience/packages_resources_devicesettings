@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="display_title">Дисплей</string>
-    <string name="dc_dimming_enable_title">Фильтр мерцания</string>
+    <string name="dc_dimming_enable_title">Защита от мерцания</string>
     <string name="dc_dimming_enable_summary">Режим фильтра мерцания помогает снизить утомляемость глаз в условиях низкой освещенности за счет использования функции «DC Dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
     <string name="dc_dimming_enable_summary_not_supported">Защита от мерцания пока не поддерживается ядром</string>
     <string name="dirac_enable">Используйте усилитель звука Mi</string>

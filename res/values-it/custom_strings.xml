@@ -157,7 +157,7 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="thermal_streaming">Streaming</string>
     <string name="raise_to_wake_gesture_title">Solleva il dispositivo per risvegliare</string>
     <string name="raise_to_wake_gesture_summary">Sveglia il dispositivo al posto delle notifiche tramite pulsazioni</string>
-    <string name="device_min_refresh_rate">Refresh rate minimo</string>
+    <string name="device_min_refresh_rate">Frequenza d\'aggiornamento minima</string>
     <string name="device_power_save_refresh_rate">Risparmia automaticamente la batteria</string>
     <string name="device_power_save_refresh_rate_switch">Abbassa automaticamente la frequenza d\'aggiornamento quando il risparmio energetico è attivo</string>
     <string name="refresh_rate_settings_title">Frequenza di aggiornamento</string>

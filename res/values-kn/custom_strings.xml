@@ -172,12 +172,13 @@
     <string name="touch_sensitivity_summary">ಪುನರಾವರ್ತಿತ ಟ್ಯಾಪ್‌ಗಳಿಗೆ ಸೂಕ್ಷ್ಮತೆಯನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ</string>
     <string name="touch_resistant_title">ಟಚ್-ನಿರೋಧಕ ಪ್ರದೇಶ</string>
     <string name="touch_resistant_summary">ಆಕಸ್ಮಿಕ ಸ್ಪರ್ಶವನ್ನು ತಡೆಗಟ್ಟಲು ಅಂಚುಗಳ ಬಳಿ ಸೂಕ್ಷ್ಮತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ</string>
-    <string name="button_settings_title">ಗುಂಡಿಗಳು</string>
+    <string name="button_settings_title">ಬಟನ್ ಗಳು</string>
     <string name="button_swap_summary">ನ್ಯಾವಿಗೇಷನ್ ಬಟನ್‌ಗಳನ್ನು ಸ್ವ್ಯಾಪ್ ಮಾಡಿ</string>
     <string name="home_button_extra_settings">ಹೋಮ್ ಬಟನ್ ನಡವಳಿಕೆಯನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ</string>
     <string name="assistant_button_action">ಸಹಾಯಕ ಗುಂಡಿಯ ಕಾರ್ಯ</string>
     <string name="stylus_title">ಸ್ಟೈಲಸ್ ಲೇಖನಿ</string>
     <string name="hbm_title">ಹೆಚ್ಚು ಪ್ರಖರತೆ ಮೋಡ್</string>
+    <string name="lcd_features_title">ಹೆಚ್ಚುವರಿ ಪ್ರದರ್ಶನ ವೈಶಿಷ್ಟ್ಯಗಳು</string>
     <string name="lcd_hbm_title">ಹೆಚ್ಚು ಪ್ರಖರತೆ ಮೋಡ್</string>
     <string name="lcd_hbm_tile_title">ಹೆಚ್ ಬಿ ಎಮ್</string>
     <string name="lcd_hbm_title_enabled">ಸಕ್ರಿಯ</string>

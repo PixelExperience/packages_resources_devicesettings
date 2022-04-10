@@ -178,6 +178,7 @@
     <string name="assistant_button_action">Radnja tipke Pomoćnik</string>
     <string name="stylus_title">Stylus Pen</string>
     <string name="hbm_title">Način rada visoke svjetline</string>
+    <string name="lcd_hbm_title">Način rada visoke svjetline</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Omogućeno</string>
     <string name="lcd_hbm_title_disabled">Onemogućeno</string>

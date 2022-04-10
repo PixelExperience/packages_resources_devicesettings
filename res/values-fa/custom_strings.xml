@@ -177,6 +177,7 @@
     <string name="home_button_extra_settings">سفارشی کردن دکمه خانه</string>
     <string name="assistant_button_action">فغالیت دکمه دستیار</string>
     <string name="hbm_title">حالت روشنایی بالا</string>
+    <string name="lcd_hbm_title">حالت روشنایی بالا</string>
     <string name="lcd_hbm_title_enabled">فعال شده</string>
     <string name="lcd_hbm_title_disabled">غیرفعال</string>
     <string name="lcd_cabc_off">خاموش</string>

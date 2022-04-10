@@ -15,6 +15,8 @@
      limitations under the License.
 -->
 <resources>
+    <string name="dirac_headset_default">Amezwer</string>
+    <string name="dirac_preset_default">Amezwer</string>
     <string name="moto_actions_title">Moto tigawin</string>
     <string name="device_gestures_title">Iwehiyen n yibenk</string>
     <string name="device_gestures_summary">Sefrek iwehiyen n yibenk</string>
@@ -60,4 +62,8 @@
     <string name="allow_proximity_sensor_title">Sken amaṭṭaf n tanila</string>
     <string name="allow_proximity_sensor_summary">Senqed amaṭṭaf n tanila send uselkem n tigawt </string>
     <string name="notification_slider_mode_none">Amagnu</string>
+    <string name="thermal_camera">Takamiṛat</string>
+    <string name="lcd_hbm_title_disabled">Yettwassens</string>
+    <string name="lcd_cabc_off">Yensa</string>
+    <string name="refresh_default">Amezwer</string>
 </resources>

@@ -180,6 +180,7 @@
     <string name="hbm_title">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍</string>
     <string name="lcd_hbm_title">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍</string>
     <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">ସକ୍ଷମ</string>
     <string name="lcd_cabc_off">ବନ୍ଦ</string>
     <string name="doze_brightness_title">ସର୍ବଦା ଉଜ୍ଜ୍ୱଳତା ରେ</string>
     <string name="doze_brightness_summary">%s ମୋଡ୍ ସକ୍ଷମ ହୋଇଛି</string>

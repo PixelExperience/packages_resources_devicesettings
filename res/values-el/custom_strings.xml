@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="display_title">Οθόνη</string>
-    <string name="dc_dimming_enable_title">Αντι-τρεμόσβυμα</string>
+    <string name="dc_dimming_enable_title">Αντι τρεμόπαιγμα</string>
     <string name="dc_dimming_enable_summary">Το Αντι-τρεμόσβυμα βοηθά στη μείωση της καταπόνησης των ματιών σε συνθήκες χαμηλού φωτισμού, χρησιμοποιώντας τη λειτουργία \"DC Dimming\". Ίσως μειωθεί η ποιότητα της ακρίβειας των χρωμάτων και επηρεαστεί ο τρόπος με τον οποίο εμφανίζονται κάποια χαρακτηριστικά.</string>
     <string name="dc_dimming_enable_summary_not_supported">Το Αντι τρεμόπαιγμα δεν υποστηρίζεται προς το παρόν από τον kernel</string>
     <string name="dirac_enable">Χρησιμοποιήστε το Mi Sound Enhancer</string>

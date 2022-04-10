@@ -179,6 +179,7 @@
     <string name="stylus_title">Stift</string>
     <string name="hbm_title">Hohe Helligkeit</string>
     <string name="lcd_features_title">Zusätzliche Bildschirm Funktionen</string>
+    <string name="lcd_features_info">Der High Brightness Mode (HBM) erhöht die maximale Helligkeit des Displays, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Display- und Hintergrundbeleuchtungshelligkeit basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
     <string name="kernel_not_supported">Der Kernel unterstützt diese Funktion nicht</string>
     <string name="lcd_hbm_title">Hohe Helligkeit</string>
     <string name="lcd_hbm_tile_title">HBM</string>
