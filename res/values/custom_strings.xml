@@ -270,4 +270,7 @@
     <string name="refresh_high">High (90Hz)</string>
     <string name="refresh_extreme">Extreme (120Hz)</string>
 
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Powershare</string>
+    <string name="powershare_enable_summary">Use wireless to share your power to other devices.</string>
 </resources>
