@@ -34,6 +34,24 @@
       "parentUuid": "17330d7a_35f4803d",
       "revId": "7a85da4a3219c39f2c694a40624b22da93b46567",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "296d233c_9aac8aa6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000660
+      },
+      "writtenOn": "2022-05-12T14:17:14Z",
+      "side": 1,
+      "message": "For now, thyme using prebuilt vendor, using lineage\u0027s powershare hal will cause the device stuck at mi logo, so I\u0027m using XiaomiParts to implement wireless power share.",
+      "parentUuid": "4a5758f5_88f34475",
+      "revId": "7a85da4a3219c39f2c694a40624b22da93b46567",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
