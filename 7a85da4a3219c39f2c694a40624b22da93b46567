@@ -16,6 +16,24 @@
       "message": "What\u0027s the use of that? since qs tile is present",
       "revId": "7a85da4a3219c39f2c694a40624b22da93b46567",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a5758f5_88f34475",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000660
+      },
+      "writtenOn": "2022-05-12T14:12:52Z",
+      "side": 1,
+      "message": "For wireless power share",
+      "parentUuid": "17330d7a_35f4803d",
+      "revId": "7a85da4a3219c39f2c694a40624b22da93b46567",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
