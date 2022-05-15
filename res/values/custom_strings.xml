@@ -271,6 +271,6 @@
     <string name="refresh_extreme">Extreme (120Hz)</string>
 
     <!-- Powershare -->
-    <string name="powershare_enable_title">Powershare</string>
-    <string name="powershare_enable_summary">Use wireless to share your power to other devices.</string>
+    <string name="powershare_enable_title">Battery Share</string>
+    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
 </resources>
