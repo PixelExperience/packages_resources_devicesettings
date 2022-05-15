@@ -190,10 +190,18 @@
     <string name="lcd_cabc_tile_title">УАП</string>
     <string name="lcd_cabc_off">Вимкнено</string>
     <string name="lcd_cabc_low">Низька (UI)</string>
+    <string name="lcd_cabc_medium">Середній (відео)</string>
+    <string name="lcd_cabc_high">Високий (зображення)</string>
     <string name="doze_brightness_title">Яскравість екрана в режимі блокування</string>
     <string name="doze_brightness_summary">Режим %s увімкнено</string>
     <string name="doze_brightness_low">Низька яскравість</string>
     <string name="doze_brightness_high">Висока яскравість</string>
     <string name="doze_brightness_adaptive">Адаптивна яскравість</string>
+    <string name="refresh_title">Частота оновлення для кожного додатка</string>
+    <string name="refresh_summary">Встановіть певну частоту оновлення для кожного додатка</string>
     <string name="refresh_default">Типово</string>
+    <string name="refresh_low">Низький (30Гц)</string>
+    <string name="refresh_medium">Середній (60Гц)</string>
+    <string name="refresh_high">Високий (90Гц)</string>
+    <string name="refresh_extreme">Екстремальний (120Гц)</string>
 </resources>

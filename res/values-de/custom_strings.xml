@@ -156,7 +156,7 @@
     <string name="thermal_streaming">Streaming Programme</string>
     <string name="raise_to_wake_gesture_title">Anheben, um aufzuwecken</string>
     <string name="raise_to_wake_gesture_summary">Das Gerät aufwecken, wenn eine Benachrichtigung eintrifft</string>
-    <string name="device_min_refresh_rate">Minimale Aktualisierungsrate</string>
+    <string name="device_min_refresh_rate">Minimale Bildwiederholrate</string>
     <string name="device_power_save_refresh_rate">Batterie automatisch sparen</string>
     <string name="device_power_save_refresh_rate_switch">Automatisch niedrigere Bildwiederholfrequenz, wenn der Energiesparmodus aktiv ist</string>
     <string name="refresh_rate_settings_title">Bildwiederholrate</string>
@@ -179,6 +179,7 @@
     <string name="stylus_title">Stift</string>
     <string name="hbm_title">Hohe Helligkeit</string>
     <string name="lcd_features_title">Zusätzliche Bildschirm Funktionen</string>
+    <string name="lcd_features_summary">Modus für hohe Helligkeit (HBM) &amp; Adaptive Hintergrundbeleuchtungssteuerung für Inhalte (CABC)</string>
     <string name="lcd_features_info">Der High Brightness Mode (HBM) erhöht die maximale Helligkeit des Displays, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Display- und Hintergrundbeleuchtungshelligkeit basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
     <string name="kernel_not_supported">Der Kernel unterstützt diese Funktion nicht</string>
     <string name="lcd_hbm_title">Hohe Helligkeit</string>

@@ -20,7 +20,7 @@
     <string name="dc_dimming_enable_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-pâlpâirea nu este suportată de către nucleu</string>
     <string name="dirac_enable">Utilizați amplificatorul Mi Sound</string>
-    <string name="dirac_title">Mi Sound Amplificator</string>
+    <string name="dirac_title">Amplificatorul Mi Sound</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
     <string name="dirac_headset_title">Alege tipul de căști</string>
     <string name="dirac_preset_title">Alege o presetare</string>

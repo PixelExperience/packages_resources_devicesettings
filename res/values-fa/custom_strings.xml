@@ -176,10 +176,33 @@
     <string name="button_swap_summary">تعویض دکمه های ناوبری</string>
     <string name="home_button_extra_settings">سفارشی کردن دکمه خانه</string>
     <string name="assistant_button_action">فغالیت دکمه دستیار</string>
+    <string name="stylus_title">قلم Stylus</string>
     <string name="hbm_title">حالت روشنایی بالا</string>
+    <string name="lcd_features_title">ویژگی‌های اضافی نمایشگر</string>
+    <string name="lcd_features_summary">حالت بیشینه روشنایی صفحه (HBM) و تنظیم نور زمینه مطابق با محتوا (CABC)</string>
+    <string name="lcd_features_info">حالت بیشینه روشنایی صفحه (HBM) برای وضوح بیشتر در آفتاب، بیشینه نور نمایشگر و مصرف انرژی را افزایش می‌دهد. 
+تنظیم نور زمینه مطابق با محتوا (CABC) برای کاهش مصرف انرژی بدون افت کیفیت، نمایشگر و نور زمینه را مطابق با محتوای در حال نمایش، تنظیم می‌کند.</string>
+    <string name="kernel_not_supported">سیستم‌عامل از این ویژگی پشتیبانی نمی‌کند</string>
     <string name="lcd_hbm_title">حالت روشنایی بالا</string>
+    <string name="lcd_hbm_tile_title">حالت بیشینه روشنایی صفحه</string>
     <string name="lcd_hbm_title_enabled">فعال شده</string>
     <string name="lcd_hbm_title_disabled">غیرفعال</string>
+    <string name="lcd_cabc_title">تنظیم نور زمینه مطابق با محتوا</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">خاموش</string>
+    <string name="lcd_cabc_low">کم (مناسب برای واسط کاربری)</string>
+    <string name="lcd_cabc_medium">متوسط (مناسب برای ویدیو)</string>
+    <string name="lcd_cabc_high">زیاد (مناسب برای عکس)</string>
+    <string name="doze_brightness_title">روشنایی نمایشگر همیشه روشن</string>
+    <string name="doze_brightness_summary">حالت S% فعال است</string>
+    <string name="doze_brightness_low">روشنایی کم</string>
+    <string name="doze_brightness_high">روشنایی زیاد</string>
+    <string name="doze_brightness_adaptive">روشنایی تطبیقی</string>
+    <string name="refresh_title">تنظیم نرخ نوسازی نمایشگر در برنامه</string>
+    <string name="refresh_summary">برای هر برنامه، نرخ نوسازی نمایشگر مشخصی تنظیم کنید</string>
     <string name="refresh_default">پیش‌فرض</string>
+    <string name="refresh_low">کم (30Hz)</string>
+    <string name="refresh_medium">متوسط (60Hz)</string>
+    <string name="refresh_high">زیاد (90Hz)</string>
+    <string name="refresh_extreme">شدید (120Hz)</string>
 </resources>

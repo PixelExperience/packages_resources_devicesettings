@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">Анты-мігаценне</string>
     <string name="dc_dimming_enable_summary">Рэжым барацьбы з мігаценнем дапамагае знізіць напружанне вачэй ва ўмовах нізкай асветленасці пры дапамозе функцыі \"DC dimming\". Гэта можа пагоршыць дакладнасць колеру і паўплываць на адлюстраванне некаторых прадметаў.</string>
     <string name="dc_dimming_enable_summary_not_supported">Абарона ад мігцення экрана пакуль не падтрымліваецца ярдром</string>
+    <string name="dirac_enable">Выкарыстоўвайце паляпшэнне гуку Mi</string>
     <string name="dirac_title">Паляпшэнне гуку Mi</string>
     <string name="dirac_summary">Паляпшэнне якасці гуку</string>
     <string name="dirac_headset_title">Выберыце тып навушнікаў</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">Кантры</string>
     <string name="dirac_preset_dance">Танцавальная</string>
     <string name="dirac_preset_metal">Метал</string>
+    <string name="dirac_preset_bass_booster">Узмацненне басоў</string>
     <string name="popup_settings_title">Налады ўсплывальнай камеры</string>
     <string name="popup_led_title">LED індыкацыя камеры</string>
     <string name="popup_led_summary">Паказваць LED індыкацыю пры адкрыцці і закрыцці франтальнай камеры</string>
@@ -176,9 +178,30 @@
     <string name="assistant_button_action">Дзеянне кнопкі асістэнта</string>
     <string name="stylus_title">Стылус</string>
     <string name="hbm_title">Рэжым высокай яркасці</string>
+    <string name="lcd_features_title">Дадатковыя функцыі дысплэя</string>
+    <string name="lcd_features_summary">Рэжым падвышанай яркасці (HBM) &amp; Адаптыўнае кіраванне падсветкай (CABC)</string>
+    <string name="lcd_features_info">Рэжым падвышанай яркасці (HBM) павялічвае максімальную яркасць дысплея для паляпшэння бачнасці пры сонечным святле. Павялічвае энергаспажыванне.\n\nАдаптыўнае кіраванне падсветкай (CABC) рэгулюе яркасць дысплея і падсветкі ў залежнасці ад бягучага змесціва, каб знізіць энергаспажыванне без пагаршэння якасці малюнка.</string>
+    <string name="kernel_not_supported">Ядро не падтрымлівае гэту функцию</string>
     <string name="lcd_hbm_title">Рэжым высокай яркасці</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Задзейнічана</string>
     <string name="lcd_hbm_title_disabled">Не задзейнічана</string>
+    <string name="lcd_cabc_title">Адаптыўнае кіраванне падсветкай</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">Адключана</string>
+    <string name="lcd_cabc_low">Нізкі (UI)</string>
+    <string name="lcd_cabc_medium">Сярэдняя (Відэа)</string>
+    <string name="lcd_cabc_high">Высокая (Выявы)</string>
+    <string name="doze_brightness_title">Яркасць экрана ў рэжыме блакіроўкі</string>
+    <string name="doze_brightness_summary">%s рэжым уключаны</string>
+    <string name="doze_brightness_low">Нізкая яркасць</string>
+    <string name="doze_brightness_high">Высокая яркасць</string>
+    <string name="doze_brightness_adaptive">Адаптыўная яркасць</string>
+    <string name="refresh_title">Частата абнаўлення прыкладанняў</string>
+    <string name="refresh_summary">Усталюйце пэўную частату абнаўлення для кожнага прыкладання</string>
     <string name="refresh_default">Стандартныя</string>
+    <string name="refresh_low">Нізкая (30Hz)</string>
+    <string name="refresh_medium">Сярэдняя (60Hz)</string>
+    <string name="refresh_high">Высокая (90Hz)</string>
+    <string name="refresh_extreme">Лімітавая (120Hz)</string>
 </resources>

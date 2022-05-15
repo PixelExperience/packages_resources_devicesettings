@@ -25,12 +25,12 @@
     <string name="dirac_headset_title">เลือกประเภทของหูฟัง</string>
     <string name="dirac_preset_title">เลือกรายการที่ตั้งไว้</string>
     <string name="dirac_hifi_title">เสียงไฮไฟ</string>
-    <string name="dirac_hifi_summary">ตัดเสียงรบกวน เสียงเพี้ยนและเพิ่มคุณภาพการฟัง</string>
+    <string name="dirac_hifi_summary">ตัดเสียงรบกวนลดเสียงเพี้ยนและเพิ่มคุณภาพเสียง</string>
     <string name="dirac_hifi_enable_title">เปิดใช้งาน Hi-fi</string>
     <string name="dirac_headset_default">ค่าเริ่มต้น</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
-    <string name="dirac_headset_piston_1">Mi piston-1</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general">ทั่วไป</string>
     <string name="dirac_headset_general_inear">หูฟังทั่วไปแบบ In-Ear</string>
     <string name="dirac_headset_piston_basic">หูฟังรุ่นธรรมดา</string>
@@ -84,7 +84,7 @@
     <string name="popup_camera_proximity_obstructed">เอามือของคุณออกจากเซ็นเซอร์ตรวจจับระยะห่างเพื่อเปิดกล้องหน้า...</string>
     <string name="clear_speaker_title">ทำความสะอาดลำโพง</string>
     <string name="clear_speaker_summary">เล่นเสียง 30 วินาทีเพื่อเคลียร์ลำโพง</string>
-    <string name="clear_speaker_description">เรียกใช้คุณสมบัตินี้ 1-2 ครั้ง หากคุณพบว่าลำโพงของคุณมีฝุ่นเกาะเล็กน้อย ตั้งค่าระดับเสียงดังสูงสุด \n\n หากลำโพงถูกบล็อกอย่างหนัก ให้เรียกใช้คุณสมบัตินี้ 2-5 ครั้งและเขย่าอุปกรณ์โดยให้ลำโพงคว่ำลงระหว่างใช้คุณสมบัตินี้</string>
+    <string name="clear_speaker_description">เรียกใช้คุณสมบัตินี้ 1-2 ครั้ง หากคุณพบว่าลำโพงของคุณมีฝุ่นเกาะเล็กน้อย และตั้งค่าระดับเสียงดังสูงสุด \n\nหากลำโพงมีการอุดตันอย่างหนัก ให้เรียกใช้คุณสมบัตินี้ 2-5 ครั้งและเขย่าอุปกรณ์ไปด้วย โดยให้ลำโพงคว่ำลงระหว่างใช้คุณสมบัตินี้</string>
     <string name="moto_actions_title">ท่าทาง Moto</string>
     <string name="device_gestures_title">ควบคุมเครื่องด้วยท่าทาง</string>
     <string name="device_gestures_summary">จัดการควบคุมเครื่องด้วยท่าทาง</string>

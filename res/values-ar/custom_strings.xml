@@ -19,6 +19,7 @@
     <string name="dc_dimming_enable_title">مضاد رعش الشاشة </string>
     <string name="dc_dimming_enable_summary">وضع مضاد رعش الشاشة يساعد على تقليل إجهاد العين في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
     <string name="dc_dimming_enable_summary_not_supported">وضع مضاد رعش الشاش  غير مدعوم بواسطة Kernal </string>
+    <string name="dirac_enable">استخدم محسن الصوت من Mi</string>
     <string name="dirac_title">محسن صوت Mi</string>
     <string name="dirac_summary">تحسين جودة الصوت</string>
     <string name="dirac_headset_title">اختيار نوع سماعة الرأس</string>
@@ -59,6 +60,7 @@
     <string name="dirac_preset_country">وضع الريف</string>
     <string name="dirac_preset_dance">وضع الرقص</string>
     <string name="dirac_preset_metal">وضع الميتال</string>
+    <string name="dirac_preset_bass_booster">محسن ال Bass</string>
     <string name="popup_settings_title">خيارات الكاميرا المنبثقة</string>
     <string name="popup_led_title">ضوء الكاميرا المنبثقة</string>
     <string name="popup_led_summary">تشغيل الضوء عند ظهور واختفاء الكاميرا الأمامية</string>
@@ -176,10 +178,30 @@
     <string name="assistant_button_action">إجراء زر المساعد الرقمي</string>
     <string name="stylus_title">قلم ستايلس</string>
     <string name="hbm_title">وضع السطوع العالي</string>
+    <string name="lcd_features_title">ميزات عرض إضافية</string>
+    <string name="lcd_features_summary">وضع الاضاءة العالية (HBM) &amp; التحكم في الاضاءة على حسب المحتوى (CABC)</string>
+    <string name="lcd_features_info">وضع الإضاءة العالية (HBM) يرفع الحد الأقصى لإضاءة شاشة العرض لتحسين الرؤية تحت ضوء الشمس. قد يزيد من استهلاك الطاقة.\n\nيقوم وضع \"التحكم بالإضاءة حسب المحتوى\" (CABC) بضبط شاشة العرض والإضاءة الخلفية وفق المحتوى المعروض، لتوفير استهلاك الطاقة من دون تأثر الجودة.</string>
+    <string name="kernel_not_supported">نواة الجهاز لا تدعم هذه المِيزة.</string>
     <string name="lcd_hbm_title">وضع السطوع العالي</string>
     <string name="lcd_hbm_tile_title">و س ع</string>
     <string name="lcd_hbm_title_enabled">مفعل</string>
     <string name="lcd_hbm_title_disabled">معطّل</string>
+    <string name="lcd_cabc_title">وضع التحكم في الإضاءة الخلفية على حسب المحتوى.</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">مغلق</string>
+    <string name="lcd_cabc_low">منخفض (واجهة المستخدم)</string>
+    <string name="lcd_cabc_medium">متوسط (مقاطع الفيديو)</string>
+    <string name="lcd_cabc_high">عالي (صور)</string>
+    <string name="doze_brightness_title">إضاءة مستمرة دائماً </string>
+    <string name="doze_brightness_summary">%s مفعّل</string>
+    <string name="doze_brightness_low">إضاءة منخفضة</string>
+    <string name="doze_brightness_high">إضاءة عالية</string>
+    <string name="doze_brightness_adaptive">الإضاءة المتأقلمة</string>
+    <string name="refresh_title">معدل تحديث الشاشة حسب التطبيق</string>
+    <string name="refresh_summary">حدد معدل تحديث للشاشة محدد لكل تطبيق</string>
     <string name="refresh_default">التطبيقات التلقائية</string>
+    <string name="refresh_low">منخفض (٣٠ هرتز)</string>
+    <string name="refresh_medium">متوسط (٦٠ هرتز)</string>
+    <string name="refresh_high">عالى (٩٠هرتز)</string>
+    <string name="refresh_extreme">فائق (١٢٠ هرتز)</string>
 </resources>
