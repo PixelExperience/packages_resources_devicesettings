@@ -204,4 +204,6 @@
     <string name="refresh_medium">Sedang (60 Hz)</string>
     <string name="refresh_high">Tinggi (90Hz)</string>
     <string name="refresh_extreme">Ekstrem (120 Hz)</string>
+    <string name="powershare_enable_title">Berbagi Baterai</string>
+    <string name="powershare_enable_summary">Isi daya perangkat lain dengan meletakkannya di bagian belakang ponsel Anda</string>
 </resources>

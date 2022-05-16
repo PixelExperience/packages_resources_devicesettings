@@ -204,4 +204,6 @@
     <string name="refresh_medium">Trung bình (60Hz)</string>
     <string name="refresh_high">Cao (90Hz)</string>
     <string name="refresh_extreme">Cực đại (120Hz)</string>
+    <string name="powershare_enable_title">Chia Sẻ Pin</string>
+    <string name="powershare_enable_summary">Sạc các thiết bị khác bằng cách đặt chúng ở mặt sau điện thoại của bạn</string>
 </resources>

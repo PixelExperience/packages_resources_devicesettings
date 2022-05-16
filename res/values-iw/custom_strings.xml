@@ -179,6 +179,8 @@
     <string name="stylus_title">עט סטיילוס</string>
     <string name="hbm_title">מצב בהירות גבוהה </string>
     <string name="lcd_features_title">תכונות תצוגה נוספות</string>
+    <string name="lcd_features_summary">מצב בהירות גבוהה (HBM) &amp; בקרת תאורה אחורית מותאמת לתוכן (CABC)</string>
+    <string name="lcd_features_info">מצב בהירות גבוהה (HBM) מגביר את בהירות המסך המקסימלית בשביל לשפר את התצוגה תחת אור שמש. מגביר צריכת הסוללה.\n\nבקרת תאורה אחורית מותאמת לתוכן (CABC) מתאימה את המסך ואת הבהירות בהתאם לתוכן שכרגע מוצג, בשביל להוריד צריכת הסוללה ללא ירידה באיכות</string>
     <string name="kernel_not_supported">הקרנל לא תומך בתכונה זו</string>
     <string name="lcd_hbm_title">מצב בהירות גבוהה </string>
     <string name="lcd_hbm_tile_title">מב\"ג</string>
@@ -202,4 +204,6 @@
     <string name="refresh_medium">בינוני (60 הרץ)</string>
     <string name="refresh_high">גבוה (90 הרץ)</string>
     <string name="refresh_extreme">קיצוני (120 הרץ)</string>
+    <string name="powershare_enable_title">שיתוף סוללה </string>
+    <string name="powershare_enable_summary">טען מכשירים אחרים בכך שתציב אותם על גב מכשירך</string>
 </resources>

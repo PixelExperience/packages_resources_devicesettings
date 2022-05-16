@@ -204,4 +204,6 @@
     <string name="refresh_medium">متوسط (٦٠ هرتز)</string>
     <string name="refresh_high">عالى (٩٠هرتز)</string>
     <string name="refresh_extreme">فائق (١٢٠ هرتز)</string>
+    <string name="powershare_enable_title">مشاركة البطارية</string>
+    <string name="powershare_enable_summary">اشحن الأجهزة الأخرى بوضعها على ظهر هاتفك</string>
 </resources>

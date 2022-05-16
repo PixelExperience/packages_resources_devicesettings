@@ -204,4 +204,6 @@
     <string name="refresh_medium">Standard (60Hz)</string>
     <string name="refresh_high">Élevée (90Hz)</string>
     <string name="refresh_extreme">Extrême (120Hz)</string>
+    <string name="powershare_enable_title">Partage de la batterie</string>
+    <string name="powershare_enable_summary">Recharger les appareils en les plaçant derrière votre téléphone</string>
 </resources>

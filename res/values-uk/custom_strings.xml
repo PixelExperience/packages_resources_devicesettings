@@ -204,4 +204,6 @@
     <string name="refresh_medium">Середній (60Гц)</string>
     <string name="refresh_high">Високий (90Гц)</string>
     <string name="refresh_extreme">Екстремальний (120Гц)</string>
+    <string name="powershare_enable_title">Спільне використання батареї</string>
+    <string name="powershare_enable_summary">Заряджати інші пристрої, помістивши їх на задню панель телефону</string>
 </resources>

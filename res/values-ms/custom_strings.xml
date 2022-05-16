@@ -171,4 +171,6 @@
     <string name="lcd_hbm_title_disabled">Dimatikan</string>
     <string name="lcd_cabc_off">nyahaktif</string>
     <string name="refresh_default">Lalai</string>
+    <string name="powershare_enable_title">Kongsi Bateri</string>
+    <string name="powershare_enable_summary">Cas peranti lain dengan meletakkan mereka di belakang fon anda</string>
 </resources>

@@ -204,4 +204,6 @@
     <string name="refresh_medium">Keskitaso (60Hz)</string>
     <string name="refresh_high">Korkea (90Hz)</string>
     <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="powershare_enable_title">Virranjako</string>
+    <string name="powershare_enable_summary">Lataa muita laitteita asettamalla ne puhelimesi takakannelle</string>
 </resources>

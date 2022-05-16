@@ -204,4 +204,6 @@
     <string name="refresh_medium">Vidutinis (60 Hz)</string>
     <string name="refresh_high">Aukštas (90 Hz)</string>
     <string name="refresh_extreme">Ekstremalus (120 Hz)</string>
+    <string name="powershare_enable_title">Baterijos dalijimasis</string>
+    <string name="powershare_enable_summary">Įkraukite kitus įrenginius padėdami juos ant galinės telefono dalies</string>
 </resources>

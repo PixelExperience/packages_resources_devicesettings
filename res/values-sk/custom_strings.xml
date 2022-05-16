@@ -204,4 +204,6 @@
     <string name="refresh_medium">Stredná (60Hz)</string>
     <string name="refresh_high">Vysoká (90 Hz)</string>
     <string name="refresh_extreme">Extrémna (120Hz)</string>
+    <string name="powershare_enable_title">Nabitie batérie</string>
+    <string name="powershare_enable_summary">Nabíjajte ďalšie zariadenia umiestnením na zadnú stranu telefónu</string>
 </resources>

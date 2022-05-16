@@ -204,4 +204,6 @@
     <string name="refresh_medium">标准(60Hz)</string>
     <string name="refresh_high">高（90Hz）</string>
     <string name="refresh_extreme">极致(120Hz)</string>
+    <string name="powershare_enable_title">电池共享</string>
+    <string name="powershare_enable_summary">将其他设备放在你的手机背面为其充电</string>
 </resources>
