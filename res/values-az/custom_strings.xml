@@ -204,4 +204,6 @@
     <string name="refresh_medium">Orta (60Hz)</string>
     <string name="refresh_high">Yüksək (90Hz)</string>
     <string name="refresh_extreme">Ekstremal (120Hz)</string>
+    <string name="powershare_enable_title">Batareya Paylaşma</string>
+    <string name="powershare_enable_summary">Digər cihaza enerji ötürmək üçün cihazı telefonunuzun arxasına qoyun</string>
 </resources>

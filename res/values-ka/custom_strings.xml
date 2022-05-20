@@ -204,4 +204,6 @@
     <string name="refresh_medium">საშუალო (60ჰც)</string>
     <string name="refresh_high">მაღალი (90ჰც)</string>
     <string name="refresh_extreme">ექსტრემი (120ჰც)</string>
+    <string name="powershare_enable_title">ბატარეის გაზიარება</string>
+    <string name="powershare_enable_summary">დამუხტეთ სხვა მოწყობილობები თქვენი ტელეფონის უკანა მხარეს მოთავსებით</string>
 </resources>

@@ -204,4 +204,6 @@
     <string name="refresh_medium">Orta (60Hz)</string>
     <string name="refresh_high">Yüksek (90Hz)</string>
     <string name="refresh_extreme">Çok yüksek (120Hz)</string>
+    <string name="powershare_enable_title">Pil Aktarımı</string>
+    <string name="powershare_enable_summary">Diğer cihazları telefonunuzun arkasına yerleştirerek şarj edin</string>
 </resources>

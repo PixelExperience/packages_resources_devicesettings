@@ -204,4 +204,6 @@
     <string name="refresh_medium">Сярэдняя (60Hz)</string>
     <string name="refresh_high">Высокая (90Hz)</string>
     <string name="refresh_extreme">Лімітавая (120Hz)</string>
+    <string name="powershare_enable_title">Сумеснае выкарыстанне батарэі</string>
+    <string name="powershare_enable_summary">Дзяліцесь з іншымі прыладамі размяшчая іх на заднюю панэль прылады</string>
 </resources>

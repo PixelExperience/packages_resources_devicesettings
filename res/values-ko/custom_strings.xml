@@ -206,4 +206,6 @@
     <string name="refresh_medium">보통 (60Hz)</string>
     <string name="refresh_high">높음 (90Hz)</string>
     <string name="refresh_extreme">극한 (120Hz)</string>
+    <string name="powershare_enable_title">배터리 공유</string>
+    <string name="powershare_enable_summary">다른 기기를 폰의 뒷면에 놓아서 충전</string>
 </resources>

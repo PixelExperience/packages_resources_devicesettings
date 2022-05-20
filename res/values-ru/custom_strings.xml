@@ -204,4 +204,6 @@
     <string name="refresh_medium">Средняя (60Hz)</string>
     <string name="refresh_high">Высокая (90Hz)</string>
     <string name="refresh_extreme">Предельный (120Hz)</string>
+    <string name="powershare_enable_title">Передача заряда батареи</string>
+    <string name="powershare_enable_summary"> Приложите устройство, которое нужно зарядить, к задней поверхности телефона.</string>
 </resources>

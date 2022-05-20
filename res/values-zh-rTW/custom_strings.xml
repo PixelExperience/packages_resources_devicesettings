@@ -82,9 +82,9 @@
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
     <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置相機……</string>
-    <string name="clear_speaker_title">清理揚聲器</string>
-    <string name="clear_speaker_summary">播放30秒的音頻以清除揚聲器</string>
-    <string name="clear_speaker_description">如果發現揚聲器被灰塵輕輕遮住，請運行此功能一次或兩次。 將媒體音量設置為最大。\n\n如果揚聲器嚴重阻塞，請在揚聲器朝下搖動設備的同時運行此功能2-5次。</string>
+    <string name="clear_speaker_title">清理喇叭</string>
+    <string name="clear_speaker_summary">播放 30 秒的音訊以清理喇叭</string>
+    <string name="clear_speaker_description">如果發現喇叭被灰塵輕輕遮住，請執行此功能一次或兩次。 將媒體音量設為最大。\n\n如果喇叭嚴重阻塞，請在喇叭朝下搖動裝置的同時執行此功能 2-5 次。</string>
     <string name="moto_actions_title">Moto 動作</string>
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>
@@ -155,7 +155,7 @@
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流應用程式</string>
     <string name="raise_to_wake_gesture_title">拿起喚醒</string>
-    <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
+    <string name="raise_to_wake_gesture_summary">喚醒裝置而不是發出通知</string>
     <string name="device_min_refresh_rate">最低更新率</string>
     <string name="device_power_save_refresh_rate">自動省電</string>
     <string name="device_power_save_refresh_rate_switch">當省電模式作用中時自動降低更新率</string>
@@ -204,4 +204,6 @@
     <string name="refresh_medium">中 (60Hz)</string>
     <string name="refresh_high">高 (90Hz)</string>
     <string name="refresh_extreme">極高 (120Hz)</string>
+    <string name="powershare_enable_title">電力共用</string>
+    <string name="powershare_enable_summary">透過將其他裝置放在手機背面以給他們充電</string>
 </resources>

@@ -205,4 +205,6 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="refresh_medium">Medio (60Hz)</string>
     <string name="refresh_high">Alto (90Hz)</string>
     <string name="refresh_extreme">Estremo (120Hz)</string>
+    <string name="powershare_enable_title">Condivisione Batteria</string>
+    <string name="powershare_enable_summary">Carica altri dispositivi mettendo essi nella parte posteriore del tuo telefono</string>
 </resources>

@@ -189,4 +189,5 @@
     <string name="doze_brightness_high">Brilho alto</string>
     <string name="doze_brightness_adaptive">Brilho adaptável</string>
     <string name="refresh_default">Padrão</string>
+    <string name="powershare_enable_title">Partilha de bateria</string>
 </resources>

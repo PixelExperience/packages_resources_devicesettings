@@ -204,4 +204,6 @@
     <string name="refresh_medium">Medie (60 Hz)</string>
     <string name="refresh_high">Ridicată (90 Hz)</string>
     <string name="refresh_extreme">Extremă (120 Hz)</string>
+    <string name="powershare_enable_title">Partajare baterie</string>
+    <string name="powershare_enable_summary">Încărcați alte dispozitive așezându-le pe spatele telefonului</string>
 </resources>

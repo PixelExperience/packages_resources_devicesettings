@@ -204,4 +204,6 @@
     <string name="refresh_medium">ปานกลาง (60 เฮิรตซ์)</string>
     <string name="refresh_high">สูง (90 เฮิรตซ์)</string>
     <string name="refresh_extreme">สูงสุด (120Hz)</string>
+    <string name="powershare_enable_title">แชร์แบตเตอรี่</string>
+    <string name="powershare_enable_summary">ชาร์จอุปกรณ์อื่นๆ โดยวางไว้ที่ด้านหลังโทรศัพท์ของคุณ</string>
 </resources>

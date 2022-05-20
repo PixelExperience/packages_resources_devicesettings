@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="display_title">Hiển thị</string>
-    <string name="dc_dimming_enable_title">Chống nháy ánh sáng</string>
+    <string name="dc_dimming_enable_title">Chống nhấp nháy</string>
     <string name="dc_dimming_enable_summary">Chế độ chống nhấp nháy giúp giảm mỏi mắt trong điều kiện ánh sáng yếu bằng cách sử dụng tính năng \"DC dimming\". Nó có thể làm giảm độ chính xác của màu sắc và ảnh hưởng đến cách một số mục được hiển thị.</string>
     <string name="dc_dimming_enable_summary_not_supported">Nhân kernel hiện không hỗ trợ tính năng chống nhấp nháy</string>
     <string name="dirac_enable">Sử dụng Bộ tăng cường Âm thanh Mi</string>
@@ -172,7 +172,7 @@
     <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần chạm lặp lại</string>
     <string name="touch_resistant_title">Khu vực chống cảm ứng</string>
     <string name="touch_resistant_summary">Giảm độ nhạy gần các cạnh để tránh chạm nhầm</string>
-    <string name="button_settings_title">Nút bấm</string>
+    <string name="button_settings_title">Phím</string>
     <string name="button_swap_summary">Hoán Đổi Phím Điều Hướng</string>
     <string name="home_button_extra_settings">Tùy chỉnh hành vi của nút trang chủ</string>
     <string name="assistant_button_action">Hành động phím trợ lý</string>
