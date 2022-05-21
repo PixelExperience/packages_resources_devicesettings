@@ -67,7 +67,7 @@
     <string name="stop_operate_camera_frequently">Премногу често ја отварате предната камера.</string>
     <string name="takeback_camera_front_failed">Не може да се отвори предната камера. Обидете се повторно.</string>
     <string name="popup_camera_front_failed">Не може да се отвори предната камера. Обидете се повторно.</string>
-    <string name="notification_slider_mode_none">Нормален</string>
+    <string name="alert_slider_mode_normal">Нормален</string>
     <string name="button_settings_title">Копчиња</string>
     <string name="lcd_hbm_title_enabled">Овозможено</string>
     <string name="lcd_hbm_title_disabled">Оневозможено</string>

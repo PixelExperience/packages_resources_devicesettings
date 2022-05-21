@@ -144,17 +144,17 @@
     <string name="oneplus_advanced_settings">Opcións OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Opcións personalizadas para o teu dispistivo</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Control deslizante de alerta</string>
-    <string name="notification_slider_selection_dialog_title">Acción</string>
-    <string name="notification_slider_top_position">Posición superior</string>
-    <string name="notification_slider_middle_position">Posición media</string>
-    <string name="notification_slider_bottom_position">Posición inferior</string>
-    <string name="notification_slider_mode_total_silence">Silencio total</string>
-    <string name="notification_slider_mode_alarms_only">Só alarmas</string>
-    <string name="notification_slider_mode_priority_only">Só prioridade</string>
-    <string name="notification_slider_mode_silent">Silencio</string>
-    <string name="notification_slider_mode_vibrate">Vibrar</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="alert_slider_category_title">Control deslizante de alerta</string>
+    <string name="alert_slider_selection_dialog_title">Acción</string>
+    <string name="alert_slider_top_position">Posición superior</string>
+    <string name="alert_slider_middle_position">Posición media</string>
+    <string name="alert_slider_bottom_position">Posición inferior</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silencio total</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Só alarmas</string>
+    <string name="alert_slider_mode_dnd_priority_only">Só prioridade</string>
+    <string name="alert_slider_mode_silent">Silencio</string>
+    <string name="alert_slider_mode_vibration">Vibrar</string>
+    <string name="alert_slider_mode_normal">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimizacion de perfil</string>
     <string name="thermal_summary">Axuste os perfís por aplicación para obter un rendemento óptimo</string>

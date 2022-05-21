@@ -142,17 +142,17 @@
     <string name="oneplus_advanced_settings">OnePlus Podešavanja</string>
     <string name="oneplus_advanced_settings_summary">Dodatna podešavanja za vaš uređaj</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Klizač upozorenja</string>
-    <string name="notification_slider_selection_dialog_title">Akcija</string>
-    <string name="notification_slider_top_position">Pozicija na vrhu</string>
-    <string name="notification_slider_middle_position">Pozicija u sredini</string>
-    <string name="notification_slider_bottom_position">Pozicija dole</string>
-    <string name="notification_slider_mode_total_silence">Potpuna tišina</string>
-    <string name="notification_slider_mode_alarms_only">Samo alarmi</string>
-    <string name="notification_slider_mode_priority_only">Samo prioritetno</string>
-    <string name="notification_slider_mode_silent">Nečujno</string>
-    <string name="notification_slider_mode_vibrate">Vibracija</string>
-    <string name="notification_slider_mode_none">Normalno</string>
+    <string name="alert_slider_category_title">Klizač upozorenja</string>
+    <string name="alert_slider_selection_dialog_title">Akcija</string>
+    <string name="alert_slider_top_position">Pozicija na vrhu</string>
+    <string name="alert_slider_middle_position">Pozicija u sredini</string>
+    <string name="alert_slider_bottom_position">Pozicija dole</string>
+    <string name="alert_slider_mode_dnd_total_silence">Potpuna tišina</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Samo alarmi</string>
+    <string name="alert_slider_mode_dnd_priority_only">Samo prioritetno</string>
+    <string name="alert_slider_mode_silent">Nečujno</string>
+    <string name="alert_slider_mode_vibration">Vibracija</string>
+    <string name="alert_slider_mode_normal">Normalno</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Profil optimizacije</string>
     <string name="thermal_summary">Podesi profile za svaku aplikaciju pojedinačno za optimalne performanse</string>

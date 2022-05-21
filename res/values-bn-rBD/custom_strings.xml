@@ -135,12 +135,12 @@
     <string name="oneplus_advanced_settings">ওয়ানপ্লাস সেটিংস</string>
     <string name="oneplus_advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_selection_dialog_title">আচরণ</string>
-    <string name="notification_slider_top_position">উপরের স্থান</string>
-    <string name="notification_slider_middle_position">মধ্য স্থান</string>
-    <string name="notification_slider_bottom_position">নিচের স্থান</string>
-    <string name="notification_slider_mode_total_silence">সম্পূর্ণ নিশ্চুপ</string>
-    <string name="notification_slider_mode_priority_only">শুধু অগ্রাধিকার</string>
+    <string name="alert_slider_selection_dialog_title">আচরণ</string>
+    <string name="alert_slider_top_position">উপরের স্থান</string>
+    <string name="alert_slider_middle_position">মধ্য স্থান</string>
+    <string name="alert_slider_bottom_position">নিচের স্থান</string>
+    <string name="alert_slider_mode_dnd_total_silence">সম্পূর্ণ নিশ্চুপ</string>
+    <string name="alert_slider_mode_dnd_priority_only">শুধু অগ্রাধিকার</string>
     <!-- Thermal profiles -->
     <string name="thermal_benchmark">পারফরম্যান্স</string>
     <string name="thermal_browser">ব্রাউজার</string>

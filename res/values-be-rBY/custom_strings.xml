@@ -144,17 +144,17 @@
     <string name="oneplus_advanced_settings">Налады OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Карыстацкія налады для вашай прылады</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Пераключальнік апавяшчэнняў</string>
-    <string name="notification_slider_selection_dialog_title">Дзеянне</string>
-    <string name="notification_slider_top_position">Верхняе становішча</string>
-    <string name="notification_slider_middle_position">Сярэдняе становішча</string>
-    <string name="notification_slider_bottom_position">Ніжняе становішча</string>
-    <string name="notification_slider_mode_total_silence">Поўная цішыня</string>
-    <string name="notification_slider_mode_alarms_only">Толькі будзільнікі</string>
-    <string name="notification_slider_mode_priority_only">Толькі важныя</string>
-    <string name="notification_slider_mode_silent">Без гуку</string>
-    <string name="notification_slider_mode_vibrate">Вібрацыя</string>
-    <string name="notification_slider_mode_none">Звычайная</string>
+    <string name="alert_slider_category_title">Пераключальнік апавяшчэнняў</string>
+    <string name="alert_slider_selection_dialog_title">Дзеянне</string>
+    <string name="alert_slider_top_position">Верхняе становішча</string>
+    <string name="alert_slider_middle_position">Сярэдняе становішча</string>
+    <string name="alert_slider_bottom_position">Ніжняе становішча</string>
+    <string name="alert_slider_mode_dnd_total_silence">Поўная цішыня</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Толькі будзільнікі</string>
+    <string name="alert_slider_mode_dnd_priority_only">Толькі важныя</string>
+    <string name="alert_slider_mode_silent">Без гуку</string>
+    <string name="alert_slider_mode_vibration">Вібрацыя</string>
+    <string name="alert_slider_mode_normal">Звычайная</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Профіль аптымізацыі</string>
     <string name="thermal_summary">Наладзьце дадатковыя профілі для дасягнення аптымальнай прадукцыйнасці</string>

@@ -125,8 +125,8 @@
     <string name="oneplus_advanced_settings">വൺപ്ലസ് ക്രമീകരണങ്ങൾ</string>
     <string name="oneplus_advanced_settings_summary">നിങ്ങളുടെ ഉപകരണത്തിനായുള്ള ഇഷ്‌ടാനുസൃത ക്രമീകരണങ്ങൾ</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">അലേർട്ട് സ്ലൈഡർ</string>
-    <string name="notification_slider_selection_dialog_title">പ്രവർത്തനം</string>
+    <string name="alert_slider_category_title">അലേർട്ട് സ്ലൈഡർ</string>
+    <string name="alert_slider_selection_dialog_title">പ്രവർത്തനം</string>
     <!-- Thermal profiles -->
     <string name="thermal_default">യാതൊരു നിയന്ത്രണങ്ങളും ഇല്ല</string>
     <string name="thermal_benchmark">പ്രകടനം</string>

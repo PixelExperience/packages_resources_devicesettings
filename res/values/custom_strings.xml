@@ -175,17 +175,17 @@
     <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
 
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="alert_slider_category_title">Alert slider</string>
+    <string name="alert_slider_selection_dialog_title">Action</string>
+    <string name="alert_slider_top_position">Top position</string>
+    <string name="alert_slider_middle_position">Middle position</string>
+    <string name="alert_slider_bottom_position">Bottom position</string>
+    <string name="alert_slider_mode_dnd_total_silence">Total silence</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Alarms only</string>
+    <string name="alert_slider_mode_dnd_priority_only">Priority only</string>
+    <string name="alert_slider_mode_silent">Silent</string>
+    <string name="alert_slider_mode_vibration">Vibration</string>
+    <string name="alert_slider_mode_normal">Normal</string>
 
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimization profiles</string>

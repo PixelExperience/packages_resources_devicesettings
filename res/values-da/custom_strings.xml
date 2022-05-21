@@ -96,7 +96,7 @@
     <string name="allow_proximity_sensor_title">Aktivér nærhedssensor</string>
     <string name="allow_proximity_sensor_summary">Tjek nærhedssensoren før handlingen udføres</string>
     <string name="oneplus_advanced_settings">Oneplus Indstillinger</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="alert_slider_mode_normal">Normal</string>
     <string name="refresh_rate_settings_title">Skærmopdateringsfrekvens</string>
     <string name="button_settings_title">Knapper</string>
     <string name="lcd_hbm_title_enabled">Aktiveret</string>

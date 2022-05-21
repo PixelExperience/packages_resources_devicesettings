@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notification_slider_mode_none">Normale</string>
+    <string name="alert_slider_mode_normal">Normale</string>
     <string name="lcd_hbm_title_enabled">Abilitadu</string>
     <string name="lcd_hbm_title_disabled">Disabilitadu</string>
 </resources>

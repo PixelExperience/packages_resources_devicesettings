@@ -90,7 +90,7 @@
     <string name="tap_dlg_title">Zgjidh aksionin per prekje te vetme</string>
     <string name="double_tap_dlg_title">Zgjidh aksionin për prekje të dyherëshme</string>
     <string name="long_tap_dlg_title">Zgjedh aksionet për prekje të gjatë</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="alert_slider_mode_normal">Normal</string>
     <string name="button_settings_title">Butonat</string>
     <string name="lcd_hbm_title_enabled">I aktivizuar</string>
     <string name="lcd_hbm_title_disabled">I çaktivizuar</string>

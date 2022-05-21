@@ -144,17 +144,17 @@
     <string name="oneplus_advanced_settings">OnePlus\'i seaded</string>
     <string name="oneplus_advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Teatise lüliti</string>
-    <string name="notification_slider_selection_dialog_title">Tegevus</string>
-    <string name="notification_slider_top_position">Ülemine positsioon</string>
-    <string name="notification_slider_middle_position">Keskmine positsioon</string>
-    <string name="notification_slider_bottom_position">Alumine positsioon</string>
-    <string name="notification_slider_mode_total_silence">Täielik vaikus</string>
-    <string name="notification_slider_mode_alarms_only">Ainult äratused</string>
-    <string name="notification_slider_mode_priority_only">Ainult prioriteetsed</string>
-    <string name="notification_slider_mode_silent">Hääletu</string>
-    <string name="notification_slider_mode_vibrate">Vibreering</string>
-    <string name="notification_slider_mode_none">Tavaline</string>
+    <string name="alert_slider_category_title">Teatise lüliti</string>
+    <string name="alert_slider_selection_dialog_title">Tegevus</string>
+    <string name="alert_slider_top_position">Ülemine positsioon</string>
+    <string name="alert_slider_middle_position">Keskmine positsioon</string>
+    <string name="alert_slider_bottom_position">Alumine positsioon</string>
+    <string name="alert_slider_mode_dnd_total_silence">Täielik vaikus</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Ainult äratused</string>
+    <string name="alert_slider_mode_dnd_priority_only">Ainult prioriteetsed</string>
+    <string name="alert_slider_mode_silent">Hääletu</string>
+    <string name="alert_slider_mode_vibration">Vibreering</string>
+    <string name="alert_slider_mode_normal">Tavaline</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimeerimise profiil</string>
     <string name="thermal_summary">Reguleerige profiile rakenduse optimaalse jõudluse saavutamiseks</string>
