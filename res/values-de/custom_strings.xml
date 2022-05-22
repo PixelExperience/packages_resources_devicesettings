@@ -145,7 +145,7 @@
     <string name="notification_slider_mode_silent">Lautlos</string>
     <string name="notification_slider_mode_vibrate">Vibrieren</string>
     <string name="notification_slider_mode_none">Standard</string>
-    <string name="thermal_title">Optimierungs Profil</string>
+    <string name="thermal_title">Optimierungprofile</string>
     <string name="thermal_summary">Passen Sie die Profile via App an, um eine optimale Leistung zu erzielen</string>
     <string name="thermal_default">Keine Optimierung</string>
     <string name="thermal_benchmark">Leistung</string>
