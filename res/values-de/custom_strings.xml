@@ -145,7 +145,7 @@
     <string name="notification_slider_mode_silent">Lautlos</string>
     <string name="notification_slider_mode_vibrate">Vibrieren</string>
     <string name="notification_slider_mode_none">Standard</string>
-    <string name="thermal_title">Optimierungs Profil</string>
+    <string name="thermal_title">Optimierungsprofile</string>
     <string name="thermal_summary">Passen Sie die Profile via App an, um eine optimale Leistung zu erzielen</string>
     <string name="thermal_default">Keine Optimierung</string>
     <string name="thermal_benchmark">Leistung</string>
@@ -157,7 +157,7 @@
     <string name="raise_to_wake_gesture_title">Anheben, um aufzuwecken</string>
     <string name="raise_to_wake_gesture_summary">Das Gerät aufwecken, wenn eine Benachrichtigung eintrifft</string>
     <string name="device_min_refresh_rate">Minimale Bildwiederholrate</string>
-    <string name="device_power_save_refresh_rate">Batterie automatisch sparen</string>
+    <string name="device_power_save_refresh_rate">Akku automatisch sparen</string>
     <string name="device_power_save_refresh_rate_switch">Automatisch niedrigere Bildwiederholfrequenz, wenn der Energiesparmodus aktiv ist</string>
     <string name="refresh_rate_settings_title">Bildwiederholrate</string>
     <string name="refresh_rate_settings_summary">Bildschirmaktualisierungsrate anpassen</string>
@@ -204,4 +204,6 @@
     <string name="refresh_medium">Mittel (60Hz)</string>
     <string name="refresh_high">Hoch (90Hz)</string>
     <string name="refresh_extreme">Ultra (120Hz)</string>
+    <string name="powershare_enable_title">Akku teilen</string>
+    <string name="powershare_enable_summary">Andere Geräte aufladen, indem Sie sie auf die Rückseite Ihres Telefons legen</string>
 </resources>

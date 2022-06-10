@@ -204,4 +204,6 @@
     <string name="refresh_medium">Katamtaman (60Hz)</string>
     <string name="refresh_high">Mabilis (90Hz)</string>
     <string name="refresh_extreme">Mas mabilis (120Hz)</string>
+    <string name="powershare_enable_title">Battery Share</string>
+    <string name="powershare_enable_summary">Mag-charge ng ibang devices sa pamamagitan ng pagpatong sa likod ng iyong phone</string>
 </resources>

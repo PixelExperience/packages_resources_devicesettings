@@ -194,7 +194,6 @@
     <string name="lcd_cabc_medium">متوسط (مناسب برای ویدیو)</string>
     <string name="lcd_cabc_high">زیاد (مناسب برای عکس)</string>
     <string name="doze_brightness_title">روشنایی نمایشگر همیشه روشن</string>
-    <string name="doze_brightness_summary">حالت S% فعال است</string>
     <string name="doze_brightness_low">روشنایی کم</string>
     <string name="doze_brightness_high">روشنایی زیاد</string>
     <string name="doze_brightness_adaptive">روشنایی تطبیقی</string>

@@ -180,7 +180,7 @@
     <string name="hbm_title">Yüksek Parlaklık Modu</string>
     <string name="lcd_features_title">Ek Ekran Özellikleri</string>
     <string name="lcd_features_summary">Yüksek Parlaklık Modu, İUAIK</string>
-    <string name="lcd_features_info">Yüksek Parlaklık Modu (YPM), güneş ışığı altında görünürlüğü iyileştirmek için ekranın maksimum parlaklığını artırır. Güç tüketimini artırır.\n\nİUAIK (İçerik Uyarlamalı Arka Işık Kontrolü), güç tüketimini bozulma olmadan azaltmak için o anda görüntülenen içeriğe göre ekran ve arka ışık parlaklığını ayarlar.</string>
+    <string name="lcd_features_info">Yüksek Parlaklık Modu (YPM), gün ışığı altında görünürlüğü iyileştirmek için ekranın maksimum parlaklığını artırır. Güç tüketimi artar.\n\nİUAIK (İçerik Uyarlamalı Arka Işık Kontrolü), güç tüketimini bozulma olmadan azaltmak için o anda görüntülenen içeriğe göre ekran ve arka ışık parlaklığını ayarlar.</string>
     <string name="kernel_not_supported">Çekirdek bu özelliği desteklemiyor</string>
     <string name="lcd_hbm_title">Yüksek Parlaklık Modu</string>
     <string name="lcd_hbm_tile_title">YPM</string>

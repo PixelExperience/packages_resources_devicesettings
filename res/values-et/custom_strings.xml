@@ -204,4 +204,6 @@
     <string name="refresh_medium">Keskmine (60Hz)</string>
     <string name="refresh_high">Kõrge (90Hz)</string>
     <string name="refresh_extreme">Äärmuslik (120Hz)</string>
+    <string name="powershare_enable_title">Aku jagamine</string>
+    <string name="powershare_enable_summary">Laadige teisi seadmeid, asetades need telefoni tagaküljele</string>
 </resources>
