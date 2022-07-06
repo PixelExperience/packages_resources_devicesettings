@@ -81,7 +81,7 @@
     <string name="stop_operate_camera_frequently">Sie öffnen die Frontkamera zu oft.</string>
     <string name="takeback_camera_front_failed">Das schließen der Frontkamera ist fehlgeschlagen. Versuchen Sie es erneut.</string>
     <string name="popup_camera_front_failed">Das öffnen der Frontkamera ist fehlgeschlagen. Versuche es erneut.</string>
-    <string name="popup_camera_proximity_obstructed">Entfernen Sie ihre Hand vom Näherungssensor, um die Frontkamera zu öffnen.</string>
+    <string name="popup_camera_proximity_obstructed">Hand vom Näherungssensor entfernen, um die Frontkamera zu öffnen…</string>
     <string name="clear_speaker_title">Klarer Lautsprecher</string>
     <string name="clear_speaker_summary">Spielen Sie einen 30-sekündigen Ton ab, um den Lautsprecher zu entlasten</string>
     <string name="clear_speaker_description">Führen Sie diese Funktion ein- oder zweimal aus, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist. Stellen Sie die Medienlautstärke auf Maximum ein.\n\nWenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5 Mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln.</string>
@@ -180,9 +180,9 @@
     <string name="hbm_title">Hohe Helligkeit</string>
     <string name="lcd_features_title">Zusätzliche Bildschirm Funktionen</string>
     <string name="lcd_features_summary">Modus für hohe Helligkeit (HBM) &amp; Adaptive Hintergrundbeleuchtungssteuerung für Inhalte (CABC)</string>
-    <string name="lcd_features_info">Der High Brightness Mode (HBM) erhöht die maximale Helligkeit des Displays, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Display- und Hintergrundbeleuchtungshelligkeit basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
-    <string name="kernel_not_supported">Der Kernel unterstützt diese Funktion nicht</string>
-    <string name="lcd_hbm_title">Hohe Helligkeit</string>
+    <string name="lcd_features_info">Hoher Helligkeitsmodus (HBM) erhöht die max. Helligkeit des Bildschirms, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Bildschirm- und Hintergrundbeleuchtung basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
+    <string name="kernel_not_supported">Kernel unterstützt diese Funktion nicht</string>
+    <string name="lcd_hbm_title">Hoher Helligkeitsmodus</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Aktiviert</string>
     <string name="lcd_hbm_title_disabled">Deaktiviert</string>
@@ -199,7 +199,7 @@
     <string name="doze_brightness_adaptive">Automatische Helligkeit</string>
     <string name="refresh_title">Bildwiederholungsrate (Hz) per App</string>
     <string name="refresh_summary">Bestimmte Bildwiederholungsrate (Hz) für jede App einstellen</string>
-    <string name="refresh_default">Standardeinstellung</string>
+    <string name="refresh_default">Standard</string>
     <string name="refresh_low">Wenig (30Hz)</string>
     <string name="refresh_medium">Mittel (60Hz)</string>
     <string name="refresh_high">Hoch (90Hz)</string>

@@ -204,4 +204,6 @@
     <string name="refresh_medium">中 (60Hz)</string>
     <string name="refresh_high">高 (90Hz)</string>
     <string name="refresh_extreme">最高 (120Hz)</string>
+    <string name="powershare_enable_title">バッテリーシェア</string>
+    <string name="powershare_enable_summary">端末の背面に別の端末を近づけてその端末へ充電を行う</string>
 </resources>

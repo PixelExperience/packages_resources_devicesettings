@@ -196,7 +196,7 @@
     <string name="doze_brightness_summary">%s 模式已开启</string>
     <string name="doze_brightness_low">低亮度</string>
     <string name="doze_brightness_high">高亮度</string>
-    <string name="doze_brightness_adaptive">自动调节亮度</string>
+    <string name="doze_brightness_adaptive">自适应亮度</string>
     <string name="refresh_title">每个应用程序的刷新率</string>
     <string name="refresh_summary">为每个应用设置特定的刷新率</string>
     <string name="refresh_default">默认​​​​​</string>

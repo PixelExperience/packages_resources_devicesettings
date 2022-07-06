@@ -22,6 +22,7 @@
     <string name="dirac_preset_title">ഒരു പ്രീസെറ്റ് തിരഞ്ഞെടുക്കുക</string>
     <string name="dirac_hifi_title">ഹൈ-ഫൈ ഓഡിയോ</string>
     <string name="dirac_hifi_summary">ശബ്ദവും ശ്രദ്ധതിരിക്കലുകളും കുറച്ച്, ഓഡിയോയുടെ ഗുണനിലവാരം ഉയർത്തുക</string>
+    <string name="dirac_hifi_enable_title">Hi-fi പ്രവർത്തനക്ഷമമാക്കുക</string>
     <string name="dirac_headset_default">ഡിഫോൾട്ട്</string>
     <string name="dirac_headset_earbuds">Mi ഇയർബഡ്സുകൾ</string>
     <string name="dirac_headset_in_ear_2013">Mi ഇൻ-ഇയർ (2013)</string>
@@ -55,6 +56,7 @@
     <string name="dirac_preset_country">രാജ്യം</string>
     <string name="dirac_preset_dance">ഡാൻസ്</string>
     <string name="dirac_preset_metal">മെറ്റൽ</string>
+    <string name="dirac_preset_bass_booster">ബാസ് ബൂസ്റ്റർ</string>
     <string name="popup_settings_title">പോപ്പ്-അപ് ക്യാമറ സെറ്റിങ്‌സ്</string>
     <string name="popup_led_title">ക്യാമറ എൽ ഇ ഡി</string>
     <string name="popup_led_summary">മുൻ ക്യാമറ ദൃശ്യമാകുകയും പിൻവലിക്കുകയും ചെയ്യുമ്പോൾ LED ലൈറ്റ് കാണിക്കുക</string>
@@ -91,6 +93,11 @@
     <string name="action_last_app">അവസാനം ഉപയോഗിച്ച അപ്ലിക്കേഷൻ</string>
     <string name="action_volume_up">വോളിയം ഉയർത്തുക</string>
     <string name="action_volume_down">വോളിയം കുറയ്ക്കുക</string>
+    <string name="action_voice_assistant">വോയിസ് അസിസ്റ്റന്റ്</string>
+    <string name="action_play_pause">പ്ലേ /പോസ് ചെയ്യുക</string>
+    <string name="action_previous_track">മുമ്പത്തെ ട്രാക്ക്</string>
+    <string name="action_next_track">അടുത്ത ഗാനം</string>
+    <string name="action_flashlight">ഫ്ലാഷ് ലൈറ്റ് ഓൺ/ഓഫ്</string>
     <string name="action_camera">ക്യാമറ തുറക്കുക</string>
     <string name="action_screenshot">ഒരു സ്‌ക്രീൻഷോട്ട് എടുക്കുക</string>
     <string name="action_browser">ബ്രൗസറിൽ തുറക്കുക</string>
@@ -108,6 +115,10 @@
     <string name="oneplus_advanced_settings_summary">നിങ്ങളുടെ ഉപകരണത്തിനായുള്ള ഇഷ്‌ടാനുസൃത ക്രമീകരണങ്ങൾ</string>
     <string name="notification_slider_category_title">അലേർട്ട് സ്ലൈഡർ</string>
     <string name="notification_slider_selection_dialog_title">പ്രവർത്തനം</string>
+    <string name="notification_slider_mode_alarms_only">അലാറങ്ങൾ മാത്രം</string>
+    <string name="notification_slider_mode_silent">സൈലന്റ്</string>
+    <string name="notification_slider_mode_vibrate">വൈബ്രേറ്റ്‌</string>
+    <string name="notification_slider_mode_none">നോർമൽ</string>
     <string name="thermal_default">യാതൊരു നിയന്ത്രണങ്ങളും ഇല്ല</string>
     <string name="thermal_benchmark">പ്രകടനം</string>
     <string name="thermal_browser">ബ്രൗസർ</string>

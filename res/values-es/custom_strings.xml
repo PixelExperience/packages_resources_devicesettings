@@ -204,4 +204,6 @@
     <string name="refresh_medium">Medio (60 Hz)</string>
     <string name="refresh_high">Alto (90 Hz)</string>
     <string name="refresh_extreme">Extremo (120 Hz)</string>
+    <string name="powershare_enable_title">Compartir batería</string>
+    <string name="powershare_enable_summary">Carga otros dispositivos colocándolos en la parte trasera de tu teléfono</string>
 </resources>

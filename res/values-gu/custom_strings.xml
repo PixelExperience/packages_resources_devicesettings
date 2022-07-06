@@ -116,5 +116,6 @@
     <string name="button_settings_title">બટનો</string>
     <string name="lcd_hbm_title_enabled">સક્રિય કરો</string>
     <string name="lcd_hbm_title_disabled">અક્ષમ કરેલું</string>
+    <string name="lcd_cabc_off">બંધ</string>
     <string name="refresh_default">ડિફોલ્ટ</string>
 </resources>
