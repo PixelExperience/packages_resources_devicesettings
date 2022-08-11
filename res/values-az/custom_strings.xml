@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Rəqs</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bas Artırıcı</string>
+    <string name="dirac_preset_live">Canlı</string>
+    <string name="dirac_preset_balanced">Tarazlı</string>
+    <string name="dirac_preset_bass_reduction">Bas azaldıcı</string>
+    <string name="dirac_preset_treble_reduction">Zil azaldıcı</string>
+    <string name="dirac_preset_soft_bass">Yumşaq bas</string>
+    <string name="dirac_preset_soft_treble">Yumşaq zil</string>
+    <string name="music_headset_scenario_select">Səhnə seçin</string>
+    <string name="music_headset_scenario_intelligent">Ağıllı</string>
+    <string name="music_headset_scenario_music">Musiqi</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Səs</string>
     <string name="popup_settings_title">Açılan kamera tənzimləmələri</string>
     <string name="popup_led_title">Kamera LED-i</string>
     <string name="popup_led_summary">Ön kamera yuvadan çıxıb geri girəndə LED işığını göstər</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Yüksək parlaqlıq rejimi (HBM), gün işığı altında ekranın görünməsini yaxşılaşdırmaq üçün maksimum parlaqlığı artırır. Enerji istifadəsini artırır.\n\n\Məzmuna uyğun arxa işıq nəzarəti (CABC), enerji istifadəsini ekranda pozulma olmadan azaltmaq üçün ekran və arxa işıq parlaqlığını həmin an göstərilən məzmuna görə nizamlayır.</string>
     <string name="kernel_not_supported">Kernel, bu özəlliyi dəstəkləmir</string>
     <string name="lcd_hbm_title">Yüksək parlaqlıq rejimi</string>
+    <string name="lcd_hbm_summary">Günəş işığı altında ekran parlaqlığını artır</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Fəallaşdırıldı</string>
     <string name="lcd_hbm_title_disabled">Sıradan çıxarıldı</string>

@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Métal</string>
     <string name="dirac_preset_bass_booster">Amplificateur de basses</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Equilibré</string>
+    <string name="dirac_preset_bass_reduction">Réduction des basses</string>
+    <string name="dirac_preset_treble_reduction">Réduction des aigus</string>
+    <string name="dirac_preset_soft_bass">Basses douces</string>
+    <string name="dirac_preset_soft_treble">Aigus doux</string>
+    <string name="music_headset_scenario_select">Sélectionner une scène</string>
+    <string name="music_headset_scenario_intelligent">Intelligent</string>
+    <string name="music_headset_scenario_music">Musique</string>
+    <string name="music_headset_scenario_video">Vidéo</string>
+    <string name="music_headset_scenario_vocal">Voix</string>
     <string name="popup_settings_title">Paramètres de caméra pop-up</string>
     <string name="popup_led_title">LED de la caméra</string>
     <string name="popup_led_summary">Allumer la LED lorsque la caméra frontale apparaît et se rétracte</string>
@@ -124,7 +135,7 @@
     <string name="double_tap_title">Appui double</string>
     <string name="long_tap_title">Appui long</string>
     <string name="tap_dlg_title">Sélectionnez action pour seul robinet</string>
-    <string name="double_tap_dlg_title">Action de sélection pour le double robinet</string>
+    <string name="double_tap_dlg_title">Action de sélection pour un appui double</string>
     <string name="long_tap_dlg_title">Sélectionnez l’action de clic long</string>
     <string name="tap_to_wake">Appuyez pour revenir en arrière</string>
     <string name="tap_to_wake_summary">Appuyez deux fois n\'importe où sur l\'écran pour réactiver l\'appareil.</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Le Mode Haute Luminosité (MHL) augmente la luminosité maximale de l\'écran afin d\'améliorer la lisibilité en plein soleil. Cela augmente la consommation d\'énergie.\n\n Le Contrôle du Rétroéclairage s\'Adaptant au Contenu (CRAC) adapte l\'affichage et la luminosité du rétroéclairage en se basant sur le contenu affiché, afin de réduire la consommation sans dégradation.</string>
     <string name="kernel_not_supported">Le noyau ne supporte pas cette fonctionnalité</string>
     <string name="lcd_hbm_title">Mode haute luminosité</string>
+    <string name="lcd_hbm_summary">Augmenter la luminosité de l\'écran sous la lumière du soleil</string>
     <string name="lcd_hbm_tile_title">MHL</string>
     <string name="lcd_hbm_title_enabled">Activé</string>
     <string name="lcd_hbm_title_disabled">Désactivé</string>

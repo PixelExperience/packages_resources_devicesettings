@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">舞曲</string>
     <string name="dirac_preset_metal">金属</string>
     <string name="dirac_preset_bass_booster">低音强化</string>
+    <string name="dirac_preset_live">实时</string>
+    <string name="dirac_preset_balanced">均衡</string>
+    <string name="dirac_preset_bass_reduction">低音弱化</string>
+    <string name="dirac_preset_treble_reduction">高音弱化</string>
+    <string name="dirac_preset_soft_bass">柔和低音</string>
+    <string name="dirac_preset_soft_treble">柔和高音</string>
+    <string name="music_headset_scenario_select">选择场景</string>
+    <string name="music_headset_scenario_intelligent">智能</string>
+    <string name="music_headset_scenario_music">音乐</string>
+    <string name="music_headset_scenario_video">视频</string>
+    <string name="music_headset_scenario_vocal">语音</string>
     <string name="popup_settings_title">升降摄像头设置</string>
     <string name="popup_led_title">升降摄像头灯效</string>
     <string name="popup_led_summary">前置摄像头升降时亮起</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">高亮度模式 (HBM) 可提高显示屏的最大亮度，以提高阳光下的可见度。 增加功耗。\n\n内容自适应背光控制 (CABC) 根据当前显示的内容调整显示和背光亮度，以在不降低功耗的情况下降低功耗</string>
     <string name="kernel_not_supported">内核不支持该功能</string>
     <string name="lcd_hbm_title">高亮度模式</string>
+    <string name="lcd_hbm_summary">在强光下增加屏幕亮度</string>
     <string name="lcd_hbm_tile_title">高亮度模式</string>
     <string name="lcd_hbm_title_enabled">已启用</string>
     <string name="lcd_hbm_title_disabled">已禁用</string>

@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dans</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bas Yükseltici</string>
+    <string name="dirac_preset_live">Canlı</string>
+    <string name="dirac_preset_balanced">Dengeli</string>
+    <string name="dirac_preset_bass_reduction">Bass Azaltıcı</string>
+    <string name="dirac_preset_treble_reduction">Tiz Azaltıcı</string>
+    <string name="dirac_preset_soft_bass">Hafif Bass</string>
+    <string name="dirac_preset_soft_treble">Hafif Tiz</string>
+    <string name="music_headset_scenario_select">Sahne seçin</string>
+    <string name="music_headset_scenario_intelligent">Akıllı</string>
+    <string name="music_headset_scenario_music">Müzik</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Ses</string>
     <string name="popup_settings_title">Açılır kamera ayarları</string>
     <string name="popup_led_title">Kamera LED\'i</string>
     <string name="popup_led_summary">Ön kamera yuvadan çıkıp geri girdiğinde LED\'i yak</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Yüksek Parlaklık Modu (YPM), gün ışığı altında görünürlüğü iyileştirmek için ekranın maksimum parlaklığını artırır. Güç tüketimi artar.\n\nİUAIK (İçerik Uyarlamalı Arka Işık Kontrolü), güç tüketimini bozulma olmadan azaltmak için o anda görüntülenen içeriğe göre ekran ve arka ışık parlaklığını ayarlar.</string>
     <string name="kernel_not_supported">Çekirdek bu özelliği desteklemiyor</string>
     <string name="lcd_hbm_title">Yüksek Parlaklık Modu</string>
+    <string name="lcd_hbm_summary">Güneş ışığında ekran parlaklığını arttır</string>
     <string name="lcd_hbm_tile_title">YPM</string>
     <string name="lcd_hbm_title_enabled">Etkin</string>
     <string name="lcd_hbm_title_disabled">Devre dışı</string>

@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">แด๊นซ์</string>
     <string name="dirac_preset_metal">เมทัล</string>
     <string name="dirac_preset_bass_booster">เพิ่มเสียงเบส</string>
+    <string name="dirac_preset_live">ไลฟ์</string>
+    <string name="dirac_preset_balanced">สมดุล</string>
+    <string name="dirac_preset_bass_reduction">ลดเสียงเบส</string>
+    <string name="dirac_preset_treble_reduction">ลดเสียงสูง</string>
+    <string name="dirac_preset_soft_bass">เบสนุ่ม</string>
+    <string name="dirac_preset_soft_treble">เสียงแหลมนุ่ม</string>
+    <string name="music_headset_scenario_select">เลือกรูปแบบ</string>
+    <string name="music_headset_scenario_intelligent">อัจฉริยะ</string>
+    <string name="music_headset_scenario_music">ดนตรี</string>
+    <string name="music_headset_scenario_video">วิดีโอ</string>
+    <string name="music_headset_scenario_vocal">เสียงพูด</string>
     <string name="popup_settings_title">การตั้งค่ากล้องป๊อปอัป</string>
     <string name="popup_led_title">ไฟ LED ของกล้อง</string>
     <string name="popup_led_summary">แสดงไฟ LED เมื่อกล้องหน้าปรากฏขึ้นและหดกลับ</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">โหมดความสว่างสูง (HBM) เพิ่มความสว่างสูงสุดของจอแสดงผลเพื่อปรับปรุงการมองเห็นภายใต้แสงแดด เพิ่มการใช้พลังงาน \n\nContent Adaptive Backlight Control (CABC) จะปรับจอแสดงผลและความสว่างของแบ็คไลท์ตามเนื้อหาที่แสดงอยู่ในปัจจุบัน เพื่อลดการใช้พลังงานโดยไม่ลดทอนคุณภาพลง</string>
     <string name="kernel_not_supported">เคอร์เนลไม่รองรับคุณสมบัตินี้</string>
     <string name="lcd_hbm_title">โหมดความสว่างสูง</string>
+    <string name="lcd_hbm_summary">เพิ่มความสว่างหน้าจอภายใต้แสงแดด</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">เปิดใช้งาน</string>
     <string name="lcd_hbm_title_disabled">ปิดการใช้งาน</string>

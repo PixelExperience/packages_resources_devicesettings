@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dança</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Aumento dos graves</string>
+    <string name="dirac_preset_live">Ao vivo</string>
+    <string name="dirac_preset_balanced">Equilibrado</string>
+    <string name="dirac_preset_bass_reduction">Reduzir graves</string>
+    <string name="dirac_preset_treble_reduction">Reduzir agudos</string>
+    <string name="dirac_preset_soft_bass">Graves suaves</string>
+    <string name="dirac_preset_soft_treble">Agudos suaves</string>
+    <string name="music_headset_scenario_select">Selecionar cenário</string>
+    <string name="music_headset_scenario_intelligent">Inteligente</string>
+    <string name="music_headset_scenario_music">Música</string>
+    <string name="music_headset_scenario_video">Vídeo</string>
+    <string name="music_headset_scenario_vocal">Voz</string>
     <string name="popup_settings_title">Pop-up de definições da câmara</string>
     <string name="popup_led_title">LED da câmara</string>
     <string name="popup_led_summary">Mostrar LED quando a câmara frontal surgir e retrair</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Modo de alto brilho (HBM) aumenta o brilho máximo do ecrã para melhorar a visibilidade em ambientes claros. Aumenta o consumo de energia.\n\nControle de retroiluminação adaptável ao conteúdo (CABC) ajusta o ecrã e a retroiluminação com base no conteúdo apresentado, para reduzir o consumo de energia sem perda de qualidade.</string>
     <string name="kernel_not_supported">O Kernel não suporta este recurso</string>
     <string name="lcd_hbm_title">Modo de alto brilho</string>
+    <string name="lcd_hbm_summary">Aumentar o brilho do ecrã sob luz solar</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Ativada</string>
     <string name="lcd_hbm_title_disabled">Desativada</string>

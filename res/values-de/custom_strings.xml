@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bassverstärkung</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Ausgeglichen</string>
+    <string name="dirac_preset_bass_reduction">Tiefen reduzieren</string>
+    <string name="dirac_preset_treble_reduction">Höhen reduzieren</string>
+    <string name="dirac_preset_soft_bass">Sanfter Bass</string>
+    <string name="dirac_preset_soft_treble">Sanfte Höhen</string>
+    <string name="music_headset_scenario_select">Szene auswählen</string>
+    <string name="music_headset_scenario_intelligent">Intelligent</string>
+    <string name="music_headset_scenario_music">Musik</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Stimme</string>
     <string name="popup_settings_title">Pop-up Camera Einstellungen</string>
     <string name="popup_led_title">Kamera LED</string>
     <string name="popup_led_summary">LED-Licht anzeigen, wenn die Frontkamera erscheint und einfährt</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Hoher Helligkeitsmodus (HBM) erhöht die max. Helligkeit des Bildschirms, um die Sichtbarkeit bei Sonnenlicht zu verbessern.  Erhöht den Stromverbrauch.\n\nCABC (Content Adaptive Backlight Control) passt die Bildschirm- und Hintergrundbeleuchtung basierend auf dem aktuell angezeigten Inhalt an, um den Stromverbrauch ohne Beeinträchtigung zu reduzieren.</string>
     <string name="kernel_not_supported">Kernel unterstützt diese Funktion nicht</string>
     <string name="lcd_hbm_title">Hoher Helligkeitsmodus</string>
+    <string name="lcd_hbm_summary">Bildschirmhelligkeit bei Sonnenlicht erhöhen</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Aktiviert</string>
     <string name="lcd_hbm_title_disabled">Deaktiviert</string>

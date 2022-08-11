@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Танцювальна</string>
     <string name="dirac_preset_metal">Метал</string>
     <string name="dirac_preset_bass_booster">Підсилювач басів</string>
+    <string name="dirac_preset_live">Наживо</string>
+    <string name="dirac_preset_balanced">Збалансований</string>
+    <string name="dirac_preset_bass_reduction">Зниження басу</string>
+    <string name="dirac_preset_treble_reduction">Знизити високі частоти</string>
+    <string name="dirac_preset_soft_bass">М\'який бас</string>
+    <string name="dirac_preset_soft_treble">М\'які високі частоти</string>
+    <string name="music_headset_scenario_select">Обрати сцену</string>
+    <string name="music_headset_scenario_intelligent">Розумний</string>
+    <string name="music_headset_scenario_music">Музика</string>
+    <string name="music_headset_scenario_video">Відео</string>
+    <string name="music_headset_scenario_vocal">Голос</string>
     <string name="popup_settings_title">Налаштування висувної камери</string>
     <string name="popup_led_title">Світлодіод камери</string>
     <string name="popup_led_summary">Вмикати діодне світло, коли передня камера висувається та засувається</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Режим високої яскравості збільшує максимальну кількість яскравості дисплею для покращення видимості під сонцем. Збільшує енергоспоживання.\n\nАдаптивне керування підсвічуванням вмісту налаштовує дисплей та яскравість підсвічування на основі поточного зображеного вмісту, для зменшення енергії без деградації.</string>
     <string name="kernel_not_supported">Ядро не підтримує цю функцію</string>
     <string name="lcd_hbm_title">Режим високої яскравості</string>
+    <string name="lcd_hbm_summary">Збільшення яскравості екрана під сонячним світлом</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Увімкнено</string>
     <string name="lcd_hbm_title_disabled">Вимкнено</string>

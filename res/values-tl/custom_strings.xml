@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Balanse</string>
+    <string name="dirac_preset_bass_reduction">Bawasan ang bass</string>
+    <string name="dirac_preset_treble_reduction">Bawasan ang treble</string>
+    <string name="dirac_preset_soft_bass">Soft Bass</string>
+    <string name="dirac_preset_soft_treble">Soft Treble</string>
+    <string name="music_headset_scenario_select">Pumili ng scene</string>
+    <string name="music_headset_scenario_intelligent">Matalino</string>
+    <string name="music_headset_scenario_music">Musika</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Boses</string>
     <string name="popup_settings_title">Settings ng pop-up camera </string>
     <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">Ipakita ang LED na ilaw kapag ang camera sa harap ay lumalabas at pumapasok</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Ang High Brightness Mode (HBM) ay tinataasan ang pinaka-mataas na liwanag ng display kapag nasa sikat ng araw. Tumataas ang konsumo ng kuryente.\n\nAng Content Adaptive Backlight Control (CABC) ay ginagalaw ang liwanag ng display base sa kasalukuyang nilalaman ng screen, para mabawasan ang konsumo ng kuryente ng walang pagkababa ng kalidad.</string>
     <string name="kernel_not_supported">Ang kernel ay hindi sinusuportahan ang feature na ito.</string>
     <string name="lcd_hbm_title">High Brightness Mode</string>
+    <string name="lcd_hbm_summary">Taasan ang liwanag kapag nasa ilalim ng araw</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Naka-enable</string>
     <string name="lcd_hbm_title_disabled">Naka-disable</string>

@@ -16,6 +16,7 @@
 -->
 <resources>
     <string name="display_title">Էկրան</string>
+    <string name="dc_dimming_enable_title">Պաշտպանություն թարթումից</string>
     <string name="dirac_title">Mi Ձայնի բարելավում</string>
     <string name="dirac_summary">Օպտիմիզացնել ձայնի որակը</string>
     <string name="dirac_headset_title">Ընտրել ականջակալների տեսակը</string>
@@ -117,5 +118,6 @@
     <string name="button_settings_title">Կոճակներ</string>
     <string name="lcd_hbm_title_enabled">Միացված</string>
     <string name="lcd_hbm_title_disabled">Անջատված է</string>
+    <string name="lcd_cabc_off">Անջ</string>
     <string name="refresh_default">Կանխադրված</string>
 </resources>

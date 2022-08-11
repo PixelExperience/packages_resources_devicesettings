@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Taneční</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Zvýraznění basů</string>
+    <string name="dirac_preset_live">Živý</string>
+    <string name="dirac_preset_balanced">Vyvážený</string>
+    <string name="dirac_preset_bass_reduction">Potlačení basů</string>
+    <string name="dirac_preset_treble_reduction">Potlačení výšek</string>
+    <string name="dirac_preset_soft_bass">Jemné basy</string>
+    <string name="dirac_preset_soft_treble">Jemné výšky</string>
+    <string name="music_headset_scenario_select">Vybrat scénu</string>
+    <string name="music_headset_scenario_intelligent">Chytrá</string>
+    <string name="music_headset_scenario_music">Hudba</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Hlas</string>
     <string name="popup_settings_title">Nastavení vyskakovacího fotoaparátu</string>
     <string name="popup_led_title">LED fotoaparátu</string>
     <string name="popup_led_summary">Zablikat LED kontrolkou při vysunutí a zasunutí předního fotoaparátu</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Režim vysokého jasu (HBM) zvyšuje maximální jas displeje, aby se zlepšila viditelnost na slunci. Zvyšuje spotřebu energie. \n\nAdaptivní ovládání podsvícení (CABC) upravuje jas displeje a podsvícení na základě aktuálně zobrazovaného obsahu, aby se bez zhoršení snížila spotřeba energie.</string>
     <string name="kernel_not_supported">Kernel tuto funkci nepodporuje</string>
     <string name="lcd_hbm_title">Režim vysokého jasu</string>
+    <string name="lcd_hbm_summary">Zvýšit jas obrazovky při slunečním světle</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Zapnuto</string>
     <string name="lcd_hbm_title_disabled">Vypnuto</string>

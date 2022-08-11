@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Penguat Bass</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Seimbang</string>
+    <string name="dirac_preset_bass_reduction">Pengurangan Bass</string>
+    <string name="dirac_preset_treble_reduction">Pengurangan Treble</string>
+    <string name="dirac_preset_soft_bass">Bass Lembut</string>
+    <string name="dirac_preset_soft_treble">Trebel Lembut</string>
+    <string name="music_headset_scenario_select">Pilih suasana</string>
+    <string name="music_headset_scenario_intelligent">Cerdas</string>
+    <string name="music_headset_scenario_music">Musik</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Suara</string>
     <string name="popup_settings_title">Pengaturan Pop-Up Kamera</string>
     <string name="popup_led_title">Lampu Kamera</string>
     <string name="popup_led_summary">Nyalakan lampu kamera saat kamera depan terbuka dan tertutup</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Mode Kecerahan Tinggi (HBM) meningkatkan kecerahan maksimum tampilan untuk meningkatkan visibilitas di bawah sinar matahari. Meningkatkan konsumsi daya.\n\nKontrol Lampu Latar Adaptif Konten (CABC) menyesuaikan tampilan dan kecerahan lampu latar berdasarkan konten yang ditampilkan saat ini, untuk mengurangi konsumsi daya tanpa penurunan daya.</string>
     <string name="kernel_not_supported">Kernel tidak mendukung fitur ini</string>
     <string name="lcd_hbm_title">Mode Kecerahan Tinggi</string>
+    <string name="lcd_hbm_summary">Tingkatkan kecerahan layar di bawah sinar matahari</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Diaktifkan</string>
     <string name="lcd_hbm_title_disabled">Dinonaktifkan</string>

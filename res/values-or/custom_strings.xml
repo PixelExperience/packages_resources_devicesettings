@@ -61,6 +61,9 @@
     <string name="dirac_preset_dance">ନୃତ୍ୟ</string>
     <string name="dirac_preset_metal">ମେଟାଲ୍</string>
     <string name="dirac_preset_bass_booster">ବାସ୍ ବୁଷ୍ଟର୍</string>
+    <string name="dirac_preset_live">ଜୀବନ୍ତ</string>
+    <string name="music_headset_scenario_music">ସଙ୍ଗୀତ</string>
+    <string name="music_headset_scenario_video">ଵିଡ଼ିଓ</string>
     <string name="popup_settings_title">ପପ୍-ଅପ୍ କ୍ୟାମେରା ସେଟିଙ୍ଗ୍ |</string>
     <string name="popup_led_title">କ୍ୟାମେରା LED</string>
     <string name="popup_led_summary">ଯେତେବେଳେ ଆଗ କ୍ୟାମେରା ଦେଖାଯାଏ ଏବଂ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କରେ ସେତେବେଳେ LED ଆଲୋକ ଦେଖାନ୍ତୁ |</string>

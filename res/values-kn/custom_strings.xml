@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">ಡ್ಯಾನ್ಸ್</string>
     <string name="dirac_preset_metal">ಮೆಟಲ್‌</string>
     <string name="dirac_preset_bass_booster">ಬಾಸ್ ಬೂಸ್ಟರ್</string>
+    <string name="dirac_preset_live">ನೇರ </string>
+    <string name="dirac_preset_balanced">ಸಮತೋಲಿತ</string>
+    <string name="dirac_preset_bass_reduction">ಬಾಸ್ ಕಡಿತ</string>
+    <string name="dirac_preset_treble_reduction">ಟ್ರೈಬಲ್ ಕಡಿತ</string>
+    <string name="dirac_preset_soft_bass">ಸಾಫ್ಟ್ ಬಾಸ್</string>
+    <string name="dirac_preset_soft_treble">ಮೃದು ಟ್ರೈಬಲ್</string>
+    <string name="music_headset_scenario_select">ದೃಶ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="music_headset_scenario_intelligent">ಸ್ಮಾರ್ಟ್</string>
+    <string name="music_headset_scenario_music">ಸಂಗೀತ</string>
+    <string name="music_headset_scenario_video">ವೀಡಿಯೋ</string>
+    <string name="music_headset_scenario_vocal">ಧ್ವನಿ</string>
     <string name="popup_settings_title">ಪಾಪ್ಅಪ್ ಕ್ಯಾಮರಾ ಸೆಟ್ಟಿಂಗ್ ಗಳು</string>
     <string name="popup_led_title">ಕ್ಯಾಮರಾ ಎಲ್ಇಡಿ</string>
     <string name="popup_led_summary">ಮುಂದಿನ ಕ್ಯಾಮರಾ ಕಾಣಿಸುವಾಗ ಹಾಗೂ ರಿಟ್ರಾಕ್ಟ್‌ ಆಗುವಾಗ LED ಲೈಟ್ ತೋರಿಸು</string>
@@ -179,6 +190,7 @@
     <string name="stylus_title">ಸ್ಟೈಲಸ್ ಲೇಖನಿ</string>
     <string name="hbm_title">ಹೆಚ್ಚು ಪ್ರಖರತೆ ಮೋಡ್</string>
     <string name="lcd_features_title">ಹೆಚ್ಚುವರಿ ಪ್ರದರ್ಶನ ವೈಶಿಷ್ಟ್ಯಗಳು</string>
+    <string name="lcd_features_summary">ಹೈ ಬ್ರೈಟ್‌ನೆಸ್ ಮೋಡ್ (HBM) ಮತ್ತು ಕಂಟೆಂಟ್ ಅಡಾಪ್ಟಿವ್ ಬ್ಯಾಕ್‌ಲೈಟ್ ಕಂಟ್ರೋಲ್ (CABC)</string>
     <string name="lcd_hbm_title">ಹೆಚ್ಚು ಪ್ರಖರತೆ ಮೋಡ್</string>
     <string name="lcd_hbm_tile_title">ಹೆಚ್ ಬಿ ಎಮ್</string>
     <string name="lcd_hbm_title_enabled">ಸಕ್ರಿಯ</string>

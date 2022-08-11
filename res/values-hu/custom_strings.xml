@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metááál</string>
     <string name="dirac_preset_bass_booster">Basszus erősítő</string>
+    <string name="dirac_preset_live">Élő</string>
+    <string name="dirac_preset_balanced">Kiegyensúlyozott</string>
+    <string name="dirac_preset_bass_reduction">Basszus csökkentés</string>
+    <string name="dirac_preset_treble_reduction">Magas csökkentés</string>
+    <string name="dirac_preset_soft_bass">Lágy basszus</string>
+    <string name="dirac_preset_soft_treble">Lágy magas</string>
+    <string name="music_headset_scenario_select">Válasszon hangszintet</string>
+    <string name="music_headset_scenario_intelligent">Okos</string>
+    <string name="music_headset_scenario_music">Zene</string>
+    <string name="music_headset_scenario_video">Videó</string>
+    <string name="music_headset_scenario_vocal">Hang</string>
     <string name="popup_settings_title">A felugró kamera beállításai</string>
     <string name="popup_led_title">Kamera-LED</string>
     <string name="popup_led_summary">A LED-fény megjelenítése az első kamera kinyitásakor és bezárásakor</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">HBM = Magasfényerő-mód növeli a kijelző maximális fényerejét, hogy javítsa a láthatóságot napfényben. Ez növeli az energiafogyasztást.\n\nCABC = Tartalomkövető háttérvilágítás-vezérlés beállítja a kijelző és a háttérvilágítás fényerejét az aktuálisan megjelenített tartalom alapján, hogy csökkentse az energiafogyasztást, lehetőleg minőségromlás nélkül.</string>
     <string name="kernel_not_supported">A kernel nem támogatja ezt a funkciót</string>
     <string name="lcd_hbm_title">Magas fényerejű mód</string>
+    <string name="lcd_hbm_summary">Képernyő-fényerő növelése napsütésben</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Engedélyezve</string>
     <string name="lcd_hbm_title_disabled">Kikapcsolva</string>

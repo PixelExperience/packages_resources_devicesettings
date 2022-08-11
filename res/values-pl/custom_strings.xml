@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Taniec</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster </string>
+    <string name="dirac_preset_live">Na żywo</string>
+    <string name="dirac_preset_balanced">Zbalansowany</string>
+    <string name="dirac_preset_bass_reduction">Redukcja basów</string>
+    <string name="dirac_preset_treble_reduction">Redukcja wysokich tonów</string>
+    <string name="dirac_preset_soft_bass">Łagodne basy</string>
+    <string name="dirac_preset_soft_treble">Łagodne soprany</string>
+    <string name="music_headset_scenario_select">Wybierz scenerię</string>
+    <string name="music_headset_scenario_intelligent">Inteligentny</string>
+    <string name="music_headset_scenario_music">Muzyka</string>
+    <string name="music_headset_scenario_video">Wideo</string>
+    <string name="music_headset_scenario_vocal">Głos</string>
     <string name="popup_settings_title">Ustawienia wysuwanego aparatu</string>
     <string name="popup_led_title">LED Aparatu</string>
     <string name="popup_led_summary">Pokaż LED podczas wysuwania i zamykania przedniego aparatu</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Tryb High Brightness (HBM) zwiększa maksymalną jasność wyświetlacza, aby poprawić widoczność w świetle słonecznym. Zwiększa zużycie energii.\n\nContent CABC (Content Adaptive Backlight Control) dostosowuje jasność wyświetlacza i podświetlenia w oparciu o aktualnie wyświetlaną zawartość, aby zmniejszyć zużycie energii bez pogorszenia jakości obrazu.</string>
     <string name="kernel_not_supported">Kernel nie wspiera tej funkcji</string>
     <string name="lcd_hbm_title">Tryb wysokiej jasności</string>
+    <string name="lcd_hbm_summary">Zwiększ jasność ekranu w świetle słonecznym</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Włączone</string>
     <string name="lcd_hbm_title_disabled">Wyłączone</string>

@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Танцевальная</string>
     <string name="dirac_preset_metal">Металл</string>
     <string name="dirac_preset_bass_booster">Усилитель басов</string>
+    <string name="dirac_preset_live">Реальный</string>
+    <string name="dirac_preset_balanced">Баланс</string>
+    <string name="dirac_preset_bass_reduction">Понизить НЧ</string>
+    <string name="dirac_preset_treble_reduction">Понизить ВЧ</string>
+    <string name="dirac_preset_soft_bass">Мягкий басс</string>
+    <string name="dirac_preset_soft_treble">Мягкие высокие</string>
+    <string name="music_headset_scenario_select">Выберите сцену</string>
+    <string name="music_headset_scenario_intelligent">Умный</string>
+    <string name="music_headset_scenario_music">Музыка</string>
+    <string name="music_headset_scenario_video">Видео</string>
+    <string name="music_headset_scenario_vocal">Голос</string>
     <string name="popup_settings_title">Настройки всплывающей камеры</string>
     <string name="popup_led_title">LED индикация камеры</string>
     <string name="popup_led_summary">Показывать LED индикацию при открытии и закрытии фронтальной камеры</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Режим повышенной яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nАдаптивное управление подсветкой (CABC) регулирует яркость дисплея и подсветки в зависимости от текущего содержимого, чтобы снизить энергопотребление без ухудшения качества изображения.</string>
     <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
     <string name="lcd_hbm_title">Режим высокой яркости</string>
+    <string name="lcd_hbm_summary">Увеличение яркости экрана при солнечном свете</string>
     <string name="lcd_hbm_tile_title">HBM (Режим высокой яркости) </string>
     <string name="lcd_hbm_title_enabled">Включено</string>
     <string name="lcd_hbm_title_disabled">Выключено</string>

@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">댄스</string>
     <string name="dirac_preset_metal">메탈</string>
     <string name="dirac_preset_bass_booster">저음 강화</string>
+    <string name="dirac_preset_live">생동감</string>
+    <string name="dirac_preset_balanced">균형감</string>
+    <string name="dirac_preset_bass_reduction">저음 약화</string>
+    <string name="dirac_preset_treble_reduction">고음 약화</string>
+    <string name="dirac_preset_soft_bass">부드러운 저음</string>
+    <string name="dirac_preset_soft_treble">부드러운 고음</string>
+    <string name="music_headset_scenario_select">장면 선택</string>
+    <string name="music_headset_scenario_intelligent">스마트</string>
+    <string name="music_headset_scenario_music">음악</string>
+    <string name="music_headset_scenario_video">동영상</string>
+    <string name="music_headset_scenario_vocal">음성</string>
     <string name="popup_settings_title">팝업 카메라 설정</string>
     <string name="popup_led_title">카메라 LED</string>
     <string name="popup_led_summary">전면 카메라를 열고 닫을 때 애니메이션 표시</string>
@@ -185,6 +196,7 @@
     <string name="lcd_features_info">최대 밝기 모드(HBM)는 직사광선 아래에서도 화면이 더 잘 보이도록 최대 밝기를 더 높입니다. 배터리 소모량이 증가합니다.\n\n콘텐츠 적응형 백라이트 제어(CABC)는 화면이 잘 보이도록 하면서 배터리 소모량을 줄이기 위해 현재 보여지는 콘텐츠를 바탕으로 화면과 백라이트의 밝기를 조절합니다.</string>
     <string name="kernel_not_supported">커널에서 이 기능을 지원하지 않습니다</string>
     <string name="lcd_hbm_title">최대 밝기 모드</string>
+    <string name="lcd_hbm_summary">햇빛 아래에서 화면 밝기 증가</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">사용</string>
     <string name="lcd_hbm_title_disabled">사용 안 함</string>

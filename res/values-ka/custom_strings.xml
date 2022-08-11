@@ -61,6 +61,12 @@
     <string name="dirac_preset_dance">ცეკვა</string>
     <string name="dirac_preset_metal">მეტალი</string>
     <string name="dirac_preset_bass_booster">ბასების გამაძლიერებელი</string>
+    <string name="dirac_preset_balanced">დაბალანსებული</string>
+    <string name="dirac_preset_bass_reduction">ბასის შემცირება</string>
+    <string name="music_headset_scenario_intelligent">ჭკვიანი</string>
+    <string name="music_headset_scenario_music">მუსიკა</string>
+    <string name="music_headset_scenario_video">ვიდეო</string>
+    <string name="music_headset_scenario_vocal">ხმა</string>
     <string name="popup_settings_title">ამომხტარი კამერის პარამეტრები</string>
     <string name="popup_led_title">ფერადი კამერა</string>
     <string name="popup_led_summary">აჩვენეთ ფერადი შუქი წინა კამერის გახსნისას და დახურვისას</string>

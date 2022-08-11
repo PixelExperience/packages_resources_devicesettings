@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Χορός</string>
     <string name="dirac_preset_metal">Μέταλ</string>
     <string name="dirac_preset_bass_booster">Ενισχυτικό Μπάσων</string>
+    <string name="dirac_preset_live">Ζωντανά</string>
+    <string name="dirac_preset_balanced">Ισορροπημένο</string>
+    <string name="dirac_preset_bass_reduction">Μείωση Μπάσου</string>
+    <string name="dirac_preset_treble_reduction">Μείωση Πρίμων</string>
+    <string name="dirac_preset_soft_bass">Απαλό Μπάσο</string>
+    <string name="dirac_preset_soft_treble">Απαλό Πρίμα</string>
+    <string name="music_headset_scenario_select">Επιλογή σκηνικού</string>
+    <string name="music_headset_scenario_intelligent">Έξυπνο</string>
+    <string name="music_headset_scenario_music">Μουσική</string>
+    <string name="music_headset_scenario_video">Βίντεο</string>
+    <string name="music_headset_scenario_vocal">Φωνή</string>
     <string name="popup_settings_title">Ρυθμίσεις εμφανιζόμενης κάμερας</string>
     <string name="popup_led_title">LED φωτογραφικής μηχανής</string>
     <string name="popup_led_summary">Άναψε το LED όταν η εμπρόσθια κάμερα εμφανίζεται και κλείνει</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Η Λειτουργία Υψηλής Φωτεινότητας (HBM) αυξάνει τη μέγιστη φωτεινότητα της οθόνης για να βελτιώσει την ορατότητα κάτω από το φως του ήλιου.  Αυξάνει την κατανάλωση ενέργειας.\n\nΟ Προσαρμοστικός Έλεγχος Οπίσθιου Φωτισμού Περιεχομένου (CABC) προσαρμόζει τη φωτεινότητα της οθόνης και του οπίσθιου φωτισμού με βάση το περιεχόμενο που εμφανίζεται τρέχουσα στιγμή, για μείωση της κατανάλωσης ενέργειας χωρίς υποβάθμιση</string>
     <string name="kernel_not_supported">Ο kernel δεν υποστήριζε αυτήν τη δυνατότητα</string>
     <string name="lcd_hbm_title">Λειτουργία Υψηλής Φωτεινότητας</string>
+    <string name="lcd_hbm_summary">Αύξηση φωτεινότητας οθόνης κάτω από το φως του ήλιου</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Ενεργοποιημένο</string>
     <string name="lcd_hbm_title_disabled">Απενεργοποιημένο</string>

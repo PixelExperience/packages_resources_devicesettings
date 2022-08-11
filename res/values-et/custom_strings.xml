@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Tants</string>
     <string name="dirac_preset_metal">Metral</string>
     <string name="dirac_preset_bass_booster">Bassivõimendi</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Tasakaalustatud</string>
+    <string name="dirac_preset_bass_reduction">Bassi vähendamine</string>
+    <string name="dirac_preset_treble_reduction">Kõrgete toonide vähendamine</string>
+    <string name="dirac_preset_soft_bass">Mahe bass</string>
+    <string name="dirac_preset_soft_treble">Mahedad kõrged toonid</string>
+    <string name="music_headset_scenario_select">Valige stseen</string>
+    <string name="music_headset_scenario_intelligent">Nutikas</string>
+    <string name="music_headset_scenario_music">Muusika</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Heli</string>
     <string name="popup_settings_title">Pop-up kaamera seaded</string>
     <string name="popup_led_title">Kaamera LED</string>
     <string name="popup_led_summary">Esikaamera ilmumisel ja tagasitõmbumisel näidake LED-valgust</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">HBM (Kõrge heleduse režiim) suurendab ekraani maksimaalset heledust, et parandada nähtavust päikesevalguse käes. Suurendab energiatarbimist.\n\nAdaptiivne taustvalgustuse juhtimine (CABC) reguleerib ekraani ja taustvalgustuse heledust vastavalt praegu näidatud sisule, et vähendada energiatarvet ilma, et kvaliteet halveneks. </string>
     <string name="kernel_not_supported">Kernel seda funktsiooni ei toetanud</string>
     <string name="lcd_hbm_title">Kõrge heleduse režiim</string>
+    <string name="lcd_hbm_summary">Suurendage päikesevalguse käes ekraani heledust</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Lubatud</string>
     <string name="lcd_hbm_title_disabled">Keelatud</string>

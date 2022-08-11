@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">متال</string>
     <string name="dirac_preset_bass_booster">تقویت باس</string>
+    <string name="dirac_preset_live">زنده</string>
+    <string name="dirac_preset_balanced">متعادل</string>
+    <string name="dirac_preset_bass_reduction">کاهش صدای باس</string>
+    <string name="dirac_preset_treble_reduction">کاهش صدای زیر</string>
+    <string name="dirac_preset_soft_bass">صدای باس ملایم</string>
+    <string name="dirac_preset_soft_treble">صدای زیر ملایم</string>
+    <string name="music_headset_scenario_select">انتخاب حالت</string>
+    <string name="music_headset_scenario_intelligent">هوشمند</string>
+    <string name="music_headset_scenario_music">موسیقی</string>
+    <string name="music_headset_scenario_video">ویدیو</string>
+    <string name="music_headset_scenario_vocal">صدا</string>
     <string name="popup_settings_title">تنظیمات دوربین بیرون جهنده</string>
     <string name="popup_led_title">نشانگر دوربین</string>
     <string name="popup_led_summary">هنگامی که دوربین جلو ظاهر می شود و مخفی می شود ، چراغ LED نشان داده شود</string>
@@ -184,6 +195,7 @@
 تنظیم نور زمینه مطابق با محتوا (CABC) برای کاهش مصرف انرژی بدون افت کیفیت، نمایشگر و نور زمینه را مطابق با محتوای در حال نمایش، تنظیم می‌کند.</string>
     <string name="kernel_not_supported">سیستم‌عامل از این ویژگی پشتیبانی نمی‌کند</string>
     <string name="lcd_hbm_title">حالت روشنایی بالا</string>
+    <string name="lcd_hbm_summary">افزایش میزان روشنایی در زیر نور آفتاب</string>
     <string name="lcd_hbm_tile_title">حالت بیشینه روشنایی صفحه</string>
     <string name="lcd_hbm_title_enabled">فعال شده</string>
     <string name="lcd_hbm_title_disabled">غیرفعال</string>

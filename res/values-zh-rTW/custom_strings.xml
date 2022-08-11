@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">舞曲</string>
     <string name="dirac_preset_metal">金屬</string>
     <string name="dirac_preset_bass_booster">低音強化</string>
+    <string name="dirac_preset_live">現場</string>
+    <string name="dirac_preset_balanced">平衡</string>
+    <string name="dirac_preset_bass_reduction">低音弱化</string>
+    <string name="dirac_preset_treble_reduction">高音弱化</string>
+    <string name="dirac_preset_soft_bass">柔和低音</string>
+    <string name="dirac_preset_soft_treble">柔和高音</string>
+    <string name="music_headset_scenario_select">選取場景</string>
+    <string name="music_headset_scenario_intelligent">智慧</string>
+    <string name="music_headset_scenario_music">音樂</string>
+    <string name="music_headset_scenario_video">影片</string>
+    <string name="music_headset_scenario_vocal">語音</string>
     <string name="popup_settings_title">彈出式相機設定</string>
     <string name="popup_led_title">相機 LED</string>
     <string name="popup_led_summary">當前置相機升降時顯示 LED 燈</string>
@@ -81,7 +92,7 @@
     <string name="stop_operate_camera_frequently">請勿頻繁開關前置相機</string>
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
-    <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置相機……</string>
+    <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置相機…</string>
     <string name="clear_speaker_title">清理喇叭</string>
     <string name="clear_speaker_summary">播放 30 秒的音訊以清理喇叭</string>
     <string name="clear_speaker_description">如果發現喇叭被灰塵輕輕遮住，請執行此功能一次或兩次。 將媒體音量設為最大。\n\n如果喇叭嚴重阻塞，請在喇叭朝下搖動裝置的同時執行此功能 2-5 次。</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">高亮度模式 (HBM) 增加螢幕的最大亮度改善在陽光下的可視性。 增加功耗。\n\n內容自適應背光控制(CABC)根據目前顯示的內容調整螢幕和背光亮度，以無損的情況下降低功耗。</string>
     <string name="kernel_not_supported">此核心不支持該功能</string>
     <string name="lcd_hbm_title">高亮度模式</string>
+    <string name="lcd_hbm_summary">在陽光下增加螢幕亮度</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">已啟用</string>
     <string name="lcd_hbm_title_disabled">已停用</string>

@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster</string>
+    <string name="dirac_preset_live">Uživo</string>
+    <string name="dirac_preset_balanced">Uravnoteženo</string>
+    <string name="dirac_preset_bass_reduction">Smanjenje basa</string>
+    <string name="dirac_preset_treble_reduction">Smanjenje visokih tonova</string>
+    <string name="dirac_preset_soft_bass">Nježni bas</string>
+    <string name="dirac_preset_soft_treble">Nježni visoki tonovi</string>
+    <string name="music_headset_scenario_select">Odaberi prizor</string>
+    <string name="music_headset_scenario_intelligent">Smart</string>
+    <string name="music_headset_scenario_music">Glazba</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Glas</string>
     <string name="popup_settings_title">Postavke Pop-up kamere</string>
     <string name="popup_led_title">LED kamere</string>
     <string name="popup_led_summary">Prikažite LED svjetlo kada se prednja kamera pojavi i povuče</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Način rada visoke svjetline (HBM) povećava maksimalnu svjetlinu zaslona kako bi se poboljšala vidljivost pod sunčevim svjetlom. Povećava potrošnju energije.\n\nPrilagodljiva kontrola pozadinskog osvjetljenja sadržaja (CABC) prilagođava svjetlinu zaslona i pozadinskog osvjetljenja na temelju trenutno prikazanog sadržaja, kako bi se smanjila potrošnja energije bez degradacije.</string>
     <string name="kernel_not_supported">Kernel nije podržavao ovu značajku</string>
     <string name="lcd_hbm_title">Način rada visoke svjetline</string>
+    <string name="lcd_hbm_summary">Povećaj svjetlinu zaslona pod sunčevim svjetlom</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Omogućeno</string>
     <string name="lcd_hbm_title_disabled">Onemogućeno</string>

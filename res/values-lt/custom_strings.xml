@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Šokių</string>
     <string name="dirac_preset_metal">Metalas</string>
     <string name="dirac_preset_bass_booster">Žemųjų dažnių stiprintuvas</string>
+    <string name="dirac_preset_live">Tiesiogiai</string>
+    <string name="dirac_preset_balanced">Subalansuota</string>
+    <string name="dirac_preset_bass_reduction">Žemųjų dažnių mažinimas</string>
+    <string name="dirac_preset_treble_reduction">Aukštų dažnių mažinimas</string>
+    <string name="dirac_preset_soft_bass">Švelnus Bosas</string>
+    <string name="dirac_preset_soft_treble">Švelnus Diskantas</string>
+    <string name="music_headset_scenario_select">Pasirinkti sceną</string>
+    <string name="music_headset_scenario_intelligent">Išmanus</string>
+    <string name="music_headset_scenario_music">Muzika</string>
+    <string name="music_headset_scenario_video">Vaizdo įrašas</string>
+    <string name="music_headset_scenario_vocal">Balsas</string>
     <string name="popup_settings_title">Iššokančiųjų fotoaparatų nustatymai</string>
     <string name="popup_led_title">LED kamera</string>
     <string name="popup_led_summary">Blykstės šviesos diodas, kai priekinė kamera yra išstumiama ir įtraukiama</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Didelio ryškumo režimas (HBM) padidina maksimalų ekrano ryškumą, kad pagerintų matomumą saulės šviesoje. Padidina energijos suvartojimą.\n\nAdaptyvusis foninio apšvietimo valdymas (CABC) koreguoja ekrano ir foninio apšvietimo ryškumą pagal esamą turinį, kad sumažintų energijos suvartojimą nepakenkiant vaizdo kokybei.</string>
     <string name="kernel_not_supported">Branduolys nepalaiko šios funkcijos</string>
     <string name="lcd_hbm_title">Didelio ryškumo režimas</string>
+    <string name="lcd_hbm_summary">Padidinkite ekrano ryškumą saulės šviesoje</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Įjungta</string>
     <string name="lcd_hbm_title_disabled">Išjungta</string>

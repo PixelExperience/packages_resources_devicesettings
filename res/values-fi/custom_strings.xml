@@ -61,6 +61,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metalli</string>
     <string name="dirac_preset_bass_booster">Basson korostus</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Tasapainotettu</string>
+    <string name="dirac_preset_bass_reduction">Basson vaimennus</string>
+    <string name="dirac_preset_treble_reduction">Diskantin vaimennus</string>
+    <string name="dirac_preset_soft_bass">Pehmeä basso</string>
+    <string name="dirac_preset_soft_treble">Pehmeä diskantti</string>
+    <string name="music_headset_scenario_select">Valitse tila</string>
+    <string name="music_headset_scenario_intelligent">Älykäs</string>
+    <string name="music_headset_scenario_music">Musiikki</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Puhe</string>
     <string name="popup_settings_title">Popup-kameran asetukset</string>
     <string name="popup_led_title">Kameran LED</string>
     <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja vetäytyy</string>
@@ -183,6 +194,7 @@
     <string name="lcd_features_info">Korkean kirkkauden tila (HBM) lisää näytön maksimikirkkautta näkyvyyden parantamiseksi auringonvalossa. Lisää virrankulutusta.\n\nSisältöön mukautuva näytön taustavalaistus (CABC) säätää näytön ja taustavalon kirkkauden näytön sisällön perusteella virrankulutuksen vähentämiseksi laadun kärsimättä.</string>
     <string name="kernel_not_supported">Kernel ei tue tätä toimintoa</string>
     <string name="lcd_hbm_title">Korkean kirkkauden tila</string>
+    <string name="lcd_hbm_summary">Lisää näytön kirkkautta auringonvalossa</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Käytössä</string>
     <string name="lcd_hbm_title_disabled">Pois käytöstä</string>
