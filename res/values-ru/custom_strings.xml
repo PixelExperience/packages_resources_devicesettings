@@ -61,7 +61,7 @@
     <string name="dirac_preset_dance">Танцевальная</string>
     <string name="dirac_preset_metal">Металл</string>
     <string name="dirac_preset_bass_booster">Усилитель басов</string>
-    <string name="dirac_preset_live">Реальный</string>
+    <string name="dirac_preset_live">Сейчас</string>
     <string name="dirac_preset_balanced">Баланс</string>
     <string name="dirac_preset_bass_reduction">Понизить НЧ</string>
     <string name="dirac_preset_treble_reduction">Понизить ВЧ</string>

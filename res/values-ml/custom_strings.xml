@@ -16,6 +16,7 @@
 -->
 <resources>
     <string name="display_title">ഡിസ്പ്ലേ</string>
+    <string name="dc_dimming_enable_title">മങ്ങൽ ഒഴിവാക്കുക</string>
     <string name="dirac_title">Mi ശബ്ദ എൻഹാൻസർ</string>
     <string name="dirac_summary">ഓഡിയോ ഗുണനിലവാരം ഒപ്റ്റിമൈസുചെയ്യുക</string>
     <string name="dirac_headset_title">ഹെഡ്ഫോൺ ടൈപ്പ് തിരഞ്ഞെടുക്കുക</string>
@@ -129,5 +130,6 @@
     <string name="button_settings_title">ബട്ടണുകൾ</string>
     <string name="lcd_hbm_title_enabled">പ്രവർത്തനമാക്കുക</string>
     <string name="lcd_hbm_title_disabled">പ്രവർത്തനരഹിതമായി</string>
+    <string name="lcd_cabc_off">ഓഫ്</string>
     <string name="refresh_default">ഡിഫോൾട്ട്</string>
 </resources>

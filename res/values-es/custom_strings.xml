@@ -167,7 +167,7 @@
     <string name="thermal_streaming">Aplicaciones de streaming</string>
     <string name="raise_to_wake_gesture_title">Levantar para despertar</string>
     <string name="raise_to_wake_gesture_summary">Activar el dispositivo en lugar de la notificación pulsante</string>
-    <string name="device_min_refresh_rate">Tasa de refresco mínima</string>
+    <string name="device_min_refresh_rate">Tasa de actualización mínima</string>
     <string name="device_power_save_refresh_rate">Ahorrar bateria automáticamente</string>
     <string name="device_power_save_refresh_rate_switch">Disminuir automaticamente la frecuencia de actualización cuando el economizador de bateria este activado</string>
     <string name="refresh_rate_settings_title">Frecuencia de actualización de la pantalla</string>

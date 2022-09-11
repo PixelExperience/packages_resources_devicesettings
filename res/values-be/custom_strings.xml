@@ -61,6 +61,9 @@
     <string name="dirac_preset_dance">Танцавальная</string>
     <string name="dirac_preset_metal">Метал</string>
     <string name="dirac_preset_bass_booster">Узмацненне басоў</string>
+    <string name="music_headset_scenario_music">Музыка</string>
+    <string name="music_headset_scenario_video">Відэа</string>
+    <string name="music_headset_scenario_vocal">Голас</string>
     <string name="popup_settings_title">Налады ўсплывальнай камеры</string>
     <string name="popup_led_title">LED індыкацыя камеры</string>
     <string name="popup_led_summary">Паказваць LED індыкацыю пры адкрыцці і закрыцці франтальнай камеры</string>
@@ -183,6 +186,7 @@
     <string name="lcd_features_info">Рэжым падвышанай яркасці (HBM) павялічвае максімальную яркасць дысплея для паляпшэння бачнасці пры сонечным святле. Павялічвае энергаспажыванне.\n\nАдаптыўнае кіраванне падсветкай (CABC) рэгулюе яркасць дысплея і падсветкі ў залежнасці ад бягучага змесціва, каб знізіць энергаспажыванне без пагаршэння якасці малюнка.</string>
     <string name="kernel_not_supported">Ядро не падтрымлівае гэту функцию</string>
     <string name="lcd_hbm_title">Рэжым высокай яркасці</string>
+    <string name="lcd_hbm_summary">Павелічэнне яркасці экрана пры сонечным святле</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Задзейнічана</string>
     <string name="lcd_hbm_title_disabled">Не задзейнічана</string>

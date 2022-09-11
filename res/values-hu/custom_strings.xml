@@ -216,4 +216,6 @@
     <string name="refresh_medium">Közepes (60Hz)</string>
     <string name="refresh_high">Magas (90Hz)</string>
     <string name="refresh_extreme">Extrém (120Hz)</string>
+    <string name="powershare_enable_title">Akkumegosztás</string>
+    <string name="powershare_enable_summary">Más eszköz töltése ha a saját telefonja hátlapjára helyezi</string>
 </resources>
