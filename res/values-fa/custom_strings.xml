@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="display_title">صفحه نمایش</string>
+    <string name="display_title">صفحه‌نمایش</string>
     <string name="dc_dimming_enable_title">ضد پرش تصویر</string>
     <string name="dc_dimming_enable_summary">ممکن است دقت رنگ را تضعیف کرده و نحوه نمایش برخی موارد را تحت تأثیر قرار دهد.</string>
     <string name="dc_dimming_enable_summary_not_supported">درحال حاضر قابلیت ضد پرش تصویر توسط کرنل پشتیبانی نمیشود</string>
@@ -206,6 +206,7 @@
     <string name="lcd_cabc_medium">متوسط (مناسب برای ویدیو)</string>
     <string name="lcd_cabc_high">زیاد (مناسب برای عکس)</string>
     <string name="doze_brightness_title">روشنایی نمایشگر همیشه روشن</string>
+    <string name="doze_brightness_summary">حالت %s فعال شده است</string>
     <string name="doze_brightness_low">روشنایی کم</string>
     <string name="doze_brightness_high">روشنایی زیاد</string>
     <string name="doze_brightness_adaptive">روشنایی تطبیقی</string>
@@ -216,4 +217,6 @@
     <string name="refresh_medium">متوسط (60Hz)</string>
     <string name="refresh_high">زیاد (90Hz)</string>
     <string name="refresh_extreme">شدید (120Hz)</string>
+    <string name="powershare_enable_title">سهم باتری</string>
+    <string name="powershare_enable_summary">سایر دستگاه ها را با قرار دادن آنها در پشت دستگاه تلفن خود شارژ کنید</string>
 </resources>

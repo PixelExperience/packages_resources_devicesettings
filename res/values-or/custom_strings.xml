@@ -61,7 +61,7 @@
     <string name="dirac_preset_dance">ନୃତ୍ୟ</string>
     <string name="dirac_preset_metal">ମେଟାଲ୍</string>
     <string name="dirac_preset_bass_booster">ବାସ୍ ବୁଷ୍ଟର୍</string>
-    <string name="dirac_preset_live">ଜୀବନ୍ତ</string>
+    <string name="dirac_preset_live">ଜୀଵନ୍ତ</string>
     <string name="music_headset_scenario_music">ସଙ୍ଗୀତ</string>
     <string name="music_headset_scenario_video">ଵିଡ଼ିଓ</string>
     <string name="popup_settings_title">ପପ୍-ଅପ୍ କ୍ୟାମେରା ସେଟିଙ୍ଗ୍ |</string>
@@ -105,8 +105,8 @@
     <string name="action_back">ପଛକୁ</string>
     <string name="action_recents">ଗ୍ରହଣ</string>
     <string name="action_last_app">ଶେଷ ଆପ୍ |</string>
-    <string name="action_volume_up">ଭଲ୍ୟୁମ୍ ବୃଦ୍ଧି</string>
-    <string name="action_volume_down">ଭଲ୍ୟୁମ୍ ହ୍ରାସ</string>
+    <string name="action_volume_up">ଵଲ୍ୟୁମ୍ ଵୃଦ୍ଧି</string>
+    <string name="action_volume_down">ଵଲ୍ୟୁମ୍ ହ୍ରାସ</string>
     <string name="action_voice_assistant">ଭଏସ୍ ସହାୟକ</string>
     <string name="action_play_pause">ଖେଳ / ବିରାମ |</string>
     <string name="action_previous_track">ପୂର୍ବ ଟ୍ରାକ୍</string>
@@ -145,7 +145,7 @@
     <string name="notification_slider_mode_total_silence">ସମ୍ପୂର୍ଣ୍ଣ ନୀରବତା</string>
     <string name="notification_slider_mode_alarms_only">କେବଳ ଆଲାର୍ମ |</string>
     <string name="notification_slider_mode_priority_only">କେବଳ ପ୍ରାଧାନ୍ୟ</string>
-    <string name="notification_slider_mode_silent">ନୀରବ</string>
+    <string name="notification_slider_mode_silent">ନୀରଵ</string>
     <string name="notification_slider_mode_vibrate">କମ୍ପନ</string>
     <string name="notification_slider_mode_none">ସାଧାରଣ</string>
     <string name="thermal_title">ଅପ୍ଟିମାଇଜେସନ୍ ପ୍ରୋଫାଇଲ୍ |</string>
