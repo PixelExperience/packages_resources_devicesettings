@@ -61,6 +61,7 @@
     <string name="dirac_preset_dance">ცეკვა</string>
     <string name="dirac_preset_metal">მეტალი</string>
     <string name="dirac_preset_bass_booster">ბასების გამაძლიერებელი</string>
+    <string name="dirac_preset_live">ცოცხალი</string>
     <string name="dirac_preset_balanced">დაბალანსებული</string>
     <string name="dirac_preset_bass_reduction">ბასის შემცირება</string>
     <string name="music_headset_scenario_intelligent">ჭკვიანი</string>

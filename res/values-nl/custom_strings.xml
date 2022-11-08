@@ -61,6 +61,13 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Gebalanceerd</string>
+    <string name="music_headset_scenario_select">Selecteer een scène</string>
+    <string name="music_headset_scenario_intelligent">Slim</string>
+    <string name="music_headset_scenario_music">Muziek</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Spraak</string>
     <string name="popup_settings_title">Pop-up camera-instellingen</string>
     <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">LED aanschakelen wanneer de pop-up camera opent en sluit</string>
@@ -179,8 +186,10 @@
     <string name="stylus_title">Styluspen</string>
     <string name="hbm_title">Hoge helderheidsmodus</string>
     <string name="lcd_features_title">Extra schermfuncties</string>
+    <string name="lcd_features_info">De Hoge HelderheidsModus (HHM) verhoogt de maximale helderheid van het scherm om de leesbaarheid in de zon te verbeteren. Dit verhoogt het batterijverbruik.\n\nCABC(de regelbare scherm-achtergrondverlichting) past de achtergrondhelderheid aan van het scherm, gebaseerd op de werkelijke weergave op het scherm. Het batterijverbruik wordt verminderd zonder kwaliteitsverlies.</string>
     <string name="kernel_not_supported">Kernel ondersteunt deze functie niet</string>
     <string name="lcd_hbm_title">Hoge helderheidsmodus</string>
+    <string name="lcd_hbm_summary">Verhoog helderheid bij zonlicht</string>
     <string name="lcd_hbm_tile_title">HHM</string>
     <string name="lcd_hbm_title_enabled">Ingeschakeld</string>
     <string name="lcd_hbm_title_disabled">Uitgeschakeld</string>
@@ -200,4 +209,6 @@
     <string name="refresh_medium">Medium (60Hz)</string>
     <string name="refresh_high">Hoog (90Hz)</string>
     <string name="refresh_extreme">Extreem (120Hz)</string>
+    <string name="powershare_enable_title">Batterij delen</string>
+    <string name="powershare_enable_summary">Laad andere apparaten op door ze op de achterkant van je telefoon te leggen</string>
 </resources>

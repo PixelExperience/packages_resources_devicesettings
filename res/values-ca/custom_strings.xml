@@ -49,6 +49,11 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Auriculars Mi Bàsic</string>
     <string name="dirac_headset_earphone">Mi Auriculars</string>
+    <string name="dirac_headset_ear_four">Auriculars Mi Quadruple Driver</string>
+    <string name="dirac_headset_piston_typec">Auriculars Mi In-Ear (tipus C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth Earphones</string>
+    <string name="dirac_headset_redmi_earphones">Redmi Earphones</string>
     <string name="dirac_preset_default">Predeterminada</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -61,6 +66,17 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metall</string>
     <string name="dirac_preset_bass_booster">Reforç de greus</string>
+    <string name="dirac_preset_live">En viu</string>
+    <string name="dirac_preset_balanced">Equilibrat</string>
+    <string name="dirac_preset_bass_reduction">Reducció de baixos</string>
+    <string name="dirac_preset_treble_reduction">Reducció d\'aguts</string>
+    <string name="dirac_preset_soft_bass">Baix suau</string>
+    <string name="dirac_preset_soft_treble">Agut suau</string>
+    <string name="music_headset_scenario_select">Seleccionar escena</string>
+    <string name="music_headset_scenario_intelligent">Intel·ligent</string>
+    <string name="music_headset_scenario_music">Música</string>
+    <string name="music_headset_scenario_video">Vídeo</string>
+    <string name="music_headset_scenario_vocal">Veu</string>
     <string name="popup_settings_title">Configuració de la càmera Pop-up</string>
     <string name="popup_led_title">LED de la càmera</string>
     <string name="popup_led_summary">Mostra l\'animació LED quan la càmera frontal apareix i es retreu</string>
@@ -183,6 +199,7 @@
     <string name="lcd_features_info">El mode de brillantor alta (HBM) augmenta la brillantor màxima de la pantalla per millorar la visibilitat sota la llum solar. Incrementa el consum d\'energia.\n\n El CABC (Content Adaptive Backlight Control) ajusta la visualització i la brillantor de la llum del fons basant-se en el contingut que es mostra, per reduir el consum d\'energia sense degradació.</string>
     <string name="kernel_not_supported">El kernel no és compatible amb aquesta característica</string>
     <string name="lcd_hbm_title">Mode d\'alta brillantor</string>
+    <string name="lcd_hbm_summary">Augmenta la brillantor de la pantalla sota la llum del sol</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Activada</string>
     <string name="lcd_hbm_title_disabled">Deshabilitat</string>
@@ -204,4 +221,6 @@
     <string name="refresh_medium">Mitjana (60Hz)</string>
     <string name="refresh_high">Alta (90Hz)</string>
     <string name="refresh_extreme">Extrema (120Hz)</string>
+    <string name="powershare_enable_title">Compartir bateria</string>
+    <string name="powershare_enable_summary">Carrega altres dispositius colocant-los al darrera del teu dispositiu</string>
 </resources>

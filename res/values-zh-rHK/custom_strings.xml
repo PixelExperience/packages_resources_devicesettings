@@ -188,5 +188,7 @@
     <string name="doze_brightness_low">低亮度</string>
     <string name="doze_brightness_high">高亮度</string>
     <string name="doze_brightness_adaptive">自動調校光暗</string>
+    <string name="refresh_title">每個應用程式的重新整理頻率</string>
+    <string name="refresh_summary">為每個應用程式設定特定的重新整理頻率</string>
     <string name="refresh_default">預設</string>
 </resources>

@@ -49,6 +49,11 @@
     <string name="dirac_headset_in_ear2">„Mi In-Ear 2“</string>
     <string name="dirac_headset_earphone_basic">Įprastos „Mi“ ausinės</string>
     <string name="dirac_headset_earphone">„Mi“ ausinės</string>
+    <string name="dirac_headset_ear_four">„Mi Quadruple Driver“ ausinės</string>
+    <string name="dirac_headset_piston_typec">„Mi“ į ausis įdedamos ausinės (C tipo)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth apyrankė</string>
+    <string name="dirac_headset_bluetooth_linefree">„Mi Bluetooth“ ausinės</string>
+    <string name="dirac_headset_redmi_earphones">Redmi ausinės</string>
     <string name="dirac_preset_default">Numatytieji</string>
     <string name="dirac_preset_rock">Rokas</string>
     <string name="dirac_preset_jazz">Džiazas</string>
