@@ -49,6 +49,8 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth ყურსასმენები</string>
+    <string name="dirac_headset_redmi_earphones">Redmi-ს ყურსასმენები</string>
     <string name="dirac_preset_default">ნაგულისხმევი</string>
     <string name="dirac_preset_rock">როკი</string>
     <string name="dirac_preset_jazz">ჯაზი</string>
@@ -64,6 +66,7 @@
     <string name="dirac_preset_live">ცოცხალი</string>
     <string name="dirac_preset_balanced">დაბალანსებული</string>
     <string name="dirac_preset_bass_reduction">ბასის შემცირება</string>
+    <string name="dirac_preset_soft_bass">მსუბუქი ბასი</string>
     <string name="music_headset_scenario_intelligent">ჭკვიანი</string>
     <string name="music_headset_scenario_music">მუსიკა</string>
     <string name="music_headset_scenario_video">ვიდეო</string>

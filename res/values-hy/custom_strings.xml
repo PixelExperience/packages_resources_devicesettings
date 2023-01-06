@@ -17,6 +17,7 @@
 <resources>
     <string name="display_title">Էկրան</string>
     <string name="dc_dimming_enable_title">Պաշտպանություն թարթումից</string>
+    <string name="dirac_enable">Օգտագործել Mi Ձայնի բարելավումը</string>
     <string name="dirac_title">Mi Ձայնի բարելավում</string>
     <string name="dirac_summary">Օպտիմիզացնել ձայնի որակը</string>
     <string name="dirac_headset_title">Ընտրել ականջակալների տեսակը</string>
@@ -46,6 +47,11 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_ear_four">Mi Quadruple Driver  Ականջակալներ</string>
+    <string name="dirac_headset_piston_typec">Mi In-Ear  Ականջակալներ (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth Ականջակալներ</string>
+    <string name="dirac_headset_redmi_earphones">Redmi  Ականջակալներ</string>
     <string name="dirac_preset_default">Կանխադրված</string>
     <string name="dirac_preset_rock">Ռոք</string>
     <string name="dirac_preset_jazz">Ջազ</string>
@@ -60,6 +66,9 @@
     <string name="dirac_preset_bass_booster">Բասերի ուժգնացում</string>
     <string name="dirac_preset_live">Կենդանի</string>
     <string name="dirac_preset_balanced">Հավասարակշռված</string>
+    <string name="dirac_preset_soft_bass">Փափուկ բաս</string>
+    <string name="dirac_preset_soft_treble">Փափուկ սոլ</string>
+    <string name="music_headset_scenario_select">Ընտրել բեմը</string>
     <string name="music_headset_scenario_intelligent">Խելացի</string>
     <string name="music_headset_scenario_music">Երաժշտություն</string>
     <string name="music_headset_scenario_video">Տեսանյութ</string>
@@ -137,6 +146,7 @@
     <string name="notification_slider_mode_silent">Լուռ</string>
     <string name="notification_slider_mode_vibrate">Թրթռալ</string>
     <string name="notification_slider_mode_none">Նորմալ</string>
+    <string name="thermal_title">Օպտիմալացման պրոֆիլները</string>
     <string name="thermal_default">Օպտիմալացված է</string>
     <string name="thermal_benchmark">Արդյունավետություն</string>
     <string name="thermal_browser">Դիտարկիչ</string>
@@ -163,6 +173,7 @@
     <string name="lcd_cabc_low">Ցածր (UI)</string>
     <string name="lcd_cabc_medium">Միջին (Տեսանյութեր)</string>
     <string name="lcd_cabc_high">Բարձր (Նկարներ)</string>
+    <string name="doze_brightness_summary">%s ռեժիմը միացված է</string>
     <string name="doze_brightness_low">Ցածր պայծառություն</string>
     <string name="doze_brightness_high">Բարձր պայծառություն</string>
     <string name="doze_brightness_adaptive">Հարմարողական պայծառություն</string>

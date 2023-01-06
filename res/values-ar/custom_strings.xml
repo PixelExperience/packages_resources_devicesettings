@@ -49,6 +49,11 @@
     <string name="dirac_headset_in_ear2">سماعة Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">سماعة Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">سماعة Mi Earphones</string>
+    <string name="dirac_headset_ear_four">سماعات Mi Quadruple Driver</string>
+    <string name="dirac_headset_piston_typec">سماعات Mi In-Ear (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">سماعات Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">سماعات Mi Bluetooth</string>
+    <string name="dirac_headset_redmi_earphones">سماعات Redmi </string>
     <string name="dirac_preset_default">التطبيقات التلقائية</string>
     <string name="dirac_preset_rock">وضع الروك</string>
     <string name="dirac_preset_jazz">وضع الجازز</string>
