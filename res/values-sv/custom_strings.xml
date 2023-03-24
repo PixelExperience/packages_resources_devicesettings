@@ -175,5 +175,14 @@
     <string name="lcd_hbm_title_enabled">Aktiverad</string>
     <string name="lcd_hbm_title_disabled">Avaktiverad</string>
     <string name="lcd_cabc_off">Av</string>
+    <string name="doze_brightness_adaptive">Anpassad ljusstyrka</string>
+    <string name="refresh_title">Individuell uppdateringsfrekvens per app</string>
+    <string name="refresh_summary">Ställ in en individuell uppdateringsfrekvens för varje app</string>
     <string name="refresh_default">Standardinställning</string>
+    <string name="refresh_low">Låg (30Hz)</string>
+    <string name="refresh_medium">Medium (60Hz)</string>
+    <string name="refresh_high">Hög (90Hz)</string>
+    <string name="refresh_extreme">Extrem (120Hz)</string>
+    <string name="powershare_enable_title">Batteridelning</string>
+    <string name="powershare_enable_summary">Ladda andra enheter genom att placera dem på baksidan av din telefon</string>
 </resources>

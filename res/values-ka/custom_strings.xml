@@ -67,6 +67,7 @@
     <string name="dirac_preset_balanced">დაბალანსებული</string>
     <string name="dirac_preset_bass_reduction">ბასის შემცირება</string>
     <string name="dirac_preset_soft_bass">მსუბუქი ბასი</string>
+    <string name="music_headset_scenario_select">აირჩიეთ სცენა</string>
     <string name="music_headset_scenario_intelligent">ჭკვიანი</string>
     <string name="music_headset_scenario_music">მუსიკა</string>
     <string name="music_headset_scenario_video">ვიდეო</string>
@@ -193,6 +194,7 @@
     <string name="lcd_features_info">მაღალი სიკაშკაშის რეჟიმი (HBM) ზრდის ეკრანის მაქსიმალურ სიკაშკაშეს მზის სხივების ქვეშ ხილვადობის გასაუმჯობესებლად. ზრდის ენერგიის მოხმარებას.\n\nშინაარსის ადაპტირებადი განათების კონტროლი (CABC) არეგულირებს ეკრანისა და შუქის სიკაშკაშეს ამჟამად ნაჩვენები შინაარსის მიხედვით, რათა შეამციროს ენერგიის მოხმარება დეგრადაციის გარეშე.</string>
     <string name="kernel_not_supported">კერნელი არ უზრუნველყოფს ამ ფუნქციას</string>
     <string name="lcd_hbm_title">მაღალი ნათების რეჟიმი</string>
+    <string name="lcd_hbm_summary">გაზარდე განათება მზის ქვეშ</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">ჩართული</string>
     <string name="lcd_hbm_title_disabled">გამორთულია</string>

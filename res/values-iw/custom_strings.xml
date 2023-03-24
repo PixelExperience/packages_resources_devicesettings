@@ -61,6 +61,14 @@
     <string name="dirac_preset_dance">דאנס</string>
     <string name="dirac_preset_metal">מטאל</string>
     <string name="dirac_preset_bass_booster">מגביר בס</string>
+    <string name="dirac_preset_balanced">מאוזן</string>
+    <string name="dirac_preset_bass_reduction">הפחתת בס</string>
+    <string name="dirac_preset_treble_reduction">הפחתת טרבל</string>
+    <string name="music_headset_scenario_select">בחר סצנה</string>
+    <string name="music_headset_scenario_intelligent">חכם</string>
+    <string name="music_headset_scenario_music">מוזיקה</string>
+    <string name="music_headset_scenario_video">וידאו</string>
+    <string name="music_headset_scenario_vocal">שמע</string>
     <string name="popup_settings_title">הגדרות מצלמה נשלפת</string>
     <string name="popup_led_title">לד של המצלמה</string>
     <string name="popup_led_summary">הצג פנס לד כאשר המצלמה הקדמית מופיעה וממוקדת</string>

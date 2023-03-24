@@ -163,7 +163,13 @@
     <string name="touch_control_title">Էկրանի օպտիմալացում</string>
     <string name="touch_game_mode_title">Միացնել խաղի ռեժիմը</string>
     <string name="button_settings_title">Կոճակներ</string>
+    <string name="home_button_extra_settings">Կարգաբերել Տուն կոճակը</string>
+    <string name="assistant_button_action">Օգնականի կոճակի գործողությունը</string>
     <string name="stylus_title">Ստիլուս գրիչ</string>
+    <string name="hbm_title">Բարձր պայծառության ռեժիմ</string>
+    <string name="lcd_features_title">Էկրանի հավելյալ կարգավորումներ</string>
+    <string name="kernel_not_supported">Միջուկը չի աջակցում այս ֆունկցիան</string>
+    <string name="lcd_hbm_title">Բարձր պայծառության ռեժիմ</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Միացված է</string>
     <string name="lcd_hbm_title_disabled">Անջատված է</string>
@@ -173,6 +179,7 @@
     <string name="lcd_cabc_low">Ցածր (UI)</string>
     <string name="lcd_cabc_medium">Միջին (Տեսանյութեր)</string>
     <string name="lcd_cabc_high">Բարձր (Նկարներ)</string>
+    <string name="doze_brightness_title">Էկրանի պայծառությունը՝ կողպէկարնին</string>
     <string name="doze_brightness_summary">%s ռեժիմը միացված է</string>
     <string name="doze_brightness_low">Ցածր պայծառություն</string>
     <string name="doze_brightness_high">Բարձր պայծառություն</string>
