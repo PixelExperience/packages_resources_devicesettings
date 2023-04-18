@@ -49,6 +49,11 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_ear_four">Навушнікі Mi Quadruple Driver</string>
+    <string name="dirac_headset_piston_typec">Mi укладышы (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Патылічныя навушнікі Mi</string>
+    <string name="dirac_headset_bluetooth_linefree">Навушнікі Mi Bluetooth</string>
+    <string name="dirac_headset_redmi_earphones">Навушнікі Redmi</string>
     <string name="dirac_preset_default">Стандартныя</string>
     <string name="dirac_preset_rock">Рок</string>
     <string name="dirac_preset_jazz">Джаз</string>
@@ -61,6 +66,14 @@
     <string name="dirac_preset_dance">Танцавальная</string>
     <string name="dirac_preset_metal">Метал</string>
     <string name="dirac_preset_bass_booster">Узмацненне басоў</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Баланс</string>
+    <string name="dirac_preset_bass_reduction">Паслабленне басоў</string>
+    <string name="dirac_preset_treble_reduction">Аслабіць ВЧ</string>
+    <string name="dirac_preset_soft_bass">Мяккi бас</string>
+    <string name="dirac_preset_soft_treble">Мяккiя высокiя</string>
+    <string name="music_headset_scenario_select">Абярыце сцэну</string>
+    <string name="music_headset_scenario_intelligent">Smart</string>
     <string name="music_headset_scenario_music">Музыка</string>
     <string name="music_headset_scenario_video">Відэа</string>
     <string name="music_headset_scenario_vocal">Голас</string>

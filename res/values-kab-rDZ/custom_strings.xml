@@ -63,7 +63,7 @@
     <string name="allow_proximity_sensor_summary">Senqed amaṭṭaf n tanila send uselkem n tigawt </string>
     <string name="notification_slider_mode_none">Amagnu</string>
     <string name="thermal_camera">Takamiṛat</string>
-    <string name="lcd_hbm_title_disabled">Yettwassens</string>
+    <string name="lcd_hbm_title_disabled">Ssens</string>
     <string name="lcd_cabc_off">Yensa</string>
     <string name="refresh_default">Amezwer</string>
 </resources>
