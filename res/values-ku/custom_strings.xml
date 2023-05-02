@@ -111,5 +111,6 @@
     <string name="button_settings_title">دوگمەکان</string>
     <string name="lcd_hbm_title_enabled">چالاککراوە</string>
     <string name="lcd_hbm_title_disabled">ناچالاکە</string>
+    <string name="lcd_cabc_off">کوژاوە</string>
     <string name="refresh_default">بنەڕەت</string>
 </resources>

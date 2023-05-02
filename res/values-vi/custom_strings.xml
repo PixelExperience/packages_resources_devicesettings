@@ -138,7 +138,7 @@
     <string name="swipe_down_dlg_title">Chọn hành động cho vuốt xuống</string>
     <string name="tap_title">Chạm một lần</string>
     <string name="double_tap_title">Chạm hai lần</string>
-    <string name="long_tap_title">Chạm giữ</string>
+    <string name="long_tap_title">Nhấn giữ</string>
     <string name="tap_dlg_title">Chọn hành động cho một chạm</string>
     <string name="double_tap_dlg_title">Chọn hành động cho chạm hai lần</string>
     <string name="long_tap_dlg_title">Chọn hành động cho chạm giữ</string>
