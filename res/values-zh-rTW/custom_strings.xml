@@ -17,15 +17,15 @@
 <resources>
     <string name="display_title">顯示</string>
     <string name="dc_dimming_enable_title">防閃爍</string>
-    <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
-    <string name="dc_dimming_enable_summary_not_supported">內核當前不支持防閃爍</string>
+    <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來減少低光源環境下的眼睛疲勞。這可能會降低色彩準確性並影響某些項目的顯示方式。</string>
+    <string name="dc_dimming_enable_summary_not_supported">目前的系統內核不支持防閃爍</string>
     <string name="dirac_enable">使用 Mi Sound 增強器</string>
     <string name="dirac_title">Mi Sound 加強器</string>
     <string name="dirac_summary">最佳化音訊品質</string>
     <string name="dirac_headset_title">選擇耳機類型</string>
     <string name="dirac_preset_title">請選擇預設等化器</string>
     <string name="dirac_hifi_title">使用Hi-Fi高傳真播放</string>
-    <string name="dirac_hifi_summary">高度還原音源資訊，原汁原味</string>
+    <string name="dirac_hifi_summary">減少噪音和失真並提高音源品質。</string>
     <string name="dirac_hifi_enable_title">啟用Hi-fi</string>
     <string name="dirac_headset_default">預設</string>
     <string name="dirac_headset_earbuds">Xiaomi 耳塞式</string>
@@ -136,8 +136,8 @@
     <string name="swipe_right_dlg_title">選擇向右滑動的動作</string>
     <string name="swipe_up_dlg_title">選擇向上滑動的動作</string>
     <string name="swipe_down_dlg_title">選擇向下滑動的動作</string>
-    <string name="tap_title">單點</string>
-    <string name="double_tap_title">雙點</string>
+    <string name="tap_title">輕觸一下</string>
+    <string name="double_tap_title">輕觸兩下</string>
     <string name="long_tap_title">長按</string>
     <string name="tap_dlg_title">選擇輕觸一下的動作</string>
     <string name="double_tap_dlg_title">選擇點兩下的動作</string>
