@@ -150,7 +150,7 @@
     <string name="oneplus_advanced_settings_summary">Configuración personalizada del dispositivo</string>
     <string name="panel_modes_settings_title">Modos de panel</string>
     <string name="panel_modes_settings_summary">Seleccione una calibración de pantalla ya creada</string>
-    <string name="notification_slider_category_title">Alert Slider</string>
+    <string name="notification_slider_category_title">Control deslizante de alerta</string>
     <string name="notification_slider_selection_dialog_title">Acción</string>
     <string name="notification_slider_top_position">Posición superior</string>
     <string name="notification_slider_middle_position">Posición central</string>

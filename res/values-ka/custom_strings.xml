@@ -49,6 +49,8 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_ear_four">Mi Quadruple Driver-ის ყურსასმენები</string>
+    <string name="dirac_headset_piston_typec">Mi In ყურსასმენები (Type-C)</string>
     <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth ყურსასმენები</string>
     <string name="dirac_headset_redmi_earphones">Redmi-ს ყურსასმენები</string>
     <string name="dirac_preset_default">ნაგულისხმევი</string>
