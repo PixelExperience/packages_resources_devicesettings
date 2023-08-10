@@ -17,6 +17,7 @@
 <resources>
     <string name="display_title">Էկրան</string>
     <string name="dc_dimming_enable_title">Պաշտպանություն թարթումից</string>
+    <string name="dc_dimming_enable_summary">Հակաթրթռման ռեժիմն օգնում է նվազեցնել աչքերի լարվածությունը ցածր լույսի պայմաններում՝ օգտագործելով «DC dimming» գործառույթը: Այն կարող է իջացնել գույնի ճշգրտությունը և ազդել որոշ տարրերի ցուցադրման վրա:</string>
     <string name="dirac_enable">Օգտագործել Mi Ձայնի բարելավումը</string>
     <string name="dirac_title">Mi Ձայնի բարելավում</string>
     <string name="dirac_summary">Օպտիմիզացնել ձայնի որակը</string>
