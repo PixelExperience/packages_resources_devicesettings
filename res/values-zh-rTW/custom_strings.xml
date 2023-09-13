@@ -110,7 +110,7 @@
     <string name="fingerprint_gestures_manage_summary">管理指紋手勢</string>
     <string name="fingerprint_actions_screenon">螢幕開啟時依然啟用動作</string>
     <string name="fingerprint_gestures_screenoff_title">螢幕關閉時的指紋手勢</string>
-    <string name="fingerprint_gestures_screenoff_summary">螢幕關閉時使用指紋手勢。 \n\n指紋解鎖必須禁用才能使用此功能。</string>
+    <string name="fingerprint_gestures_screenoff_summary">螢幕關閉時使用指紋手勢。 \n\n指紋解鎖必須停用才能使用此功能。</string>
     <string name="fingerprint_actions_screenoff">關閉螢幕時的動作</string>
     <string name="action_home">主畫面</string>
     <string name="action_power">螢幕開啟/關閉</string>
@@ -222,5 +222,5 @@
     <string name="refresh_high">高 (90Hz)</string>
     <string name="refresh_extreme">極高 (120Hz)</string>
     <string name="powershare_enable_title">電力分享</string>
-    <string name="powershare_enable_summary">將其他設備放在手機背面，即可為其充電</string>
+    <string name="powershare_enable_summary">將其他設備放在裝置背面，即可為其充電</string>
 </resources>

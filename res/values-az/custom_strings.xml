@@ -196,7 +196,7 @@
     <string name="hbm_title">Yüksək parlaqlıq rejimi</string>
     <string name="lcd_features_title">Əlavə ekran özəllikləri</string>
     <string name="lcd_features_summary">Yüksək parlaqlıq rejimi (HBM) və Məzmuna uyğun arxa işıq nəzarəti (CABC)</string>
-    <string name="lcd_features_info">Yüksək parlaqlıq rejimi (HBM), gün işığı altında ekranın görünməsini yaxşılaşdırmaq üçün maksimum parlaqlığı artırır. Enerji istifadəsini artırır.\n\n\Məzmuna uyğun arxa işıq nəzarəti (CABC), enerji istifadəsini ekranda pozulma olmadan azaltmaq üçün ekran və arxa işıq parlaqlığını həmin an göstərilən məzmuna görə nizamlayır.</string>
+    <string name="lcd_features_info">Yüksək parlaqlıq rejimi (HBM), gün işığı altında ekranın görünməsini yaxşılaşdırmaq üçün maksimum parlaqlığı artırır. Enerji sərfiyyatını artırır.\n\n\Məzmuna uyğun arxa işıq nəzarəti (CABC), enerji istifadəsini ekranda pozulma olmadan azaltmaq üçün ekran və arxa işıq parlaqlığını həmin an göstərilən məzmuna görə nizamlayır.</string>
     <string name="kernel_not_supported">Kernel, bu özəlliyi dəstəkləmir</string>
     <string name="lcd_hbm_title">Yüksək parlaqlıq rejimi</string>
     <string name="lcd_hbm_summary">Günəş işığı altında ekran parlaqlığını artır</string>
@@ -222,5 +222,5 @@
     <string name="refresh_high">Yüksək (90Hz)</string>
     <string name="refresh_extreme">Ekstremal (120Hz)</string>
     <string name="powershare_enable_title">Batareya Paylaşma</string>
-    <string name="powershare_enable_summary">Digər cihaza enerji ötürmək üçün cihazı telefonunuzun arxasına qoyun</string>
+    <string name="powershare_enable_summary">Digər cihazları telefonunuzun arxasına qoyaraq doldurun</string>
 </resources>

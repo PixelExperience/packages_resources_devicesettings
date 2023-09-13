@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="dc_dimming_enable_title">Жыпылықтаудан қорғау</string>
     <string name="dirac_title">Mi дыбыс жақсарту</string>
     <string name="dirac_summary">Mi дыбыс жақсарту</string>
     <string name="dirac_headset_title">Құлаққап түрлері</string>
